@@ -18,7 +18,8 @@
     sequence:
       source: "contig00001"
   -
-    overlap:
+    unresolved:
+      length: 10
   -
     sequence:
       source: "scaffold00006"
