@@ -1,0 +1,101 @@
+---
+  -
+    sequence:
+      source:  "scaffold00002"
+      start:  678180
+  -
+    unresolved:
+      length: 400
+  -
+    sequence:
+      source: "scaffold00005"
+      reverse: true
+  # Scaffold00005 and contig00001 appear to be contiguous against reference
+  -
+    unresolved:
+      length: 10
+  -
+    sequence:
+      source: "contig00001"
+  -
+    overlap:
+  -
+    sequence:
+      source: "scaffold00006"
+  -
+    unresolved:
+      length: 500
+  -
+    sequence:
+      source: "scaffold00005"
+      reverse: true
+  -
+    unresolved:
+      length: 10
+  -
+    sequence:
+      source: "contig00001"
+  -
+    unresolved:
+      length: 300
+  # Scaffold00003 appears to have a non-matching 6,000bp sequence at start
+  -
+    sequence:
+      source: "scaffold00003"
+  # ... and a much larger non-matching 60,000bp sequence at end. This is much bigger than the estimated start for scaffold00005 in the refernce.
+  -
+    unresolved:
+      length: 50
+  -
+    sequence:
+      source: "contig00001"
+      reverse: true
+  -
+    unresolved:
+      length: 10
+  -
+    sequence:
+      source: "scaffold00005"
+  -
+    unresolved:
+      length: 300
+  -
+    sequence:
+      source: "scaffold00004"
+      reverse: true
+  -
+    unresolved:
+      length: 20
+  -
+    sequence:
+      source: "contig00001"
+      reverse: true
+  -
+    unresolved:
+      length: 10
+  -
+    sequence:
+      source: "scaffold00005"
+  -
+    unresolved:
+      length: 10
+  -
+    sequence:
+      source: "scaffold00001"
+  -
+    unresolved:
+      length: 30
+  -
+    sequence:
+      source: "contig00001"
+      reverse: true
+  -
+    sequence:
+      source: "scaffold00005"
+  -
+    unresolved:
+      length: 10
+  -
+    sequence:
+      source: "scaffold00002"
+      end: 678179
