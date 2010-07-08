@@ -48,6 +48,14 @@
     unresolved:
       length: 50
   -
+  # There is some recombination between scaffold3 and scafffold7
+  # It appears in the nucmer data that scaffold7 is more likely to come after scaffold3
+    sequence:
+      source: "scaffold00007"
+  -
+    unresolved:
+      length: 10
+  -
     sequence:
       source: "contig00001"
       reverse: true
