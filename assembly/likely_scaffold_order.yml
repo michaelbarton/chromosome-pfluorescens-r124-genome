@@ -23,6 +23,15 @@
   -
     sequence:
       source: "scaffold00006"
+      inserts:
+      -
+        source: "s00002c00008c00009"
+        start: 194778
+        end: 196289
+      -
+        source: "s00002c00007c00008"
+        start: 599099
+        end: 600035
   -
     unresolved:
       length: 500
@@ -43,6 +52,79 @@
   -
     sequence:
       source: "scaffold00003"
+      inserts:
+      - 
+        source: "s00006c00160c00161"
+        start: 1175737
+        end: 1177096
+      -
+        source: "s00006c00162c00163"
+        start: 1018333
+        end: 1020517
+      -
+        source: "s00006c00161c00162"
+        start: 1045379
+        end: 1046718
+      -
+        source: "s00006c00140c00141"
+        start: 1917438
+        end: 1918059
+      -
+        source: "s00006c00148c00149"
+        start: 1599541
+        end: 1600860
+      -
+        source: "s00006c00139c00140"
+        start: 1922835
+        end: 1923961
+      -
+        source: "s00006c00165c00166"
+        start: 844286
+        end: 846019
+      -
+        source: "s00006c00138c00139"
+        start: 1944007
+        end: 1945480
+      -
+        source: "s00006c00165c00166"
+        start: 844286
+        end: 846019
+      -
+        source: "s00006c00159c00160"
+        start: 1197411
+        end: 1198625
+      -
+        source: "s00006c00176c00177"
+        start: 43122
+        end: 44150
+      -
+        source: "s00006c00141c00142"
+        start: 1900629
+        end: 1903566
+      -
+        source: "s00006c00170c00171"
+        start: 277848
+        end: 278553
+      -
+        source: "s00006c00175c00176"
+        start: 143856
+        end: 144946
+      -
+        source: "s00006c00174c00175"
+        start: 159071
+        end: 160049
+      -
+        source: "s00006c00152c00153"
+        start: 1466313
+        end: 1467798
+      -
+        source: "s00006c00167c00168"
+        start: 1485409
+        end: 1487458
+      -
+        source: "s00006c00146c00147"
+        start: 1744193
+        end: 1744930
   # ... and a much larger non-matching 60,000bp sequence at end. This is much bigger than the estimated start for scaffold00005 in the refernce.
   -
     unresolved:
@@ -52,6 +134,31 @@
   # It appears in the nucmer data that scaffold7 is more likely to come after scaffold3
     sequence:
       source: "scaffold00007"
+      inserts:
+      -
+        source: "s00003c00027c00028"
+        start: 1137896
+        end: 1139878
+      -
+        source: "s00003c00030c00031"
+        start: 1356315
+        end: 1357380
+      -
+        source: "s00003c00019c00020"
+        start: 517985
+        end: 518844
+      -
+        source: "s00003c00026c00027"
+        start: 1010023
+        end: 1011250
+      -
+        source: "s00003c00023c00024"
+        start: 701170
+        end: 701827
+      -
+        source: "s00003c00029c00030"
+        start: 1353511
+        end: 1355418
   -
     unresolved:
       length: 10
@@ -72,6 +179,23 @@
     sequence:
       source: "scaffold00004"
       reverse: true
+      inserts:
+      -
+        source: "s00004c00062c00063"
+        start: 938183
+        end: 938774
+      -
+        source: "s00004c00053c00054"
+        start: 392528
+        end: 393105
+      -
+        source: "s00004c00051c00052"
+        start: 188907
+        end: 189360
+      -
+        source: "s00004c00050c00051"
+        start: 147218
+        end: 149140
   -
     unresolved:
       length: 20
@@ -91,6 +215,15 @@
   -
     sequence:
       source: "scaffold00001"
+      inserts:
+      -
+        source: "s00001c00001c00002"
+        start: 330546
+        end: 332126
+      -
+        source: "s00001c00002c00003"
+        start: 313937
+        end: 315325
   -
     unresolved:
       length: 30
