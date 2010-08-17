@@ -125,6 +125,18 @@
         source: "s00006c00146c00147"
         start: 1744193
         end: 1744930
+      -
+        source: "s00006c00173c00174"
+        start: 218889
+      -
+        source: "s00006c00158c00159"
+        start: 1272088
+      -
+        source: "s00006c00154c00155"
+        start: 1422237
+      -
+        source: "s00006c00153c00154"
+        start: 1431502
   # ... and a much larger non-matching 60,000bp sequence at end. This is much bigger than the estimated start for scaffold00005 in the refernce.
   -
     unresolved:
@@ -196,6 +208,9 @@
         source: "s00004c00050c00051"
         start: 147218
         end: 149140
+      -
+        source: "s00004c00061c00062"
+        start: 915042
   -
     unresolved:
       length: 20
@@ -241,3 +256,7 @@
     sequence:
       source: "scaffold00002"
       end: 678179
+      inserts:
+      -
+        source: "s00005c00065c00066"
+        start: 305286
