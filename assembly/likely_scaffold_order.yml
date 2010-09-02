@@ -54,6 +54,17 @@
       source: "scaffold00003"
       inserts:
       - 
+        source: "pcr_sequence_3-12"
+        start: 848435
+        end: 849168
+      -
+        source: "pcr_sequence_3-6"
+        start: 1608154
+        end: 1608865
+      -
+        source: "pcr_sequence_3-14"
+        start: 498205
+      -
         source: "s00006c00160c00161"
         start: 1175737
         end: 1177096
@@ -144,6 +155,9 @@
       source: "scaffold00007"
       inserts:
       -
+        source: "pcr_sequence_7-2"
+        start: 597203
+      -
         source: "s00003c00027c00028"
         start: 1137896
         end: 1139878
@@ -188,6 +202,10 @@
       source: "scaffold00004"
       reverse: true
       inserts:
+      -
+        source: "pcr_sequence_4-2"
+        start: 308438
+        end: 309533
       -
         source: "s00004c00062c00063"
         start: 938183
