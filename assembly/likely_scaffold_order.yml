@@ -28,6 +28,7 @@
         source: "s00002c00008c00009"
         start: 194778
         stop: 196289
+        reverse: true
       -
         source: "s00002c00007c00008"
         start: 599099
@@ -57,6 +58,7 @@
         source: "pcr_sequence_3-12"
         start: 848435
         stop: 849168
+        reverse: true
       -
         source: "pcr_sequence_3-6"
         start: 1608154
@@ -64,14 +66,17 @@
       -
         source: "pcr_sequence_3-14"
         start: 498205
+        reverse: true
       -
         source: "s00006c00160c00161"
         start: 1175737
         stop: 1177096
+        reverse: true
       -
         source: "s00006c00162c00163"
         start: 1018333
         stop: 1020517
+        reverse: true
       -
         source: "s00006c00161c00162"
         start: 1045379
@@ -96,6 +101,7 @@
         source: "s00006c00138c00139"
         start: 1944007
         stop: 1945480
+        reverse: true
       -
         source: "s00006c00159c00160"
         start: 1197411
@@ -104,6 +110,7 @@
         source: "s00006c00176c00177"
         start: 43122
         stop: 44150
+        reverse: true
       -
         source: "s00006c00141c00142"
         start: 1900629
@@ -116,6 +123,7 @@
         source: "s00006c00175c00176"
         start: 143856
         stop: 144946
+        reverse: true
       -
         source: "s00006c00174c00175"
         start: 159071
@@ -124,26 +132,27 @@
         source: "s00006c00152c00153"
         start: 1466313
         stop: 1467798
-      -
-        source: "s00006c00167c00168"
-        start: 1485409
-        stop: 1487458
+        reverse: true
       -
         source: "s00006c00146c00147"
         start: 1744193
         stop: 1744930
+        reverse: true
       -
         source: "s00006c00173c00174"
         start: 218889
       -
         source: "s00006c00158c00159"
         start: 1272088
+        reverse: true
       -
         source: "s00006c00154c00155"
         start: 1422237
+        reverse: true
       -
         source: "s00006c00153c00154"
         start: 1431502
+        reverse: true
   # ... and a much larger non-matching 60,000bp sequence at end. This is much bigger than the estimated start for scaffold00005 in the refernce.
   -
     unresolved:
@@ -157,14 +166,17 @@
       -
         source: "pcr_sequence_7-2"
         start: 597203
+        reverse: true
       -
         source: "s00003c00027c00028"
         start: 1137896
         stop: 1139878
+        reverse: true
       -
         source: "s00003c00030c00031"
         start: 1356315
         stop: 1357380
+        reverse: true
       -
         source: "s00003c00019c00020"
         start: 517985
@@ -177,10 +189,12 @@
         source: "s00003c00023c00024"
         start: 701170
         stop: 701827
+        reverse: true
       -
         source: "s00003c00029c00030"
         start: 1353511
         stop: 1355418
+        reverse: true
   -
     unresolved:
       length: 10
@@ -210,6 +224,7 @@
         source: "s00004c00062c00063"
         start: 938183
         stop: 938774
+        reverse: true
       -
         source: "s00004c00053c00054"
         start: 392528
@@ -222,9 +237,11 @@
         source: "s00004c00050c00051"
         start: 147218
         stop: 149140
+        reverse: true
       -
         source: "s00004c00061c00062"
         start: 915042
+        reverse: true
   -
     unresolved:
       length: 20
