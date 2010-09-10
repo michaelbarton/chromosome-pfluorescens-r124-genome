@@ -66,6 +66,7 @@
       -
         source: "pcr_sequence_3-14"
         start: 498205
+        stop: 499619
         reverse: true
       -
         source: "s00006c00160c00161"
@@ -119,6 +120,11 @@
         source: "s00006c00170c00171"
         start: 277848
         stop: 278553
+      -
+        source: "s00006c00150c00151"
+        start: 1485409
+        stop: 1487458
+        reverse: true
       -
         source: "s00006c00175c00176"
         start: 143856
