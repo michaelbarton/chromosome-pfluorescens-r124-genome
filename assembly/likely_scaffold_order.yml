@@ -293,7 +293,7 @@
   -
     sequence:
       source: "scaffold00002"
-      stop: 678179
+      end: 678179
       inserts:
       -
         source: "s00005c00065c00066"
