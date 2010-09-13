@@ -269,9 +269,10 @@
       source: "scaffold00001"
       inserts:
       -
-        source: "s00001c00001c00002"
-        start: 330546
-        stop: 332126
+        source: "pcr_sequence_1-1"
+        start: 330969
+        stop: 332027
+        reverse: true
       -
         source: "s00001c00002c00003"
         start: 313937
