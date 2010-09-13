@@ -274,9 +274,9 @@
         stop: 332027
         reverse: true
       -
-        source: "s00001c00002c00003"
-        start: 313937
-        stop: 315325
+        source: "pcr_sequence_1-2"
+        start: 314326
+        stop: 315288
   -
     unresolved:
       length: 30
