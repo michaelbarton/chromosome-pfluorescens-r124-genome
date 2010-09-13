@@ -30,9 +30,9 @@
         stop: 196289
         reverse: true
       -
-        source: "s00002c00007c00008"
-        start: 599099
-        stop: 600035
+        source: "pcr_sequence_6-1"
+        start: 599152
+        stop: 599817
   -
     unresolved:
       length: 500
