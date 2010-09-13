@@ -171,7 +171,7 @@
       inserts:
       -
         source: "pcr_sequence_7-2"
-        start: 597203
+        stop: 597209
         reverse: true
       -
         source: "s00003c00027c00028"
