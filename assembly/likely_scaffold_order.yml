@@ -279,7 +279,13 @@
         stop: 315288
   -
     unresolved:
-      length: 30
+      length: 10
+  -
+    sequence:
+      source: "scaffold00008"
+  -
+    unresolved:
+      length: 10
   -
     sequence:
       source: "contig00001"
