@@ -285,6 +285,9 @@
       source: "contig00001"
       reverse: true
   -
+    unresolved:
+      length: 10
+  -
     sequence:
       source: "scaffold00005"
   -
