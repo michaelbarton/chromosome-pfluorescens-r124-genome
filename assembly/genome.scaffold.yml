@@ -26,13 +26,13 @@
       inserts:
       -
         source: "s00002c00008c00009"
-        start: 194778
-        stop: 196289
+        open: 194778
+        close: 196289
         reverse: true
       -
         source: "pcr_sequence_6-1"
-        start: 599152
-        stop: 599817
+        open: 599152
+        close: 599817
   -
     unresolved:
       length: 500
@@ -56,108 +56,108 @@
       inserts:
       - 
         source: "pcr_sequence_3-12"
-        start: 848435
-        stop: 849168
+        open: 848435
+        close: 849168
         reverse: true
       -
         source: "pcr_sequence_3-6"
-        start: 1608154
-        stop: 1608865
+        open: 1608154
+        close: 1608865
       -
         source: "pcr_sequence_3-14"
-        start: 498205
-        stop: 499619
+        open: 498205
+        close: 499619
         reverse: true
       -
         source: "s00006c00160c00161"
-        start: 1175737
-        stop: 1177096
+        open: 1175737
+        close: 1177096
         reverse: true
       -
         source: "s00006c00162c00163"
-        start: 1018333
-        stop: 1020517
+        open: 1018333
+        close: 1020517
         reverse: true
       -
         source: "s00006c00161c00162"
-        start: 1045379
-        stop: 1046718
+        open: 1045379
+        close: 1046718
       -
         source: "s00006c00140c00141"
-        start: 1917438
-        stop: 1918059
+        open: 1917438
+        close: 1918059
       -
         source: "s00006c00148c00149"
-        start: 1599541
-        stop: 1600860
+        open: 1599541
+        close: 1600860
       -
         source: "s00006c00139c00140"
-        start: 1922835
-        stop: 1923961
+        open: 1922835
+        close: 1923961
       -
         source: "s00006c00165c00166"
-        start: 844286
-        stop: 846019
+        open: 844286
+        close: 846019
       -
         source: "s00006c00138c00139"
-        start: 1944007
-        stop: 1945480
+        open: 1944007
+        close: 1945480
         reverse: true
       -
         source: "s00006c00159c00160"
-        start: 1197411
-        stop: 1198625
+        open: 1197411
+        close: 1198625
       -
         source: "s00006c00176c00177"
-        start: 43122
-        stop: 44150
+        open: 43122
+        close: 44150
         reverse: true
       -
         source: "s00006c00141c00142"
-        start: 1900629
-        stop: 1903566
+        open: 1900629
+        close: 1903566
       -
         source: "s00006c00170c00171"
-        start: 277848
-        stop: 278553
+        open: 277848
+        close: 278553
       -
         source: "s00006c00150c00151"
-        start: 1485409
-        stop: 1487458
+        open: 1485409
+        close: 1487458
         reverse: true
       -
         source: "s00006c00175c00176"
-        start: 143856
-        stop: 144946
+        open: 143856
+        close: 144946
         reverse: true
       -
         source: "s00006c00174c00175"
-        start: 159071
-        stop: 160049
+        open: 159071
+        close: 160049
       -
         source: "s00006c00152c00153"
-        start: 1466313
-        stop: 1467798
+        open: 1466313
+        close: 1467798
         reverse: true
       -
         source: "s00006c00146c00147"
-        start: 1744193
-        stop: 1744930
+        open: 1744193
+        close: 1744930
         reverse: true
       -
         source: "s00006c00173c00174"
-        start: 218889
+        open: 218889
       -
         source: "s00006c00158c00159"
-        start: 1272088
+        open: 1272088
         reverse: true
       -
         source: "s00006c00154c00155"
-        start: 1422237
+        open: 1422237
         reverse: true
       -
         source: "s00006c00153c00154"
-        start: 1431502
+        open: 1431502
         reverse: true
   # ... and a much larger non-matching 60,000bp sequence at end. This is much bigger than the estimated start for scaffold00005 in the refernce.
   -
@@ -171,35 +171,35 @@
       inserts:
       -
         source: "pcr_sequence_7-2"
-        stop: 597209
+        close: 597209
         reverse: true
       -
         source: "s00003c00027c00028"
-        start: 1137896
-        stop: 1139878
+        open: 1137896
+        close: 1139878
         reverse: true
       -
         source: "s00003c00030c00031"
-        start: 1356315
-        stop: 1357380
+        open: 1356315
+        close: 1357380
         reverse: true
       -
         source: "s00003c00019c00020"
-        start: 517985
-        stop: 518844
+        open: 517985
+        close: 518844
       -
         source: "s00003c00026c00027"
-        start: 1010023
-        stop: 1011250
+        open: 1010023
+        close: 1011250
       -
         source: "s00003c00023c00024"
-        start: 701170
-        stop: 701827
+        open: 701170
+        close: 701827
         reverse: true
       -
         source: "s00003c00029c00030"
-        start: 1353511
-        stop: 1355418
+        open: 1353511
+        close: 1355418
         reverse: true
   -
     unresolved:
@@ -224,29 +224,29 @@
       inserts:
       -
         source: "pcr_sequence_4-2"
-        start: 308438
-        stop: 309533
+        open: 308438
+        close: 309533
       -
         source: "s00004c00062c00063"
-        start: 938183
-        stop: 938774
+        open: 938183
+        close: 938774
         reverse: true
       -
         source: "s00004c00053c00054"
-        start: 392528
-        stop: 393105
+        open: 392528
+        close: 393105
       -
         source: "s00004c00051c00052"
-        start: 188907
-        stop: 189360
+        open: 188907
+        close: 189360
       -
         source: "s00004c00050c00051"
-        start: 147218
-        stop: 149140
+        open: 147218
+        close: 149140
         reverse: true
       -
         source: "s00004c00061c00062"
-        start: 915042
+        open: 915042
         reverse: true
   -
     unresolved:
@@ -270,13 +270,13 @@
       inserts:
       -
         source: "pcr_sequence_1-1"
-        start: 330969
-        stop: 332027
+        open: 330969
+        close: 332027
         reverse: true
       -
         source: "pcr_sequence_1-2"
-        start: 314326
-        stop: 315288
+        open: 314326
+        close: 315288
   -
     unresolved:
       length: 10
@@ -296,8 +296,8 @@
   -
     sequence:
       source: "scaffold00002"
-      end: 678179
+      stop: 678179
       inserts:
       -
         source: "s00005c00065c00066"
-        start: 305286
+        open: 305286
