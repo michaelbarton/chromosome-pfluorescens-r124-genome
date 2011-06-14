@@ -1,6 +1,7 @@
 scaffold_file 'assembly/genome.scaffold.yml'
 sequence_file 'assembly/draft.fna'
+annotation_file 'annotation/gene_list.gff'
 out_file_name 'R124.genome'
 out_dir_name  'out'
 identifier 'PRJNA46289'
-output :genbank
+output :fasta, :table
