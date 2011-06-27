@@ -43,7 +43,9 @@ task :gff do
         nil,                                                     # Score
         row['Strand'],                                           # Strand
         nil,                                                     # Phase
-        [['Parent',"mrna#{i}"],['ID',"cds#{i}"]]                 # Attributes
+        [['Parent',"mrna#{i}"],
+         ['ID',"cds#{i}"],
+         ['product','hypotheical protein']]                 # Attributes
       )
       out.puts record
     end
