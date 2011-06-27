@@ -2,4 +2,4 @@ scaffold_file 'assembly/plasmid.scaffold.yml'
 sequence_file 'assembly/draft.fna'
 out_file_name 'R124.plasmid'
 out_dir_name  'out'
-output :genbank
+output :fasta
