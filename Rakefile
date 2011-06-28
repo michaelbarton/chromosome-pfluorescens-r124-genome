@@ -57,6 +57,7 @@ namespace :validate do
 
   task :environment do
     require 'bio'
+    require 'fastercsv'
     mkdir 'validate' unless File.exists? 'validate'
     @db = 'validate/db.yml'
   end
@@ -68,6 +69,12 @@ namespace :validate do
     original = Bio::FlatFile.auto('annotation/genes.fna').inject(Hash.new) do |h,s|
       h[s.definition.split[1]] = s.seq
       h
+    end
+
+    list = 'annotation/gene_list.csv'
+    sources = FasterCSV.open(list,:headers => true).inject(Hash.new) do |hash,row|
+      hash[row['Locus Tag']] = row['Scaffold Name'].split(' : ').last.gsub('R124_','')
+      hash
     end
 
     db = Hash.new{|hash,key| hash[key] = Hash.new}
@@ -87,6 +94,7 @@ namespace :validate do
 
       original_seq  = original[name]
 
+      db[name][:source] = sources[name]
       db[name][:relocated] = {
         :start     => start,
         :stop      => stop,
