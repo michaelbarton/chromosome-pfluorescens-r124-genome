@@ -77,7 +77,14 @@ namespace :validate do
       start = start.to_i - 1
       stop  = stop.to_i - 1
 
-      relocated_seq = genome[start..stop]
+      if start > stop
+        start,stop = stop,start
+        relocated_seq = genome[start..stop]
+        relocated_seq = Bio::Sequence::NA.new(relocated_seq).reverse_complement.upcase
+      else
+        relocated_seq = genome[start..stop]
+      end
+
       original_seq  = original[name]
 
       db[name] = {
