@@ -87,11 +87,13 @@ namespace :validate do
 
       original_seq  = original[name]
 
-      db[name] = {
-        :start => start,
-        :stop => stop,
-        :relocated_sequence => relocated_seq.to_s,
-        :original_sequence  => original_seq.to_s
+      db[name][:relocated] = {
+        :start     => start,
+        :stop      => stop,
+        :sequence  => relocated_seq.to_s
+      }
+      db[name][:original] = {
+        :sequence  => original_seq.to_s
       }
     end
     File.open(@db,'w'){|out| out.print YAML.dump(db)}
@@ -101,7 +103,7 @@ namespace :validate do
   task :compare => :environment do
     db = YAML.load(File.read(@db))
     db.each do |name,data|
-      unless data[:original_sequence] == data[:relocated_sequence]
+      unless data[:original][:sequence] == data[:relocated][:sequence]
         puts name
       end
     end
