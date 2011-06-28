@@ -108,6 +108,15 @@ namespace :validate do
 
   end
 
+  task :source => :environment do
+    db = YAML.load(File.read(@db))
+    db.each do |name,data|
+      unless data[:original][:sequence] == data[:relocated][:sequence]
+        puts data[:source]
+      end
+    end
+  end
+
   task :compare => :environment do
     db = YAML.load(File.read(@db))
     db.each do |name,data|
