@@ -51,3 +51,55 @@ task :gff do
     end
   end
 end
+
+task :validate => ['validate:database','validate:compare']
+namespace :validate do
+
+  task :environment do
+    require 'bio'
+    mkdir 'validate' unless File.exists? 'validate'
+    @db = 'validate/db.yml'
+  end
+
+  task :database => :environment do
+    re = /(\d+)\s(\d+)\sgene.\s+locus_tag\s(R124_\d+)/m
+    genome = Bio::FlatFile.auto('out/R124.genome.fsa').first.seq
+
+    original = Bio::FlatFile.auto('annotation/genes.fna').inject(Hash.new) do |h,s|
+      h[s.definition.split[1]] = s.seq
+      h
+    end
+
+    db = Hash.new{|hash,key| hash[key] = Hash.new}
+    File.read('out/R124.genome.tbl').scan(re) do |entry|
+
+      start,stop,name = *entry
+      start = start.to_i - 1
+      stop  = stop.to_i - 1
+
+      relocated_seq = genome[start..stop]
+      original_seq  = original[name]
+
+      db[name] = {
+        :start => start,
+        :stop => stop,
+        :relocated_sequence => relocated_seq.to_s,
+        :original_sequence  => original_seq.to_s
+      }
+    end
+    File.open(@db,'w'){|out| out.print YAML.dump(db)}
+
+  end
+
+  task :compare => :environment do
+    db = YAML.load(File.read(@db))
+    db.each do |name,data|
+      unless data[:original_sequence] == data[:relocated_sequence]
+        puts name
+      end
+    end
+  end
+
+end
+
+
