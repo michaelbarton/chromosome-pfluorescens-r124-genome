@@ -145,4 +145,21 @@ namespace :validate do
     end
   end
 
+  task :location => :environment do
+    db = YAML.load(File.read(@db))
+    File.open('validate/locations.csv','w') do |out|
+      out.puts %W|gene orig_start orig_stop rlct_start rlct_stop| * ','
+      db.each do |name,data|
+        out.puts([
+                 name,
+                 data[:original][:start],
+                 data[:original][:stop],
+                 data[:relocated][:start],
+                 data[:relocated][:stop],
+        ] * ",")
+      end
+    end
+    `./lib/plot_location.r`
+  end
+
 end
