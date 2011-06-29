@@ -52,7 +52,7 @@ task :gff do
   end
 end
 
-task :validate => ['validate:database','validate:compare']
+task :validate => ['validate:database','validate:location_estimates']
 namespace :validate do
 
   task :environment do
@@ -106,6 +106,25 @@ namespace :validate do
     end
 
     File.open(@db,'w'){|out| out.print YAML.dump(db)}
+  end
+
+  task :location_estimates => :environment do
+    `nucmer out/R124.genome.fsa annotation/genes.fna`
+    `delta-filter -i 100 out.delta >| filtered.delta`
+    `show-coords -B filtered.delta >| matches.coords`
+
+    db = YAML.load(File.read(@db))
+    File.open('matches.coords').each do |line|
+      row = line.split("\t")
+      name,start,stop = row[0],row[8].to_i,row[9].to_i
+
+      next unless db[name]
+
+      db[name][:original][:start] = start
+      db[name][:original][:stop] = stop
+    end
+    File.open(@db,'w'){|out| out.print YAML.dump(db)}
+    `rm *.coords *.delta`
   end
 
   task :source => :environment do
