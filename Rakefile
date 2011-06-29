@@ -51,3 +51,28 @@ task :gff do
     end
   end
 end
+
+task :draft do
+  require 'bio'
+  files = %W|scaffolds contigs pcr_sequences insilico_reassembly|
+  sequences = files.inject(Hash.new) do |hash,file|
+    Bio::FlatFile.open("raw_sequence/#{file}.fna").each do |entry|
+      hash[entry.definition] = entry
+    end
+    hash
+  end
+  output = Array.new
+  YAML.load(File.read('assembly/genome.scaffold.yml')).each do |entry|
+    if entry["sequence"]
+      output << sequences[entry["sequence"]["source"]]
+      if entry["sequence"]["inserts"]
+        entry["sequence"]["inserts"].each do |insert|
+          output << sequences[insert["source"]]
+        end
+      end
+    end
+  end
+  File.open("assembly/draft.fna",'w') do |out|
+    output.sort_by{|i| i.definition}.uniq.each{|i| out.print i}
+  end
+end
