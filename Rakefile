@@ -17,7 +17,7 @@ task :gff do
         nil,                                                     # Score
         row['Strand'],                                           # Strand
         nil,                                                     # Phase
-        [['ID',row['Locus Tag']]]                                # Attributes
+        [['ID',row['gene_oid']]]                                # Attributes
       )
       out.puts record
 
@@ -30,7 +30,7 @@ task :gff do
         nil,                                                     # Score
         row['Strand'],                                           # Strand
         nil,                                                     # Phase
-        [['Parent',row['Locus Tag']],['ID',"mrna#{i}"]]          # Attributes
+        [['Parent',row['gene_oid']],['ID',"mrna#{i}"]]          # Attributes
       )
       out.puts record
 
@@ -63,17 +63,17 @@ namespace :validate do
   end
 
   task :database => :environment do
-    re = /(\d+)\s(\d+)\sgene.\s+locus_tag\s(R124_\d+)/m
+    re = /(\d+)\s(\d+)\sgene.\s+locus_tag\s(\d+)/m
     genome = Bio::FlatFile.auto('out/R124.genome.fsa').first.seq
 
     original = Bio::FlatFile.auto('annotation/genes.fna').inject(Hash.new) do |h,s|
-      h[s.definition.split[1]] = s.seq
+      h[s.definition.split.first] = s.seq
       h
     end
 
     list = 'annotation/gene_list.csv'
     sources = FasterCSV.open(list,:headers => true).inject(Hash.new) do |hash,row|
-      hash[row['Locus Tag']] = row['Scaffold Name'].split(' : ').last.gsub('R124_','')
+      hash[row['gene_oid']] = row['Scaffold Name'].split(' : ').last.gsub('R124_','')
       hash
     end
 
@@ -104,8 +104,8 @@ namespace :validate do
         :sequence  => original_seq.to_s
       }
     end
-    File.open(@db,'w'){|out| out.print YAML.dump(db)}
 
+    File.open(@db,'w'){|out| out.print YAML.dump(db)}
   end
 
   task :source => :environment do
@@ -127,5 +127,3 @@ namespace :validate do
   end
 
 end
-
-
