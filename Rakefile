@@ -1,3 +1,9 @@
+task :build do
+  Dir.mkdir('out') unless File.exists?('out')
+  `genomer genome.rules`
+  `tbl2asn -t submission/description.sbt -p out -V v`
+end
+
 task :gff do
   require 'fastercsv'
   require 'bio'
