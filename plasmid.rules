@@ -2,4 +2,11 @@ scaffold_file 'assembly/plasmid.scaffold.yml'
 sequence_file 'assembly/draft.fna'
 out_file_name 'R124.plasmid'
 out_dir_name  'out'
-output :fasta
+
+identifier 'PRJNA68653'
+metadata 'organism' => 'Pseudomonas fluorescens', 'isolate' => 'R124'
+
+id_prefix 'I1A_'
+reset_id
+
+output :fasta, :table
