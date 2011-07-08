@@ -28,7 +28,7 @@ task :gff do
         nil,                                                     # Phase
         [['ID',row['Locus Tag']]]                                # Attributes
       )
-      record.set_attribute('Name',name.downcase) if name
+      record.set_attribute('Name',name) if name
       out.puts record
 
       record = Bio::GFF::GFF3::Record.new(

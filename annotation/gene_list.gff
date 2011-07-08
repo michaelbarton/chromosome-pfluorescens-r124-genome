@@ -16735,7 +16735,7 @@ scaffold00008	.	CDS	1613	1792	.	+	.	Parent=mrna5577;ID=cds5577;product=hypotheic
 scaffold00008	.	gene	1845	2270	.	+	.	ID=R124_00056560
 scaffold00008	.	mRNA	1845	2270	.	+	.	Parent=R124_00056560;ID=mrna5578
 scaffold00008	.	CDS	1845	2270	.	+	.	Parent=mrna5578;ID=cds5578;product=hypotheical protein
-scaffold00008	.	gene	2381	3022	.	+	.	ID=R124_00056570;Name=yafb/para
+scaffold00008	.	gene	2381	3022	.	+	.	ID=R124_00056570;Name=yafB/parA
 scaffold00008	.	mRNA	2381	3022	.	+	.	Parent=R124_00056570;ID=mrna5579
 scaffold00008	.	CDS	2381	3022	.	+	.	Parent=mrna5579;ID=cds5579;product=hypotheical protein
 scaffold00008	.	gene	3022	3348	.	+	.	ID=R124_00056580
@@ -16762,64 +16762,64 @@ scaffold00008	.	CDS	6471	6905	.	+	.	Parent=mrna5586;ID=cds5586;product=hypotheic
 scaffold00008	.	gene	6989	7213	.	+	.	ID=R124_00056650
 scaffold00008	.	mRNA	6989	7213	.	+	.	Parent=R124_00056650;ID=mrna5587
 scaffold00008	.	CDS	6989	7213	.	+	.	Parent=mrna5587;ID=cds5587;product=hypotheical protein
-scaffold00008	.	gene	7215	7562	.	+	.	ID=R124_00056660;Name=virb1
+scaffold00008	.	gene	7215	7562	.	+	.	ID=R124_00056660;Name=virB1
 scaffold00008	.	mRNA	7215	7562	.	+	.	Parent=R124_00056660;ID=mrna5588
 scaffold00008	.	CDS	7215	7562	.	+	.	Parent=mrna5588;ID=cds5588;product=hypotheical protein
-scaffold00008	.	gene	7549	7875	.	+	.	ID=R124_00056670;Name=virb2
+scaffold00008	.	gene	7549	7875	.	+	.	ID=R124_00056670;Name=virB2
 scaffold00008	.	mRNA	7549	7875	.	+	.	Parent=R124_00056670;ID=mrna5589
 scaffold00008	.	CDS	7549	7875	.	+	.	Parent=mrna5589;ID=cds5589;product=hypotheical protein
-scaffold00008	.	gene	8230	10641	.	+	.	ID=R124_00056680;Name=virb4
+scaffold00008	.	gene	8230	10641	.	+	.	ID=R124_00056680;Name=virB4
 scaffold00008	.	mRNA	8230	10641	.	+	.	Parent=R124_00056680;ID=mrna5590
 scaffold00008	.	CDS	8230	10641	.	+	.	Parent=mrna5590;ID=cds5590;product=hypotheical protein
-scaffold00008	.	gene	10652	11329	.	+	.	ID=R124_00056690;Name=virb5
+scaffold00008	.	gene	10652	11329	.	+	.	ID=R124_00056690;Name=virB5
 scaffold00008	.	mRNA	10652	11329	.	+	.	Parent=R124_00056690;ID=mrna5591
 scaffold00008	.	CDS	10652	11329	.	+	.	Parent=mrna5591;ID=cds5591;product=hypotheical protein
 scaffold00008	.	gene	11377	11703	.	+	.	ID=R124_00056700
 scaffold00008	.	mRNA	11377	11703	.	+	.	Parent=R124_00056700;ID=mrna5592
 scaffold00008	.	CDS	11377	11703	.	+	.	Parent=mrna5592;ID=cds5592;product=hypotheical protein
-scaffold00008	.	gene	11714	12652	.	+	.	ID=R124_00056710;Name=virb6
+scaffold00008	.	gene	11714	12652	.	+	.	ID=R124_00056710;Name=virB6
 scaffold00008	.	mRNA	11714	12652	.	+	.	Parent=R124_00056710;ID=mrna5593
 scaffold00008	.	CDS	11714	12652	.	+	.	Parent=mrna5593;ID=cds5593;product=hypotheical protein
-scaffold00008	.	gene	12720	13496	.	+	.	ID=R124_00056720;Name=pill
+scaffold00008	.	gene	12720	13496	.	+	.	ID=R124_00056720;Name=pilL
 scaffold00008	.	mRNA	12720	13496	.	+	.	Parent=R124_00056720;ID=mrna5594
 scaffold00008	.	CDS	12720	13496	.	+	.	Parent=mrna5594;ID=cds5594;product=hypotheical protein
-scaffold00008	.	gene	13496	15205	.	+	.	ID=R124_00056730;Name=piln
+scaffold00008	.	gene	13496	15205	.	+	.	ID=R124_00056730;Name=pilN
 scaffold00008	.	mRNA	13496	15205	.	+	.	Parent=R124_00056730;ID=mrna5595
 scaffold00008	.	CDS	13496	15205	.	+	.	Parent=mrna5595;ID=cds5595;product=hypotheical protein
-scaffold00008	.	gene	15278	16525	.	+	.	ID=R124_00056740;Name=pilo
+scaffold00008	.	gene	15278	16525	.	+	.	ID=R124_00056740;Name=pilO
 scaffold00008	.	mRNA	15278	16525	.	+	.	Parent=R124_00056740;ID=mrna5596
 scaffold00008	.	CDS	15278	16525	.	+	.	Parent=mrna5596;ID=cds5596;product=hypotheical protein
-scaffold00008	.	gene	16482	17030	.	+	.	ID=R124_00056750;Name=pilp
+scaffold00008	.	gene	16482	17030	.	+	.	ID=R124_00056750;Name=pilP
 scaffold00008	.	mRNA	16482	17030	.	+	.	Parent=R124_00056750;ID=mrna5597
 scaffold00008	.	CDS	16482	17030	.	+	.	Parent=mrna5597;ID=cds5597;product=hypotheical protein
-scaffold00008	.	gene	17041	18567	.	+	.	ID=R124_00056760;Name=pilq
+scaffold00008	.	gene	17041	18567	.	+	.	ID=R124_00056760;Name=pilQ
 scaffold00008	.	mRNA	17041	18567	.	+	.	Parent=R124_00056760;ID=mrna5598
 scaffold00008	.	CDS	17041	18567	.	+	.	Parent=mrna5598;ID=cds5598;product=hypotheical protein
-scaffold00008	.	gene	18564	19661	.	+	.	ID=R124_00056770;Name=pilr
+scaffold00008	.	gene	18564	19661	.	+	.	ID=R124_00056770;Name=pilR
 scaffold00008	.	mRNA	18564	19661	.	+	.	Parent=R124_00056770;ID=mrna5599
 scaffold00008	.	CDS	18564	19661	.	+	.	Parent=mrna5599;ID=cds5599;product=hypotheical protein
-scaffold00008	.	gene	19673	20260	.	+	.	ID=R124_00056780;Name=pils
+scaffold00008	.	gene	19673	20260	.	+	.	ID=R124_00056780;Name=pilS
 scaffold00008	.	mRNA	19673	20260	.	+	.	Parent=R124_00056780;ID=mrna5600
 scaffold00008	.	CDS	19673	20260	.	+	.	Parent=mrna5600;ID=cds5600;product=hypotheical protein
-scaffold00008	.	gene	20260	21237	.	+	.	ID=R124_00056790;Name=pilu
+scaffold00008	.	gene	20260	21237	.	+	.	ID=R124_00056790;Name=pilU
 scaffold00008	.	mRNA	20260	21237	.	+	.	Parent=R124_00056790;ID=mrna5601
 scaffold00008	.	CDS	20260	21237	.	+	.	Parent=mrna5601;ID=cds5601;product=hypotheical protein
-scaffold00008	.	gene	21248	22564	.	+	.	ID=R124_00056800;Name=pilv
+scaffold00008	.	gene	21248	22564	.	+	.	ID=R124_00056800;Name=pilV
 scaffold00008	.	mRNA	21248	22564	.	+	.	Parent=R124_00056800;ID=mrna5602
 scaffold00008	.	CDS	21248	22564	.	+	.	Parent=mrna5602;ID=cds5602;product=hypotheical protein
 scaffold00008	.	gene	23164	23565	.	+	.	ID=R124_00056810
 scaffold00008	.	mRNA	23164	23565	.	+	.	Parent=R124_00056810;ID=mrna5603
 scaffold00008	.	CDS	23164	23565	.	+	.	Parent=mrna5603;ID=cds5603;product=hypotheical protein
-scaffold00008	.	gene	23650	24438	.	+	.	ID=R124_00056820;Name=virb8
+scaffold00008	.	gene	23650	24438	.	+	.	ID=R124_00056820;Name=virB8
 scaffold00008	.	mRNA	23650	24438	.	+	.	Parent=R124_00056820;ID=mrna5604
 scaffold00008	.	CDS	23650	24438	.	+	.	Parent=mrna5604;ID=cds5604;product=hypotheical protein
-scaffold00008	.	gene	24431	25228	.	+	.	ID=R124_00056830;Name=virb9
+scaffold00008	.	gene	24431	25228	.	+	.	ID=R124_00056830;Name=virB9
 scaffold00008	.	mRNA	24431	25228	.	+	.	Parent=R124_00056830;ID=mrna5605
 scaffold00008	.	CDS	24431	25228	.	+	.	Parent=mrna5605;ID=cds5605;product=hypotheical protein
-scaffold00008	.	gene	25212	26507	.	+	.	ID=R124_00056840;Name=virb10
+scaffold00008	.	gene	25212	26507	.	+	.	ID=R124_00056840;Name=virB10
 scaffold00008	.	mRNA	25212	26507	.	+	.	Parent=R124_00056840;ID=mrna5606
 scaffold00008	.	CDS	25212	26507	.	+	.	Parent=mrna5606;ID=cds5606;product=hypotheical protein
-scaffold00008	.	gene	26519	27595	.	+	.	ID=R124_00056850;Name=virb11
+scaffold00008	.	gene	26519	27595	.	+	.	ID=R124_00056850;Name=virB11
 scaffold00008	.	mRNA	26519	27595	.	+	.	Parent=R124_00056850;ID=mrna5607
 scaffold00008	.	CDS	26519	27595	.	+	.	Parent=mrna5607;ID=cds5607;product=hypotheical protein
 scaffold00008	.	gene	27605	27946	.	+	.	ID=R124_00056860
@@ -16834,13 +16834,13 @@ scaffold00008	.	CDS	28312	29238	.	+	.	Parent=mrna5610;ID=cds5610;product=hypothe
 scaffold00008	.	gene	29250	29528	.	+	.	ID=R124_00056890
 scaffold00008	.	mRNA	29250	29528	.	+	.	Parent=R124_00056890;ID=mrna5611
 scaffold00008	.	CDS	29250	29528	.	+	.	Parent=mrna5611;ID=cds5611;product=hypotheical protein
-scaffold00008	.	gene	29515	31047	.	+	.	ID=R124_00056900;Name=vird4
+scaffold00008	.	gene	29515	31047	.	+	.	ID=R124_00056900;Name=virD4
 scaffold00008	.	mRNA	29515	31047	.	+	.	Parent=R124_00056900;ID=mrna5612
 scaffold00008	.	CDS	29515	31047	.	+	.	Parent=mrna5612;ID=cds5612;product=hypotheical protein
-scaffold00008	.	gene	31097	31459	.	+	.	ID=R124_00056910;Name=kika
+scaffold00008	.	gene	31097	31459	.	+	.	ID=R124_00056910;Name=kikA
 scaffold00008	.	mRNA	31097	31459	.	+	.	Parent=R124_00056910;ID=mrna5613
 scaffold00008	.	CDS	31097	31459	.	+	.	Parent=mrna5613;ID=cds5613;product=hypotheical protein
-scaffold00008	.	gene	31474	33612	.	+	.	ID=R124_00056920;Name=trae
+scaffold00008	.	gene	31474	33612	.	+	.	ID=R124_00056920;Name=traE
 scaffold00008	.	mRNA	31474	33612	.	+	.	Parent=R124_00056920;ID=mrna5614
 scaffold00008	.	CDS	31474	33612	.	+	.	Parent=mrna5614;ID=cds5614;product=hypotheical protein
 scaffold00008	.	gene	33639	34154	.	+	.	ID=R124_00056930;Name=ssb
@@ -16873,7 +16873,7 @@ scaffold00008	.	CDS	40714	41160	.	+	.	Parent=mrna5623;ID=cds5623;product=hypothe
 scaffold00008	.	gene	41304	41558	.	+	.	ID=R124_00057020
 scaffold00008	.	mRNA	41304	41558	.	+	.	Parent=R124_00057020;ID=mrna5624
 scaffold00008	.	CDS	41304	41558	.	+	.	Parent=mrna5624;ID=cds5624;product=hypotheical protein
-scaffold00008	.	gene	41747	43018	.	+	.	ID=R124_00057030;Name=repa
+scaffold00008	.	gene	41747	43018	.	+	.	ID=R124_00057030;Name=repA
 scaffold00008	.	mRNA	41747	43018	.	+	.	Parent=R124_00057030;ID=mrna5625
 scaffold00008	.	CDS	41747	43018	.	+	.	Parent=mrna5625;ID=cds5625;product=hypotheical protein
 scaffold00008	.	gene	43184	43774	.	-	.	ID=R124_00057040
