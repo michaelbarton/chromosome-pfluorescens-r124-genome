@@ -10,9 +10,12 @@ task :gff do
 
   IN  = 'annotation/gene_list.csv'
   OUT = 'annotation/gene_list.gff'
+  NAMES = YAML.load(File.read('annotation/names.yml'))
 
   File.open(OUT,'w') do |out|
     FasterCSV.open(IN,:headers => true).each_with_index do |row,i|
+
+      name = NAMES[row['gene_oid'].to_i]
 
       record = Bio::GFF::GFF3::Record.new(
         row['Scaffold Name'].split(' : ').last.gsub('R124_',''), # Sequence ID
@@ -25,6 +28,7 @@ task :gff do
         nil,                                                     # Phase
         [['ID',row['Locus Tag']]]                                # Attributes
       )
+      record.set_attribute('Name',name.downcase) if name
       out.puts record
 
       record = Bio::GFF::GFF3::Record.new(
