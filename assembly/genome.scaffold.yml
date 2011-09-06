@@ -220,7 +220,6 @@
   -
     sequence:
       source: "scaffold00004"
-      reverse: true
       inserts:
       -
         source: "pcr_sequence_4-2"
