@@ -1,5 +1,6 @@
 scaffold_file 'assembly/plasmid.scaffold.yml'
 sequence_file 'assembly/draft.fna'
+annotation_file 'annotation/gene_list.gff'
 out_file_name 'R124.plasmid'
 out_dir_name  'out'
 
@@ -9,4 +10,4 @@ metadata 'organism' => 'Pseudomonas fluorescens', 'isolate' => 'R124'
 id_prefix 'I1A_'
 reset_id
 
-output :fasta, :table
+output :fasta, :table, :gff3
