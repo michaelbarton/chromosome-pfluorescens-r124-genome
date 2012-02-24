@@ -1611,3 +1611,341 @@ contig00048	.	gene	114	305	.	-	.	ID=2503275837;product=hypothetical protein
 contig00093	.	gene	82	501	.	+	.	ID=2503275840;product=hypothetical protein
 contig00199	.	gene	1	162	.	-	.	ID=2503275841;product=hypothetical protein
 contig00199	.	gene	343	498	.	+	.	ID=2503275842;product=hypothetical protein
+scaffold00001	.	gene	70920	71864	.	-	.	ID=2503278206;product=(E)-4-hydroxy-3-methyl-but-2-enyl pyrophosphate reductase
+scaffold00004	.	gene	326899	329142	.	-	.	ID=2503277527;product=(p)ppGpp synthetase
+scaffold00002	.	gene	486294	488399	.	+	.	ID=2503278920;product=(p)ppGpp synthetase
+scaffold00003	.	gene	659804	660598	.	-	.	ID=2503274732;product=1-acyl-sn-glycerol-3-phosphate acyltransferase
+scaffold00006	.	gene	349720	350526	.	-	.	ID=2503273874;product=1-acyl-sn-glycerol-3-phosphate acyltransferase
+scaffold00003	.	gene	1081219	1083093	.	+	.	ID=2503275112;product=1-acyl-sn-glycerol-3-phosphate acyltransferase
+scaffold00002	.	gene	111705	112592	.	+	.	ID=2503278572;product=1-acyl-sn-glycerol-3-phosphate acyltransferase
+scaffold00002	.	gene	689815	690594	.	-	.	ID=2503279093;product=1-acyl-sn-glycerol-3-phosphate acyltransferase
+scaffold00003	.	gene	219587	220492	.	-	.	ID=2503274322;product=1-acyl-sn-glycerol-3-phosphate acyltransferase
+scaffold00003	.	gene	1171180	1171902	.	-	.	ID=2503275200;product=1-acyl-sn-glycerol-3-phosphate acyltransferase
+scaffold00003	.	gene	1476140	1477066	.	+	.	ID=2503275434;product=1-aminocyclopropane-1-carboxylate deaminase
+scaffold00003	.	gene	468646	469836	.	+	.	ID=2503274545;product=1-deoxy-D-xylulose 5-phosphate reductoisomerase
+scaffold00001	.	gene	251014	252912	.	+	.	ID=2503278371;product=1-deoxy-D-xylulose-5-phosphate synthase
+scaffold00004	.	gene	789502	790611	.	-	.	ID=2503277927;product=1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase
+scaffold00003	.	gene	119143	120084	.	+	.	ID=2503274234;product=1-phosphofructokinase
+scaffold00007	.	gene	1167666	1168205	.	-	.	ID=2503276907;product=2''-5'' RNA ligase
+scaffold00003	.	gene	453951	454985	.	-	.	ID=2503274530;product=2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+scaffold00006	.	gene	232014	233543	.	-	.	ID=2503273771;product=2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+scaffold00003	.	gene	1153503	1154186	.	+	.	ID=2503275182;product=2,3-diketo-5-methylthio-1-phosphopentane phosphatase
+scaffold00004	.	gene	909825	910823	.	+	.	ID=2503278046;Note=16S RNA G1207 methylase;Name=rsmC
+scaffold00001	.	gene	118842	119966	.	+	.	ID=2503278248;Note=16S RNA G1207 methylase;Name=rsmC
+scaffold00004	.	gene	25419	26831	.	-	.	ID=2503277255;product=2,4-diaminobutyrate 4-transaminase
+scaffold00003	.	gene	489197	489904	.	+	.	ID=2503274561;product=2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+scaffold00001	.	gene	29042	29527	.	+	.	ID=2503278164;product=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+scaffold00002	.	gene	49084	49602	.	-	.	ID=2503278516;product=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+scaffold00003	.	gene	1479305	1480414	.	-	.	ID=2503275437;product=2-aminoethylphosphonate-pyruvate transaminase
+scaffold00004	.	gene	552290	553207	.	+	.	ID=2503277743;product=2-dehydropantoate 2-reductase
+scaffold00004	.	gene	113946	114902	.	-	.	ID=2503277329;product=2-dehydropantoate 2-reductase
+scaffold00003	.	gene	993450	994343	.	-	.	ID=2503275037;product=2-hydroxy-3-oxopropionate reductase
+scaffold00004	.	gene	3050	3646	.	+	.	ID=2503277230;product=2-hydroxychromene-2-carboxylate isomerase
+scaffold00004	.	gene	780640	782319	.	+	.	ID=2503277920;product=2-isopropylmalate synthase
+scaffold00004	.	gene	235161	235781	.	-	.	ID=2503277432;product=2-keto-3-deoxy-6-phosphogluconate aldolase
+scaffold00004	.	gene	235801	236790	.	-	.	ID=2503277433;product=2-keto-3-deoxy-galactonokinase
+scaffold00002	.	gene	307676	308341	.	-	.	ID=2503278751;product=2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase
+scaffold00003	.	gene	1198631	1200115	.	+	.	ID=2503275225;product=2-methylcitrate dehydratase
+scaffold00003	.	gene	1192314	1193441	.	+	.	ID=2503275222;product=2-methylcitrate synthase/citrate synthase II
+scaffold00003	.	gene	1193648	1196242	.	+	.	ID=2503275223;product=2-methylisocitrate dehydratase
+scaffold00003	.	gene	1028539	1029762	.	+	.	ID=2503275062;product=2-oxoglutarate dehydrogenase complex dihydrolipoamide succinyltransferase
+scaffold00003	.	gene	1025665	1028496	.	+	.	ID=2503275061;product=2-oxoglutarate dehydrogenase
+scaffold00004	.	gene	186045	186716	.	+	.	ID=2503277391;product=2-phosphoglycolate phosphatase
+scaffold00002	.	gene	20138	20956	.	-	.	ID=2503278492;product=2-phosphoglycolate phosphatase
+scaffold00002	.	gene	360726	361913	.	-	.	ID=2503278799;product=2-polyprenyl-6-methoxyphenol 4-hydroxylase
+scaffold00003	.	gene	1402237	1403772	.	-	.	ID=2503275366;product=2-polyprenyl-6-methoxyphenol hydroxylase
+scaffold00006	.	gene	289596	291200	.	-	.	ID=2503273821;product=2-polyprenylphenol 6-hydroxylase
+scaffold00002	.	gene	377290	378258	.	-	.	ID=2503278818;product=2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+scaffold00004	.	gene	600635	601570	.	-	.	ID=2503277775;product=2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases
+scaffold00003	.	gene	493129	493602	.	+	.	ID=2503274565;product=2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+scaffold00003	.	gene	68440	69894	.	-	.	ID=2503274188;product=2[4Fe-4S] protein
+scaffold00006	.	gene	179915	180742	.	+	.	ID=2503273718;product=3''(2''),5''-bisphosphate nucleotidase
+scaffold00007	.	gene	919049	920158	.	+	.	ID=2503276668;product=3,4-dihydroxy-2-butanone 4-phosphate synthase
+scaffold00001	.	gene	260599	261690	.	-	.	ID=2503278381;product=3,4-dihydroxy-2-butanone 4-phosphate synthase
+scaffold00003	.	gene	643927	645291	.	+	.	ID=2503274718;product=3-carboxy-cis,cis-muconate cycloisomerase
+scaffold00007	.	gene	900577	901752	.	-	.	ID=2503276651;product=3-carboxymuconate cyclase
+scaffold00001	.	gene	129961	130410	.	+	.	ID=2503278260;product=3-dehydroquinate dehydratase, type II
+scaffold00006	.	gene	575718	576170	.	-	.	ID=2503274060;product=3-dehydroquinate dehydratase, type II
+scaffold00006	.	gene	319105	320205	.	+	.	ID=2503273847;product=3-dehydroquinate synthase
+scaffold00004	.	gene	101324	102670	.	+	.	ID=2503277314;product=3-deoxy-7-phosphoheptulonate synthase, class II
+scaffold00003	.	gene	486459	487304	.	+	.	ID=2503274558;product=3-deoxy-8-phosphooctulonate synthase
+scaffold00004	.	gene	277864	278628	.	-	.	ID=2503277477;product=3-deoxy-D-manno-octulosonate cytidylyltransferase
+scaffold00006	.	gene	420328	421602	.	+	.	ID=2503273926;product=3-deoxy-D-manno-octulosonic-acid transferase
+scaffold00003	.	gene	1167055	1169199	.	+	.	ID=2503275197;product=3-hydroxyacyl-CoA dehydrogenase
+scaffold00002	.	gene	150722	151687	.	+	.	ID=2503278603;product=3-hydroxyacyl-CoA dehydrogenase
+scaffold00006	.	gene	172060	173283	.	+	.	ID=2503273710;product=3-hydroxyacyl-CoA dehydrogenase
+scaffold00007	.	gene	710185	710958	.	+	.	ID=2503276512;product=3-hydroxybutyrate dehydrogenase
+scaffold00003	.	gene	26688	27575	.	+	.	ID=2503274151;product=3-hydroxyisobutyrate dehydrogenase
+scaffold00003	.	gene	622371	623264	.	+	.	ID=2503274700;product=3-hydroxyisobutyrate dehydrogenase
+scaffold00006	.	gene	334947	335411	.	-	.	ID=2503273858;product=3-hydroxylacyl-(acyl carrier protein) dehydratase
+scaffold00004	.	gene	16654	18072	.	-	.	ID=2503277245;product=3-isopropylmalate dehydratase, large subunit
+scaffold00007	.	gene	1363799	1365217	.	-	.	ID=2503277095;product=3-isopropylmalate dehydratase, large subunit
+scaffold00004	.	gene	16043	16657	.	-	.	ID=2503277244;product=3-isopropylmalate dehydratase, small subunit
+scaffold00007	.	gene	1363141	1363785	.	-	.	ID=2503277094;product=3-isopropylmalate dehydratase, small subunit
+scaffold00007	.	gene	1361102	1362184	.	-	.	ID=2503277092;product=3-isopropylmalate dehydrogenase
+scaffold00007	.	gene	19736	20578	.	-	.	ID=2503275879;product=3-methyl-2-oxobutanoate hydroxymethyltransferase
+scaffold00001	.	gene	29927	30727	.	+	.	ID=2503278165;product=3-methyl-2-oxobutanoate hydroxymethyltransferase
+scaffold00001	.	gene	211154	211852	.	+	.	ID=2503278336;product=3-methyladenine DNA glycosylase
+scaffold00004	.	gene	341582	342256	.	-	.	ID=2503277541;product=3-methyladenine DNA glycosylase
+scaffold00003	.	gene	1788660	1789277	.	-	.	ID=2503275706;product=3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase
+scaffold00004	.	gene	513773	514636	.	-	.	ID=2503277704;product=3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase
+scaffold00007	.	gene	1206833	1207531	.	+	.	ID=2503276945;product=3-oxoacid CoA-transferase, A subunit
+scaffold00007	.	gene	1207556	1208221	.	+	.	ID=2503276946;product=3-oxoacid CoA-transferase, B subunit
+scaffold00004	.	gene	260611	261351	.	-	.	ID=2503277461;product=3-oxoacyl-(acyl-carrier-protein) reductase
+scaffold00006	.	gene	334226	334954	.	-	.	ID=2503273857;product=3-oxoacyl-(acyl-carrier-protein) reductase
+scaffold00006	.	gene	335408	336604	.	-	.	ID=2503273859;product=3-oxoacyl-(acyl-carrier-protein) synthase
+scaffold00006	.	gene	333000	334226	.	-	.	ID=2503273856;product=3-oxoacyl-(acyl-carrier-protein) synthase
+scaffold00004	.	gene	323414	324634	.	+	.	ID=2503277523;product=3-oxoacyl-(acyl-carrier-protein) synthase
+scaffold00004	.	gene	258825	260069	.	-	.	ID=2503277459;product=3-oxoacyl-[acyl-carrier-protein] synthase 2
+scaffold00004	.	gene	145040	146314	.	-	.	ID=2503277360;product=3-oxoacyl-[acyl-carrier-protein] synthase 2
+scaffold00003	.	gene	780958	782079	.	+	.	ID=2503274856;product=3-oxoacyl-[acyl-carrier-protein] synthase III
+scaffold00003	.	gene	1680312	1681367	.	+	.	ID=2503275614;product=3-oxoacyl-[acyl-carrier-protein] synthase III
+scaffold00003	.	gene	926745	927671	.	+	.	ID=2503274968;product=3-oxoacyl-[acyl-carrier-protein] synthase III
+scaffold00003	.	gene	645303	646094	.	+	.	ID=2503274719;product=3-oxoadipate enol-lactonase
+scaffold00002	.	gene	185071	186234	.	-	.	ID=2503278633;product=3-phosphoglycerate kinase
+scaffold00004	.	gene	173911	176118	.	-	.	ID=2503277383;product=3-phosphoshikimate 1-carboxyvinyltransferase
+scaffold00001	.	gene	302265	302654	.	-	.	ID=2503278419;product=30S ribosomal protein S11
+scaffold00001	.	gene	308875	309141	.	-	.	ID=2503278432;product=30S ribosomal protein S17
+scaffold00007	.	gene	152828	154906	.	-	.	ID=2503275990;product=4-alpha-glucanotransferase
+scaffold00007	.	gene	260051	261649	.	-	.	ID=2503276082;product=4-amino-4-deoxy-L-arabinose transferase;Note=glycosyltransferases of PMT family
+scaffold00003	.	gene	58869	60347	.	-	.	ID=2503274180;product=4-amino-4-deoxy-L-arabinose transferase;Note=glycosyltransferases of PMT family
+scaffold00007	.	gene	275649	277166	.	-	.	ID=2503276096;product=4-amino-4-deoxy-L-arabinose transferase;Note=glycosyltransferases of PMT family
+scaffold00007	.	gene	263773	265422	.	-	.	ID=2503276086;product=4-amino-4-deoxy-L-arabinose transferase;Note=glycosyltransferases of PMT family
+scaffold00007	.	gene	277163	278884	.	-	.	ID=2503276097;product=4-amino-4-deoxy-L-arabinose transferase;Note=glycosyltransferases of PMT family
+scaffold00006	.	gene	185327	188239	.	+	.	ID=2503273723;product=4-aminobutyrate aminotransferase
+scaffold00004	.	gene	705722	707116	.	+	.	ID=2503277866;product=4-aminobutyrate aminotransferase
+scaffold00006	.	gene	72541	73818	.	+	.	ID=2503273617;product=4-aminobutyrate aminotransferase
+scaffold00003	.	gene	646105	646497	.	+	.	ID=2503274720;product=4-carboxymuconolactone decarboxylase
+scaffold00004	.	gene	946659	947510	.	+	.	ID=2503278087;product=4-diphosphocytidyl-2C-methyl-D-erythritol kinase
+scaffold00004	.	gene	632241	633434	.	+	.	ID=2503277797;product=4-hydroxybenzoate 3-monooxygenase
+scaffold00002	.	gene	543863	544753	.	+	.	ID=2503278975;product=4-hydroxybenzoate polyprenyl transferase
+scaffold00002	.	gene	543303	543863	.	+	.	ID=2503278974;product=4-hydroxybenzoate synthetase (chorismate lyase)
+scaffold00007	.	gene	204738	205814	.	+	.	ID=2503276034;product=4-hydroxyphenylpyruvate dioxygenase
+scaffold00001	.	gene	132159	134060	.	-	.	ID=2503278263;product=4-hydroxyphenylpyruvate dioxygenase
+scaffold00002	.	gene	38993	39982	.	+	.	ID=2503278507;product=4-hydroxythreonine-4-phosphate dehydrogenase
+scaffold00007	.	gene	1462224	1462961	.	-	.	ID=2503277187;product=5''-deoxy-5''-methylthioadenosine phosphorylase
+scaffold00004	.	gene	113011	113916	.	-	.	ID=2503277328;product=5''-nucleotidase.
+scaffold00003	.	gene	494645	495394	.	+	.	ID=2503274567;Note=5''/3''-nucleotidase;Name=SurE
+scaffold00002	.	gene	364780	365385	.	+	.	ID=2503278805;product=5,10-methenyltetrahydrofolate synthetase
+scaffold00003	.	gene	1455745	1456599	.	-	.	ID=2503275416;product=5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase
+scaffold00002	.	gene	202561	203406	.	+	.	ID=2503278649;product=5,10-methylenetetrahydrofolate reductase
+scaffold00003	.	gene	742891	743256	.	+	.	ID=2503274819;product=5-carboxymethyl-2-hydroxymuconate isomerase
+scaffold00003	.	gene	168450	169361	.	+	.	ID=2503274272;product=5-dehydro-4-deoxyglucarate dehydratase
+scaffold00007	.	gene	754235	757945	.	+	.	ID=2503276546;product=5-methyltetrahydrofolate--homocysteine methyltransferase
+scaffold00007	.	gene	926937	929225	.	-	.	ID=2503276676;product=5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+scaffold00001	.	gene	329007	329438	.	-	.	ID=2503278453;product=50S ribosomal protein L11
+scaffold00001	.	gene	312847	313482	.	-	.	ID=2503278441;product=50S ribosomal protein L3
+scaffold00001	.	gene	259888	260364	.	-	.	ID=2503278380;product=6,7-dimethyl-8-ribityllumazine synthase
+scaffold00004	.	gene	500948	502774	.	-	.	ID=2503277695;product=6-phosphogluconate dehydratase
+scaffold00007	.	gene	667591	668571	.	-	.	ID=2503276465;product=6-phosphogluconate dehydrogenase (decarboxylating)
+scaffold00004	.	gene	485477	486190	.	-	.	ID=2503277682;product=6-phosphogluconolactonase
+scaffold00007	.	gene	1437377	1438207	.	-	.	ID=2503277170;product=7-cyano-7-deazaguanine reductase
+scaffold00003	.	gene	682147	683382	.	-	.	ID=2503274756;product=7-keto-8-aminopelargonate synthetase and related enzymes
+scaffold00002	.	gene	85024	86202	.	-	.	ID=2503278549;product=8-amino-7-oxononanoate synthase
+scaffold00003	.	gene	1674464	1675540	.	+	.	ID=2503275607;Note=A-factor biosynthesis repeat;product=hypothetical protein
+scaffold00006	.	gene	215435	216502	.	-	.	ID=2503273756;product=A/G-specific adenine glycosylase
+scaffold00007	.	gene	1479540	1481318	.	-	.	ID=2503277202;product=ABC transporter, permease/ATP-binding protein
+scaffold00007	.	gene	1061980	1062966	.	+	.	ID=2503276798;product=ABC transporter, substrate-binding protein;Note=aliphatic sulfonates family
+scaffold00002	.	gene	335455	336435	.	-	.	ID=2503278778;product=ABC transporter, substrate-binding protein;Note=aliphatic sulfonates family
+scaffold00007	.	gene	431197	432177	.	-	.	ID=2503276227;product=ABC transporter, substrate-binding protein;Note=aliphatic sulfonates family
+scaffold00007	.	gene	1060738	1061685	.	-	.	ID=2503276797;product=ABC transporter, substrate-binding protein;Note=aliphatic sulfonates family
+scaffold00003	.	gene	201785	202510	.	-	.	ID=2503274303;product=ABC transport system, ATPase component
+scaffold00002	.	gene	357775	358779	.	-	.	ID=2503278796;product=ABC Fe3+ transport system, periplasmic component
+scaffold00006	.	gene	470893	471903	.	-	.	ID=2503273969;product=ABC Fe3+ transport system, periplasmic component
+scaffold00007	.	gene	274449	275462	.	-	.	ID=2503276095;product=ABC Fe3+ transport system, periplasmic component
+scaffold00003	.	gene	1107506	1108573	.	-	.	ID=2503275138;product=ABC Fe3+ transport system, periplasmic component
+scaffold00007	.	gene	272850	274445	.	-	.	ID=2503276094;product=ABC Fe3+ transport system, permease component
+scaffold00002	.	gene	355913	357529	.	-	.	ID=2503278795;product=ABC Fe3+ transport system, permease component
+scaffold00006	.	gene	469328	470893	.	-	.	ID=2503273968;product=ABC Fe3+ transport system, permease component
+scaffold00001	.	gene	255048	255848	.	-	.	ID=2503278373;product=ABC Fe3+-hydroxamate transport system, periplasmic component
+scaffold00006	.	gene	535333	536280	.	-	.	ID=2503274029;product=ABC Fe3+-hydroxamate transport system, periplasmic component
+scaffold00006	.	gene	534326	535336	.	-	.	ID=2503274028;product=ABC Fe3+-siderophore transport system, permease component
+scaffold00001	.	gene	16097	17134	.	-	.	ID=2503278153;product=ABC Fe3+-siderophore transport system, permease component
+scaffold00002	.	gene	619416	620084	.	+	.	ID=2503279035;product=ABC Mn/Zn transport systems, ATPase component
+scaffold00004	.	gene	22274	23119	.	+	.	ID=2503277251;product=ABC Mn/Zn transport systems, ATPase component
+scaffold00002	.	gene	748040	748825	.	+	.	ID=2503279149;function=ABC Mn/Zn transport system, ATPase component;Name=znuC
+scaffold00004	.	gene	23119	24018	.	+	.	ID=2503277252;product=ABC Mn2+/Zn2+ transport systems, permease component
+scaffold00002	.	gene	620084	620950	.	+	.	ID=2503279036;product=ABC Mn2+/Zn2+ transport systems, permease component
+scaffold00002	.	gene	748818	749606	.	+	.	ID=2503279150;function=ABC Mn2+/Zn2+ transport systems, permease component;Name=znuB
+scaffold00004	.	gene	224541	225362	.	-	.	ID=2503277423;product=ABC transport, periplasmic component
+scaffold00006	.	gene	224493	225248	.	+	.	ID=2503273765;product=ABC transport, periplasmic component
+scaffold00003	.	gene	320165	321196	.	+	.	ID=2503274411;product=ABC transport, periplasmic component
+scaffold00002	.	gene	311833	312399	.	+	.	ID=2503278755;product=ABC transport, periplasmic component
+scaffold00006	.	gene	134357	135157	.	-	.	ID=2503273675;product=ABC transport, periplasmic component
+scaffold00006	.	gene	116269	117150	.	+	.	ID=2503273660;product=ABC transport, periplasmic component
+scaffold00004	.	gene	694114	695040	.	+	.	ID=2503277852;product=ABC transport, periplasmic component
+scaffold00002	.	gene	384911	385696	.	+	.	ID=2503278824;product=ABC transport, periplasmic component
+scaffold00007	.	gene	1069352	1070086	.	+	.	ID=2503276808;product=ABC transport, periplasmic component
+scaffold00002	.	gene	589438	590349	.	+	.	ID=2503279010;product=ABC transport, periplasmic component
+scaffold00007	.	gene	723852	724700	.	-	.	ID=2503276524;product=ABC transport, periplasmic component
+scaffold00003	.	gene	382274	383626	.	+	.	ID=2503274467;product=ABC transport, periplasmic component
+scaffold00004	.	gene	50729	51526	.	-	.	ID=2503277267;product=ABC transport, periplasmic component
+scaffold00002	.	gene	176163	176900	.	-	.	ID=2503278621;product=ABC transport, periplasmic component
+scaffold00006	.	gene	206547	207296	.	-	.	ID=2503273744;product=ABC transport, periplasmic component
+scaffold00006	.	gene	281630	282427	.	+	.	ID=2503273811;product=ABC transport, periplasmic component
+scaffold00003	.	gene	577165	577947	.	-	.	ID=2503274657;product=ABC transport, periplasmic component
+scaffold00007	.	gene	410652	411458	.	-	.	ID=2503276209;product=ABC transport, periplasmic component
+scaffold00002	.	gene	203605	204411	.	+	.	ID=2503278650;product=ABC transport, periplasmic component
+scaffold00007	.	gene	1393575	1394360	.	+	.	ID=2503277128;product=ABC transport, periplasmic component
+scaffold00003	.	gene	1201476	1203221	.	-	.	ID=2503275227;product=ABC transport system, permease component
+scaffold00007	.	gene	1260922	1261575	.	-	.	ID=2503276994;product=ABC transport system, ATPase component
+scaffold00003	.	gene	1891702	1893657	.	+	.	ID=2503275767;product=ABC transport system, ATPase component
+scaffold00001	.	gene	267648	268358	.	+	.	ID=2503278390;product=ABC transport system, ATPase component
+scaffold00003	.	gene	1326043	1328016	.	-	.	ID=2503275313;product=ABC transport system, ATPase component
+scaffold00003	.	gene	615483	616739	.	-	.	ID=2503274695;product=ABC transport system, permease component
+scaffold00006	.	gene	500532	501833	.	+	.	ID=2503273994;product=ABC transport system, permease component
+scaffold00003	.	gene	614017	614718	.	-	.	ID=2503274693;product=ABC transport system, ATPase component
+scaffold00006	.	gene	501830	502702	.	+	.	ID=2503273995;product=ABC transport system, ATPase component
+scaffold00006	.	gene	502699	503415	.	+	.	ID=2503273996;product=ABC transport system, ATPase component
+scaffold00003	.	gene	614719	615486	.	-	.	ID=2503274694;product=ABC transport system, ATPase component
+scaffold00003	.	gene	617890	619017	.	-	.	ID=2503274697;product=ABC transport system, periplasmic component
+scaffold00006	.	gene	498243	499376	.	+	.	ID=2503273992;product=ABC transport system, periplasmic component
+
+scaffold00006	.	gene	536277	537065	.	-	.	ID=2503274030;product=ABC cobalamin/Fe3+-siderophore transport system, ATPase component
+scaffold00003	.	gene	150360	151955	.	-	.	ID=2503274259;Note=ABC dipeptide transport system, periplasmic component;Name=nikA
+scaffold00003	.	gene	155528	157153	.	-	.	ID=2503274262;product=ABC dipeptide transport system, periplasmic component
+scaffold00002	.	gene	473781	475367	.	+	.	ID=2503278907;product=ABC dipeptide transport system, periplasmic component
+scaffold00003	.	gene	157414	159015	.	-	.	ID=2503274263;product=ABC dipeptide transport system, periplasmic component
+scaffold00003	.	gene	153628	155226	.	-	.	ID=2503274261;product=ABC dipeptide transport system, periplasmic component
+scaffold00003	.	gene	147359	148327	.	-	.	ID=2503274256;Note=ABC dipeptide/oligopeptide/nickel transport system, ATPase component;Name=nikD
+scaffold00003	.	gene	149276	150286	.	-	.	ID=2503274258;Note=ABC dipeptide/oligopeptide/nickel transport system, permease component;Name=nikB
+scaffold00003	.	gene	148338	149264	.	-	.	ID=2503274257;Note=ABC dipeptide/oligopeptide/nickel transport system, permease component;Name=nikC
+scaffold00001	.	gene	15330	16097	.	-	.	ID=2503278152;product=ABC hemin transport system, ATPase component
+scaffold00001	.	gene	17131	18003	.	-	.	ID=2503278154;product=ABC hemin transport system, periplasmic component
+scaffold00006	.	gene	207310	208083	.	-	.	ID=2503273745;product=ABC histidine transport system, ATPase component
+scaffold00003	.	gene	573764	574528	.	-	.	ID=2503274653;product=ABC histidine transport system, ATPase component
+scaffold00004	.	gene	400925	401689	.	-	.	ID=2503277597;product=ABC histidine transport system, ATPase component
+scaffold00002	.	gene	752855	753862	.	+	.	ID=2503279153;product=ABC metal ion transport system, ATPase component
+scaffold00003	.	gene	1911570	1912370	.	+	.	ID=2503275781;product=ABC metal ion transport system, ATPase component
+scaffold00006	.	gene	125428	126549	.	-	.	ID=2503273667;product=ABC metal ion transport system, ATPase component
+scaffold00002	.	gene	620962	621837	.	+	.	ID=2503279037;product=ABC metal ion transport system, periplasmic component
+scaffold00004	.	gene	21165	22094	.	+	.	ID=2503277250;product=ABC metal ion transport system, periplasmic component
+scaffold00004	.	gene	24019	24924	.	+	.	ID=2503277253;product=ABC metal ion transport system, periplasmic component
+scaffold00006	.	gene	112811	113608	.	+	.	ID=2503273655;product=ABC metal ion transport system, periplasmic component
+scaffold00003	.	gene	1910764	1911573	.	+	.	ID=2503275780;product=ABC metal ion transport system, periplasmic component
+scaffold00006	.	gene	126552	127361	.	-	.	ID=2503273668;product=ABC metal ion transport system, periplasmic component
+scaffold00002	.	gene	754615	755385	.	+	.	ID=2503279155;product=ABC metal ion transport system, periplasmic component
+scaffold00006	.	gene	124794	125438	.	-	.	ID=2503273666;product=ABC metal ion transport system, permease component
+scaffold00003	.	gene	1912367	1913038	.	+	.	ID=2503275782;product=ABC metal ion transport system, permease component
+scaffold00002	.	gene	753862	754536	.	+	.	ID=2503279154;product=ABC metal ion transport system, permease component
+scaffold00003	.	gene	1683053	1683820	.	-	.	ID=2503275617;product=ABC molybdate transport system, periplasmic component
+scaffold00007	.	gene	400934	402793	.	-	.	ID=2503276203;product=ABC multidrug transport system, ATPase and permease component
+scaffold00004	.	gene	197453	199270	.	-	.	ID=2503277397;product=ABC multidrug transport system, ATPase and permease component
+scaffold00007	.	gene	1303355	1305166	.	-	.	ID=2503277031;product=ABC multidrug transport system, ATPase and permease component
+scaffold00003	.	gene	787201	789033	.	-	.	ID=2503274862;product=ABC multidrug transport system, ATPase and permease component
+scaffold00004	.	gene	284738	285670	.	-	.	ID=2503277485;product=ABC multidrug transport system, ATPase component
+scaffold00002	.	gene	367307	370033	.	+	.	ID=2503278809;product=ABC multidrug transport system, ATPase component
+scaffold00002	.	gene	370033	371151	.	+	.	ID=2503278810;product=ABC multidrug transport system, permease component
+scaffold00003	.	gene	1200139	1201461	.	-	.	ID=2503275226;product=ABC nitrate/sulfonate/bicarbonate transport system, ATPase component
+scaffold00007	.	gene	822621	823469	.	-	.	ID=2503276595;product=ABC nitrate/sulfonate/bicarbonate transport system, ATPase component
+scaffold00003	.	gene	1926667	1927509	.	+	.	ID=2503275794;product=ABC nitrate/sulfonate/bicarbonate transport system, ATPase component
+scaffold00006	.	gene	41666	42526	.	+	.	ID=2503273588;product=ABC nitrate/sulfonate/bicarbonate transport system, ATPase component
+scaffold00006	.	gene	94353	95168	.	-	.	ID=2503273638;product=ABC nitrate/sulfonate/bicarbonate transport system, ATPase component
+scaffold00002	.	gene	332687	333493	.	-	.	ID=2503278775;product=ABC nitrate/sulfonate/bicarbonate transport system, ATPase component
+scaffold00006	.	gene	95165	96763	.	-	.	ID=2503273639;product=ABC nitrate/sulfonate/bicarbonate transport system, permease component
+scaffold00006	.	gene	42547	43413	.	+	.	ID=2503273589;product=ABC nitrate/sulfonate/bicarbonate transport system, permease component
+scaffold00006	.	gene	148595	149428	.	-	.	ID=2503273688;product=ABC nitrate/sulfonate/bicarbonate transport system, permease component
+scaffold00007	.	gene	1063027	1063866	.	+	.	ID=2503276799;product=ABC nitrate/sulfonate/bicarbonate transport system, permease component
+scaffold00003	.	gene	1928674	1929438	.	+	.	ID=2503275796;product=ABC nitrate/sulfonate/bicarbonate transport system, permease component
+scaffold00002	.	gene	333490	334272	.	-	.	ID=2503278776;product=ABC nitrate/sulfonate/bicarbonate transport system, permease component
+scaffold00007	.	gene	823469	824209	.	-	.	ID=2503276596;product=ABC nitrate/sulfonate/bicarbonate transport system, permease component
+scaffold00006	.	gene	97170	98183	.	+	.	ID=2503273640;product=ABC nitrate/sulfonate/bicarbonate transport systems, periplasmic component
+scaffold00007	.	gene	824722	826125	.	-	.	ID=2503276597;product=ABC nitrate/sulfonate/bicarbonate transport systems, periplasmic component
+scaffold00006	.	gene	40635	41660	.	+	.	ID=2503273587;product=ABC nitrate/sulfonate/bicarbonate transport systems, periplasmic component
+scaffold00003	.	gene	1927475	1928674	.	+	.	ID=2503275795;product=ABC nitrate/sulfonate/bicarbonate transport systems, periplasmic component
+scaffold00007	.	gene	782552	784402	.	-	.	ID=2503276563;product=ABC oligopeptide transport system, periplasmic component
+scaffold00003	.	gene	1413593	1415458	.	-	.	ID=2503275375;product=ABC oligopeptide transport system, periplasmic component
+scaffold00003	.	gene	1816308	1818149	.	-	.	ID=2503275731;product=ABC oligopeptide transport system, periplasmic component;Name=nikB
+scaffold00003	.	gene	1818146	1819978	.	-	.	ID=2503275732;product=ABC oligopeptide transport system, periplasmic component;Name=nikA
+scaffold00007	.	gene	701387	703255	.	+	.	ID=2503276506;product=ABC oligopeptide transport system, periplasmic component
+scaffold00003	.	gene	1519122	1520456	.	-	.	ID=2503275471;product=ABC phosphate transport system, periplasmic component
+scaffold00007	.	gene	847184	848296	.	-	.	ID=2503276607;product=ABC phosphate transport system, periplasmic component
+scaffold00007	.	gene	39896	40693	.	-	.	ID=2503275900;product=ABC phosphate/phosphonate transport system, ATPase component
+scaffold00004	.	gene	470865	471656	.	-	.	ID=2503277665;product=ABC phosphate/phosphonate transport system, periplasmic component
+scaffold00007	.	gene	39075	39902	.	-	.	ID=2503275899;product=ABC phosphate/phosphonate transport system, permease component
+scaffold00004	.	gene	696646	697380	.	+	.	ID=2503277855;product=ABC polar amino acid transport system, ATPase component
+scaffold00006	.	gene	132938	133687	.	-	.	ID=2503273673;product=ABC polar amino acid transport system, ATPase component
+scaffold00007	.	gene	409082	409861	.	-	.	ID=2503276207;product=ABC polar amino acid transport system, ATPase component
+scaffold00006	.	gene	115490	116272	.	+	.	ID=2503273659;product=ABC polar amino acid transport system, ATPase component
+scaffold00006	.	gene	283512	284246	.	+	.	ID=2503273813;product=ABC polar amino acid transport system, ATPase component
+scaffold00003	.	gene	323565	324329	.	+	.	ID=2503274414;product=ABC polar amino acid transport system, ATPase component
+scaffold00007	.	gene	721673	722470	.	-	.	ID=2503276521;product=ABC polar amino acid transport system, ATPase component
+scaffold00002	.	gene	387021	387758	.	+	.	ID=2503278827;product=ABC polar amino acid transport system, ATPase component
+scaffold00004	.	gene	283962	284741	.	-	.	ID=2503277484;product=ABC polysaccharide/polyol phosphate export systems, permease component
+scaffold00002	.	gene	648245	649042	.	+	.	ID=2503279059;product=ABC polysaccharide/polyol phosphate export systems, permease component
+scaffold00004	.	gene	153565	154413	.	+	.	ID=2503277365;product=ABC polysaccharide/polyol phosphate export systems, permease component
+scaffold00004	.	gene	154403	155710	.	+	.	ID=2503277366;product=ABC polysaccharide/polyol phosphate transport system, ATPase component
+scaffold00002	.	gene	649042	650295	.	+	.	ID=2503279060;product=ABC polysaccharide/polyol phosphate transport system, ATPase component
+scaffold00006	.	gene	268854	269684	.	+	.	ID=2503273802;product=ABC proline/glycine betaine transport system, ATPase component
+scaffold00006	.	gene	268006	268857	.	+	.	ID=2503273801;product=ABC proline/glycine betaine transport system, permease component
+scaffold00003	.	gene	1015159	1016010	.	+	.	ID=2503275053;product=ABC proline/glycine betaine transport systems, periplasmic component
+scaffold00006	.	gene	266953	267921	.	+	.	ID=2503273800;product=ABC proline/glycine betaine transport systems, periplasmic component
+scaffold00007	.	gene	1082882	1083898	.	-	.	ID=2503276821;product=ABC proline/glycine betaine transport systems, periplasmic component
+scaffold00004	.	gene	469130	470143	.	-	.	ID=2503277663;product=ABC proline/glycine betaine transport systems, periplasmic component
+scaffold00003	.	gene	141180	141944	.	-	.	ID=2503274250;product=ABC proline/glycine betaine transport systems, permease component
+scaffold00003	.	gene	139599	140252	.	-	.	ID=2503274248;product=ABC proline/glycine betaine transport systems, permease component
+scaffold00007	.	gene	1326106	1326510	.	-	.	ID=2503277057;product=ABC ribose transport system, auxiliary component
+scaffold00007	.	gene	921502	922446	.	+	.	ID=2503276670;product=ABC spermidine/putrescine transport system, permease component I
+scaffold00007	.	gene	1164323	1165237	.	+	.	ID=2503276904;product=ABC spermidine/putrescine transport system, permease component I
+scaffold00002	.	gene	321811	322731	.	-	.	ID=2503278765;product=ABC spermidine/putrescine transport system, permease component I
+scaffold00003	.	gene	400086	401006	.	-	.	ID=2503274483;product=ABC spermidine/putrescine transport system, permease component I
+scaffold00004	.	gene	957391	958311	.	+	.	ID=2503278097;product=ABC spermidine/putrescine transport system, permease component I
+scaffold00002	.	gene	23972	25219	.	-	.	ID=2503278496;product=ABC spermidine/putrescine transport system, permease component I
+scaffold00003	.	gene	1104888	1105688	.	-	.	ID=2503275135;product=ABC spermidine/putrescine transport system, permease component II
+scaffold00004	.	gene	958311	959117	.	+	.	ID=2503278098;product=ABC spermidine/putrescine transport system, permease component II
+scaffold00007	.	gene	1165234	1166109	.	+	.	ID=2503276905;product=ABC spermidine/putrescine transport system, permease component II
+scaffold00002	.	gene	23134	23958	.	-	.	ID=2503278495;product=ABC spermidine/putrescine transport system, permease component II
+scaffold00002	.	gene	320924	321814	.	-	.	ID=2503278764;product=ABC spermidine/putrescine transport system, permease component II
+scaffold00007	.	gene	922453	923262	.	+	.	ID=2503276671;product=ABC spermidine/putrescine transport system, permease component II
+scaffold00003	.	gene	399287	400096	.	-	.	ID=2503274482;product=ABC spermidine/putrescine transport system, permease component II
+scaffold00003	.	gene	1103902	1104891	.	-	.	ID=2503275134;product=ABC spermidine/putrescine transport systems, ATPase component
+scaffold00007	.	gene	271795	272853	.	-	.	ID=2503276093;product=ABC spermidine/putrescine transport systems, ATPase component
+scaffold00004	.	gene	685586	686695	.	+	.	ID=2503277845;product=ABC spermidine/putrescine transport systems, ATPase componens
+scaffold00007	.	gene	1329446	1330999	.	-	.	ID=2503277061;product=ABC sugar transport system, ATPase component
+scaffold00004	.	gene	244700	246244	.	-	.	ID=2503277443;product=ABC sugar transport system, ATPase component
+scaffold00003	.	gene	1913047	1914597	.	+	.	ID=2503275783;product=ABC sugar transport system, ATPase component
+scaffold00007	.	gene	555005	556315	.	+	.	ID=2503276332;product=ABC sugar transport system, periplasmic component
+scaffold00004	.	gene	494688	495989	.	-	.	ID=2503277690;product=ABC sugar transport system, periplasmic component
+scaffold00007	.	gene	1331057	1332013	.	-	.	ID=2503277062;product=ABC sugar transport system, periplasmic component
+scaffold00004	.	gene	246278	247282	.	-	.	ID=2503277444;product=ABC sugar transport system, periplasmic component
+scaffold00003	.	gene	1915647	1916702	.	+	.	ID=2503275785;product=ABC sugar transport system, periplasmic component
+scaffold00003	.	gene	1559904	1561646	.	+	.	ID=2503275500;product=ABC sugar transport system, periplasmic component
+scaffold00007	.	gene	765440	766513	.	-	.	ID=2503276549;product=ABC sugar transport system, periplasmic component
+scaffold00004	.	gene	492801	493646	.	-	.	ID=2503277688;product=ABC sugar transport system, permease component
+scaffold00007	.	gene	557406	558236	.	+	.	ID=2503276334;product=ABC sugar transport system, permease component
+scaffold00003	.	gene	1558775	1559575	.	+	.	ID=2503275498;product=ABC sugar transport system, permease component
+scaffold00003	.	gene	1555698	1556792	.	+	.	ID=2503275495;product=ABC sugar transport systems, ATPase component
+scaffold00007	.	gene	558402	559505	.	+	.	ID=2503276335;product=ABC sugar transport systems, ATPase component
+scaffold00004	.	gene	491638	492798	.	-	.	ID=2503277687;product=ABC sugar transport systems, ATPase component
+scaffold00003	.	gene	1556792	1557901	.	+	.	ID=2503275496;product=ABC sugar transport systems, ATPase component
+scaffold00003	.	gene	1557898	1558764	.	+	.	ID=2503275497;product=ABC sugar transport systems, permease component
+scaffold00007	.	gene	556471	557397	.	+	.	ID=2503276333;product=ABC sugar transport systems, permease component
+scaffold00004	.	gene	493639	494547	.	-	.	ID=2503277689;product=ABC sugar transport systems, permease component
+scaffold00006	.	gene	149425	150219	.	-	.	ID=2503273689;product=ABC taurine transport system, ATPase component
+scaffold00004	.	gene	120364	121047	.	+	.	ID=2503277338;product=ABC transport system, ATPase component;Note=lysophospholipase L1 biosynthesis
+scaffold00004	.	gene	121047	123551	.	+	.	ID=2503277339;product=ABC transport system, permease component;Note=lysophospholipase L1 biosynthesis
+scaffold00002	.	gene	723147	723950	.	+	.	ID=2503279125;product=ABC transport system, ATPase component;Note=resistance to organic solvents
+scaffold00003	.	gene	205397	206206	.	+	.	ID=2503274308;product=ABC transport system, ATPase component;Note=resistance to organic solvents
+scaffold00003	.	gene	207482	208135	.	+	.	ID=2503274311;product=ABC transport system, auxiliary component;Note=resistance to organic solvents
+scaffold00002	.	gene	723952	724890	.	+	.	ID=2503279126;product=ABC transport system, periplasmic component;Note=resistance to organic solvents
+scaffold00003	.	gene	207003	207470	.	+	.	ID=2503274310;product=ABC transport system, periplasmic component;Note=resistance to organic solvents
+scaffold00007	.	gene	1258454	1260925	.	-	.	ID=2503276993;product=ABC transport system, permease component;Note=involved in lipoprotein release
+scaffold00001	.	gene	268360	269625	.	+	.	ID=2503278391;product=ABC transport system, involved in lipoprotein release, permease component
+scaffold00002	.	gene	724887	725513	.	+	.	ID=2503279127;product=ABC transport system, auxiliary component
+scaffold00007	.	gene	778858	780501	.	-	.	ID=2503276560;product=ABC transport system, ATPase component
+scaffold00003	.	gene	1812597	1814207	.	-	.	ID=2503275728;product=ABC transport system, ATPase component
+scaffold00007	.	gene	705348	706922	.	+	.	ID=2503276509;product=ABC  transport system, duplicated ATPase component
+scaffold00003	.	gene	163898	165625	.	+	.	ID=2503274268;product=ABC  transport system, permease and ATPase components
+scaffold00007	.	gene	781501	782565	.	-	.	ID=2503276562;product=ABC  transport system, permease component
+scaffold00003	.	gene	1105675	1106520	.	-	.	ID=2503275136;product=ABC  transport system, permease component
+scaffold00003	.	gene	1815230	1816303	.	-	.	ID=2503275730;product=ABC  transport system, permease component;Name=nikC
+scaffold00002	.	gene	554841	557126	.	-	.	ID=2503278985;product=ABC  transport system, permease component
+scaffold00003	.	gene	370138	371109	.	-	.	ID=2503274455;product=ABC  transport system, permease component
+scaffold00007	.	gene	703255	704316	.	+	.	ID=2503276507;product=ABC  transport system, permease component
+scaffold00007	.	gene	780479	781501	.	-	.	ID=2503276561;product=ABC  transport system, permease component
+scaffold00003	.	gene	1411505	1412527	.	-	.	ID=2503275373;product=ABC  transport system, permease component
+scaffold00003	.	gene	1814209	1815228	.	-	.	ID=2503275729;product=ABC  transport system, permease component;Name=nikD
+scaffold00003	.	gene	1412527	1413591	.	-	.	ID=2503275374;product=ABC  transport system, permease component
+scaffold00006	.	gene	641442	642548	.	-	.	ID=2503274120;product=ABC  transport system, permease component
+scaffold00007	.	gene	704316	705338	.	+	.	ID=2503276508;product=ABC  transport system, permease component
+scaffold00006	.	gene	642564	644111	.	-	.	ID=2503274121;product=ABC  transport systems, ATPase components
