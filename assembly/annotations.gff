@@ -3444,3 +3444,371 @@ scaffold00006	.	gene	462274	463449	.	+	.	ID=2503273963;Name=HflK
 scaffold00006	.	gene	89220	90443	.	+	.	ID=2503273634;Name=HipA
 scaffold00004	.	gene	540878	541486	.	-	.	ID=2503277730;Name=RuvA
 scaffold00004	.	gene	539816	540877	.	-	.	ID=2503277729;Name=RuvB
+scaffold00002	.	gene	746571	747491	.	-	.	ID=2503279147;product=ABC-type Zn2+ transport system;Name=znuA
+scaffold00002	.	gene	448788	450797	.	+	.	ID=2503278884;product=ATP-dependent DNA helicase
+scaffold00002	.	gene	475502	476176	.	-	.	ID=2503278908;function=DNA repair protein;Name=radC
+scaffold00007	.	gene	623574	624380	.	-	.	ID=2503276411;product=DNA replication protein
+scaffold00003	.	gene	1612558	1614885	.	+	.	ID=2503275542;function=DNA segregation ATPase;Name=FtsK
+scaffold00003	.	gene	478478	481999	.	+	.	ID=2503274554;function=DNA-directed DNA polymerase III;Name=polC
+scaffold00007	.	gene	815398	818475	.	-	.	ID=2503276589;function=DNA-directed DNA polymerase III;Name=polC
+scaffold00006	.	gene	569858	570178	.	-	.	ID=2503274054;product=Factor for inversion stimulation Fis
+scaffold00007	.	gene	751797	754079	.	-	.	ID=2503276545;product=Fatty acid cis/trans isomerase
+scaffold00002	.	gene	747558	748040	.	+	.	ID=2503279148;product=Fe2+/Zn2+ uptake regulation proteins;Name=zur
+scaffold00006	.	gene	600579	601301	.	-	.	ID=2503274082;function=Flp pilus assembly protein;Name=TadD
+scaffold00004	.	gene	944310	946034	.	+	.	ID=2503278085;function=Flp pilus assembly protein;Name=TadD
+scaffold00006	.	gene	608080	608295	.	+	.	ID=2503274089;product=Flp/Fap pilin component
+scaffold00006	.	gene	608326	608532	.	+	.	ID=2503274090;product=Flp/Fap pilin component
+scaffold00002	.	gene	199127	200026	.	-	.	ID=2503278645;product=Formate/nitrite transporter
+scaffold00004	.	gene	87606	88088	.	-	.	ID=2503277301;product=hypothetical protein
+scaffold00002	.	gene	645830	646798	.	+	.	ID=2503279057;product=GDP-mannose 4,6-dehydratase
+contig00176	.	gene	2	646	.	-	.	ID=2503278133;product=GDSL-like Lipase/Acylhydrolase.
+scaffold00004	.	gene	772106	773683	.	-	.	ID=2503277912;product=GMP synthase glutamine-hydrolyzing
+scaffold00007	.	gene	994011	994739	.	-	.	ID=2503276733;product=Glutamine amidotransferase
+scaffold00003	.	gene	1169295	1170023	.	+	.	ID=2503275198;product=Glutamine amidotransferase
+scaffold00004	.	gene	212158	213906	.	+	.	ID=2503277409;product=GNAT-family acetyltransferase
+scaffold00003	.	gene	230036	230596	.	-	.	ID=2503274333;product=GTP cyclohydrolase I
+scaffold00003	.	gene	1144390	1144935	.	-	.	ID=2503275171;product=GTP cyclohydrolase I
+scaffold00007	.	gene	384910	385470	.	+	.	ID=2503276190;product=GTP cyclohydrolase I
+contig00268	.	gene	82	525	.	-	.	ID=2503279279;product=GTP cyclohydrolase II
+scaffold00001	.	gene	256264	256881	.	-	.	ID=2503278375;product=GTP cyclohydrolase II
+scaffold00003	.	gene	343803	344705	.	+	.	ID=2503274433;product=GTP-binding protein
+scaffold00006	.	gene	243949	245769	.	+	.	ID=2503273783;function=GTP-binding protein;Name=TypA
+scaffold00002	.	gene	729101	729565	.	-	.	ID=2503279130;product=hypothetical protein
+scaffold00004	.	gene	604905	609440	.	+	.	ID=2503277778;product=hypothetical protein
+scaffold00007	.	gene	749945	750529	.	-	.	ID=2503276543;Name=YhgI
+scaffold00003	.	gene	204147	205121	.	-	.	ID=2503274307;Name=KpsF
+scaffold00004	.	gene	653773	654486	.	-	.	ID=2503277813;product=Lipopolysaccharide kinase
+scaffold00006	.	gene	397290	398741	.	+	.	ID=2503273906;product=Lipopolysaccharide kinase
+scaffold00006	.	gene	395807	396541	.	+	.	ID=2503273904;product=Lipopolysaccharide kinase
+scaffold00006	.	gene	396538	397290	.	+	.	ID=2503273905;product=Lipopolysaccharide kinase
+scaffold00006	.	gene	395001	395807	.	+	.	ID=2503273903;product=Lipopolysaccharide kinase
+scaffold00004	.	gene	264274	264852	.	+	.	ID=2503277466;Name=MAF
+scaffold00003	.	gene	183649	184245	.	+	.	ID=2503274286;Name=MAF
+scaffold00003	.	gene	786215	786910	.	-	.	ID=2503274861;Name=MIP
+scaffold00004	.	gene	688526	689377	.	+	.	ID=2503277848;Name=MIP
+scaffold00002	.	gene	716292	717059	.	+	.	ID=2503279120;Name=TerC
+scaffold00007	.	gene	734917	736476	.	-	.	ID=2503276533;Name=TerC
+scaffold00003	.	gene	1452029	1452778	.	+	.	ID=2503275410;Name=TerC
+scaffold00007	.	gene	939926	940897	.	+	.	ID=2503276687;Name=TerC
+scaffold00003	.	gene	1112210	1113901	.	+	.	ID=2503275142;product=Membrane protein involved in colicin uptake
+scaffold00007	.	gene	1275990	1277294	.	+	.	ID=2503277007;product=Membrane protein involved in the export of O-antigen and teichoic acid
+scaffold00003	.	gene	110494	111333	.	+	.	ID=2503274228;product=Membrane protein required for beta-lactamase induction
+scaffold00002	.	gene	1447	2871	.	+	.	ID=2503278473;product=Membrane proteins related to metalloendopeptidases
+scaffold00003	.	gene	496284	497165	.	+	.	ID=2503274569;product=Membrane proteins related to metalloendopeptidases
+scaffold00002	.	gene	549084	549980	.	-	.	ID=2503278980;product=Membrane proteins related to metalloendopeptidases
+scaffold00004	.	gene	779351	780175	.	+	.	ID=2503277918;product=Membrane proteins related to metalloendopeptidases
+scaffold00007	.	gene	263432	263776	.	-	.	ID=2503276085;product=Membrane transporters of cations and cationic drugs
+scaffold00006	.	gene	418979	419311	.	-	.	ID=2503273924;product=Membrane transporters of cations and cationic drugs
+scaffold00003	.	gene	1083192	1083506	.	-	.	ID=2503275113;product=Membrane transporters of cations and cationic drugs
+scaffold00007	.	gene	1447382	1448398	.	-	.	ID=2503277180;product=Membrane-associated lipoprotein involved in thiamine biosynthesis
+scaffold00002	.	gene	184425	184757	.	-	.	ID=2503278631;product=Membrane-bound lysozyme-inhibitor of c-type lysozyme
+scaffold00002	.	gene	195123	196307	.	+	.	ID=2503278641;product=Membrane-bound lytic murein transglycosylase
+scaffold00006	.	gene	230487	231773	.	-	.	ID=2503273770;product=Membrane-bound metallopeptidase
+scaffold00001	.	gene	282694	283491	.	+	.	ID=2503278400;product=Metal-dependent hydrolase
+scaffold00007	.	gene	137943	138725	.	-	.	ID=2503275979;product=Metal-dependent hydrolase
+scaffold00002	.	gene	738308	739186	.	-	.	ID=2503279138;product=Metal-dependent hydrolase
+scaffold00001	.	gene	155484	156563	.	+	.	ID=2503278285;product=Metal-dependent hydrolase
+scaffold00003	.	gene	733717	734478	.	+	.	ID=2503274808;product=Metal-dependent beta-lactamase
+scaffold00006	.	gene	257125	259005	.	-	.	ID=2503273792;product=Methyl-accepting chemotaxis protein
+scaffold00003	.	gene	1043683	1045308	.	+	.	ID=2503275077;product=Methyl-accepting chemotaxis protein
+scaffold00003	.	gene	407604	409226	.	+	.	ID=2503274489;product=Methyl-accepting chemotaxis protein
+scaffold00002	.	gene	228422	230476	.	-	.	ID=2503278671;product=Methyl-accepting chemotaxis protein
+scaffold00006	.	gene	362482	364419	.	+	.	ID=2503273885;product=Methyl-accepting chemotaxis protein
+scaffold00003	.	gene	1371578	1373725	.	-	.	ID=2503275346;product=Methyl-accepting chemotaxis protein
+scaffold00007	.	gene	212607	214232	.	+	.	ID=2503276040;product=Methyl-accepting chemotaxis protein
+scaffold00006	.	gene	576412	578358	.	-	.	ID=2503274061;product=Methyl-accepting chemotaxis protein
+scaffold00003	.	gene	1375689	1377371	.	+	.	ID=2503275348;product=Methyl-accepting chemotaxis protein
+scaffold00007	.	gene	651816	653450	.	+	.	ID=2503276450;product=Methyl-accepting chemotaxis protein
+scaffold00006	.	gene	359950	361605	.	-	.	ID=2503273882;product=Methyl-accepting chemotaxis protein
+scaffold00006	.	gene	5898	7778	.	+	.	ID=2503273573;product=Methyl-accepting chemotaxis protein
+scaffold00003	.	gene	111621	113651	.	+	.	ID=2503274229;product=Methyl-accepting chemotaxis protein
+scaffold00006	.	gene	284394	286310	.	-	.	ID=2503273814;product=Methyl-accepting chemotaxis protein
+scaffold00001	.	gene	52031	53656	.	-	.	ID=2503278187;product=Methyl-accepting chemotaxis protein
+scaffold00004	.	gene	509985	512123	.	+	.	ID=2503277702;product=Methyl-accepting chemotaxis protein
+scaffold00007	.	gene	1400180	1402114	.	-	.	ID=2503277135;product=Methyl-accepting chemotaxis protein
+scaffold00007	.	gene	1085983	1087557	.	-	.	ID=2503276827;product=Methyl-accepting chemotaxis protein
+scaffold00002	.	gene	442087	444063	.	-	.	ID=2503278880;product=Methyl-accepting chemotaxis protein
+scaffold00004	.	gene	564507	566396	.	+	.	ID=2503277752;product=Methyl-accepting chemotaxis protein
+scaffold00004	.	gene	441874	443496	.	-	.	ID=2503277636;product=Methyl-accepting chemotaxis protein
+scaffold00003	.	gene	772719	774344	.	-	.	ID=2503274853;product=Methyl-accepting chemotaxis protein
+scaffold00007	.	gene	162259	164250	.	-	.	ID=2503275997;product=Methyl-accepting chemotaxis protein
+scaffold00006	.	gene	467302	469236	.	+	.	ID=2503273967;product=Methyl-accepting chemotaxis protein
+scaffold00003	.	gene	55950	57869	.	-	.	ID=2503274178;product=Methyl-accepting chemotaxis protein
+scaffold00004	.	gene	953077	955134	.	+	.	ID=2503278094;product=Methyl-accepting chemotaxis protein
+scaffold00004	.	gene	127865	129346	.	+	.	ID=2503277345;product=Methyl-accepting chemotaxis protein
+scaffold00004	.	gene	298235	300202	.	-	.	ID=2503277502;product=Methyl-accepting chemotaxis protein
+scaffold00004	.	gene	912925	915066	.	+	.	ID=2503278050;product=Methyl-accepting chemotaxis protein
+scaffold00007	.	gene	1362237	1363004	.	-	.	ID=2503277093;product=Methylase involved in ubiquinone/menaquinone biosynthesis
+scaffold00007	.	gene	1282970	1283776	.	-	.	ID=2503277013;product=Methylase involved in ubiquinone/menaquinone biosynthesis
+scaffold00003	.	gene	693016	693744	.	-	.	ID=2503274770;product=Methylase involved in ubiquinone/menaquinone biosynthesis
+scaffold00006	.	gene	337191	337916	.	-	.	ID=2503273861;product=Methylase involved in ubiquinone/menaquinone biosynthesis
+scaffold00002	.	gene	639653	640471	.	-	.	ID=2503279052;product=Methylase involved in ubiquinone/menaquinone biosynthesis
+scaffold00007	.	gene	1203559	1204605	.	+	.	ID=2503276942;product=Methylase involved in ubiquinone/menaquinone biosynthesis
+scaffold00007	.	gene	232291	233064	.	+	.	ID=2503276057;product=Methylase involved in ubiquinone/menaquinone biosynthesis
+scaffold00007	.	gene	1202190	1203002	.	-	.	ID=2503276941;product=Methylase involved in ubiquinone/menaquinone biosynthesis
+scaffold00004	.	gene	654491	655162	.	-	.	ID=2503277814;product=Methylase involved in ubiquinone/menaquinone biosynthesis
+scaffold00002	.	gene	189756	190751	.	+	.	ID=2503278636;product=Methylase involved in ubiquinone/menaquinone biosynthesis
+scaffold00003	.	gene	446103	446912	.	-	.	ID=2503274524;product=Methylase involved in ubiquinone/menaquinone biosynthesis
+scaffold00002	.	gene	437675	438424	.	+	.	ID=2503278876;product=Methylase involved in ubiquinone/menaquinone biosynthesis
+scaffold00003	.	gene	409741	411015	.	+	.	ID=2503274491;product=Methylase of chemotaxis methyl-accepting proteins
+scaffold00007	.	gene	543875	544708	.	-	.	ID=2503276325;product=Methylase of chemotaxis methyl-accepting proteins
+scaffold00004	.	gene	363372	364199	.	-	.	ID=2503277559;product=Methylase of chemotaxis methyl-accepting proteins
+scaffold00006	.	gene	124005	124634	.	-	.	ID=2503273665;product=Methyltransferase
+scaffold00003	.	gene	1822621	1823379	.	+	.	ID=2503275735;product=Methyltransferase
+scaffold00004	.	gene	155723	156853	.	+	.	ID=2503277367;product=Methyltransferase
+scaffold00006	.	gene	590331	591080	.	+	.	ID=2503274073;product=Methyltransferase
+scaffold00007	.	gene	1197099	1198052	.	-	.	ID=2503276936;product=Methyltransferase
+scaffold00002	.	gene	434035	435528	.	+	.	ID=2503278873;product=Mg chelatase-related
+scaffold00004	.	gene	126846	127652	.	+	.	ID=2503277344;product=Mg-dependent DNase
+scaffold00003	.	gene	114200	114976	.	-	.	ID=2503274231;product=Mg-dependent DNase
+contig00024	.	gene	318	524	.	-	.	ID=2503279281;product=Mg2+ and Co2+ transporter
+scaffold00007	.	gene	579104	580078	.	-	.	ID=2503276355;product=Mg2+ and Co2+ transporter
+scaffold00003	.	gene	1212105	1213100	.	+	.	ID=2503275235;product=Mg2+ and Co2+ transporter
+scaffold00003	.	gene	1170074	1171045	.	-	.	ID=2503275199;product=Mg2+ and Co2+ transporter
+scaffold00004	.	gene	443909	444931	.	+	.	ID=2503277637;product=Mg2+ and Co2+ transporter
+scaffold00006	.	gene	308409	309191	.	+	.	ID=2503273838;product=Micrococcal nuclease
+scaffold00006	.	gene	403247	404143	.	+	.	ID=2503273911;product=hypothetical protein
+scaffold00007	.	gene	425036	426331	.	+	.	ID=2503276222;product=Mn2+ and Fe2+ transporter
+scaffold00006	.	gene	519470	520744	.	-	.	ID=2503274013;product=Molecular chaperone
+scaffold00004	.	gene	973157	974854	.	+	.	ID=2503278110;product=Molecular chaperone
+scaffold00007	.	gene	331991	332449	.	-	.	ID=2503276138;product=Molecular chaperone
+scaffold00007	.	gene	1369645	1370088	.	-	.	ID=2503277098;product=Molecular chaperone
+scaffold00003	.	gene	1038184	1040088	.	+	.	ID=2503275072;product=Molecular chaperone
+scaffold00004	.	gene	251920	252888	.	-	.	ID=2503277450;product=Molybdenum cofactor biosynthesis enzyme
+scaffold00003	.	gene	312784	313236	.	+	.	ID=2503274404;product=Molybdopterin converting factor, large subunit
+scaffold00007	.	gene	1143014	1143475	.	+	.	ID=2503276885;product=Molybdopterin converting factor, large subunit
+scaffold00007	.	gene	1142760	1143011	.	+	.	ID=2503276884;product=Molybdopterin converting factor, small subunit
+scaffold00002	.	gene	332438	332653	.	-	.	ID=2503278774;product=Molybdopterin-binding protein
+scaffold00002	.	gene	62701	64383	.	+	.	ID=2503278528;product=Monoamine oxidase
+scaffold00003	.	gene	523129	524364	.	+	.	ID=2503274597;product=Mu-like prophage DNA circulation protein
+scaffold00003	.	gene	526064	526462	.	+	.	ID=2503274600;product=Mu-like prophage protein
+scaffold00003	.	gene	524368	525411	.	+	.	ID=2503274598;product=Mu-like prophage tail protein
+scaffold00003	.	gene	519119	520615	.	+	.	ID=2503274593;product=Mu-like prophage tail sheath protein
+scaffold00003	.	gene	280897	281763	.	+	.	ID=2503274379;product=Multidrug resistance efflux pump
+scaffold00007	.	gene	1375852	1376901	.	+	.	ID=2503277108;product=Multidrug resistance efflux pump
+scaffold00006	.	gene	56120	57022	.	+	.	ID=2503273603;product=Multidrug resistance efflux pump
+scaffold00006	.	gene	46284	47354	.	+	.	ID=2503273592;product=Multidrug resistance efflux pump
+scaffold00003	.	gene	1348036	1349157	.	-	.	ID=2503275329;product=Multidrug resistance efflux pump
+scaffold00003	.	gene	1544669	1545871	.	+	.	ID=2503275487;product=Multidrug resistance efflux pump
+scaffold00002	.	gene	366345	367310	.	+	.	ID=2503278808;product=Multidrug resistance efflux pump
+scaffold00003	.	gene	1708845	1709987	.	+	.	ID=2503275644;product=Multidrug resistance efflux pump
+scaffold00007	.	gene	316787	318319	.	-	.	ID=2503276132;product=Myosin-crossreactive antigen
+scaffold00002	.	gene	4561	5595	.	-	.	ID=2503278476;product=N-acetyl-gamma-glutamyl-phosphate reductase
+scaffold00003	.	gene	360243	361349	.	-	.	ID=2503274444;product=N-acetylglucosamine-6-phosphate deacetylase
+scaffold00002	.	gene	617236	618438	.	-	.	ID=2503279033;product=N-acetylmuramoyl-L-alanine amidase
+scaffold00006	.	gene	456200	457630	.	+	.	ID=2503273958;product=N-acetylmuramoyl-L-alanine amidase
+scaffold00007	.	gene	17027	17755	.	-	.	ID=2503275875;product=N-acetylmuramoyl-L-alanine amidase
+scaffold00003	.	gene	38194	39651	.	+	.	ID=2503274163;product=N-acyl-D-aspartate/D-glutamate deacylase
+scaffold00004	.	gene	496108	497367	.	-	.	ID=2503277691;product=N-acyl-D-glucosamine 2-epimerase
+scaffold00006	.	gene	506221	507354	.	-	.	ID=2503273999;product=N-acyl-D-glucosamine 2-epimerase
+scaffold00007	.	gene	46522	47430	.	+	.	ID=2503275908;product=N-carbamoylputrescine amidase
+scaffold00006	.	gene	274365	275168	.	+	.	ID=2503273806;product=N-formylglutamate amidohydrolase
+scaffold00007	.	gene	1222533	1223285	.	+	.	ID=2503276962;product=N-formylglutamate amidohydrolase
+scaffold00003	.	gene	1218159	1220429	.	+	.	ID=2503275242;product=N6-adenine-specific DNA methylase
+scaffold00006	.	gene	67647	68345	.	-	.	ID=2503273611;product=NAD(P)H-nitrite reductase
+scaffold00002	.	gene	541766	542914	.	-	.	ID=2503278972;product=NAD(P)H-nitrite reductase
+scaffold00006	.	gene	68355	69170	.	-	.	ID=2503273612;product=NAD(P)H-nitrite reductase
+scaffold00004	.	gene	340444	341040	.	+	.	ID=2503277539;product=NAD(P)H:quinone oxidoreductase
+scaffold00006	.	gene	491599	492426	.	-	.	ID=2503273987;product=NAD+ synthetase
+scaffold00002	.	gene	192196	193872	.	+	.	ID=2503278638;product=NAD-dependent DNA ligase
+scaffold00003	.	gene	397697	399121	.	-	.	ID=2503274481;product=NAD-dependent aldehyde dehydrogenases
+scaffold00007	.	gene	32116	33693	.	-	.	ID=2503275893;product=NAD-dependent aldehyde dehydrogenases
+scaffold00003	.	gene	169422	170867	.	+	.	ID=2503274273;product=NAD-dependent aldehyde dehydrogenases
+scaffold00007	.	gene	1024542	1025933	.	+	.	ID=2503276765;product=NAD-dependent aldehyde dehydrogenases
+scaffold00002	.	gene	470423	471916	.	-	.	ID=2503278903;product=NAD-dependent aldehyde dehydrogenases
+scaffold00002	.	gene	263791	265221	.	+	.	ID=2503278712;product=NAD-dependent aldehyde dehydrogenases
+scaffold00006	.	gene	494946	496436	.	+	.	ID=2503273990;product=NAD-dependent aldehyde dehydrogenases
+scaffold00007	.	gene	1158739	1160229	.	-	.	ID=2503276900;product=NAD-dependent aldehyde dehydrogenases
+scaffold00004	.	gene	623596	625047	.	-	.	ID=2503277789;product=NAD-dependent aldehyde dehydrogenases
+scaffold00003	.	gene	403892	405379	.	-	.	ID=2503274486;product=NAD-dependent aldehyde dehydrogenases
+scaffold00007	.	gene	914677	916158	.	+	.	ID=2503276662;product=NAD-dependent aldehyde dehydrogenases
+scaffold00001	.	gene	223677	225197	.	+	.	ID=2503278348;product=NAD-dependent aldehyde dehydrogenases
+scaffold00007	.	gene	902220	903800	.	-	.	ID=2503276653;product=NAD-dependent aldehyde dehydrogenases
+scaffold00007	.	gene	81526	83151	.	-	.	ID=2503275937;product=NAD-dependent aldehyde dehydrogenases
+scaffold00007	.	gene	312898	314280	.	-	.	ID=2503276127;product=NAD-dependent aldehyde dehydrogenases
+scaffold00007	.	gene	1047892	1049322	.	-	.	ID=2503276784;product=NAD-dependent aldehyde dehydrogenases
+scaffold00007	.	gene	1204759	1205601	.	+	.	ID=2503276943;product=NAD-dependent protein deacetylases
+scaffold00007	.	gene	875768	880663	.	-	.	ID=2503276633;product=NAD-specific glutamate dehydrogenase
+scaffold00004	.	gene	934067	935314	.	+	.	ID=2503278074;product=NAD/FAD-binding protein
+scaffold00004	.	gene	928103	929089	.	+	.	ID=2503278067;product=NAD/FAD-dependent oxidoreductase
+scaffold00002	.	gene	794298	795419	.	-	.	ID=2503279200;product=NAD/NADP transhydrogenase alpha subunit
+scaffold00002	.	gene	792529	793962	.	-	.	ID=2503279198;product=NAD/NADP transhydrogenase beta subunit
+scaffold00003	.	gene	1587666	1589450	.	-	.	ID=2503275522;product=NADH / F420H2 dehydrogenase
+scaffold00001	.	gene	50580	51878	.	+	.	ID=2503278186;product=NADH dehydrogenase%2C FAD-containing subunit
+scaffold00003	.	gene	1589520	1590194	.	-	.	ID=2503275523;product=NADH-quinone oxidoreductase, B subunit
+scaffold00003	.	gene	1587166	1587663	.	-	.	ID=2503275521;product=NADH-quinone oxidoreductase, E subunit
+scaffold00003	.	gene	1585814	1587169	.	-	.	ID=2503275520;product=NADH-quinone oxidoreductase, F subunit
+scaffold00003	.	gene	1582963	1585677	.	-	.	ID=2503275519;product=NADH-quinone oxidoreductase, chain G
+scaffold00003	.	gene	1581399	1581947	.	-	.	ID=2503275517;product=NADH-quinone oxidoreductase, chain I
+scaffold00003	.	gene	224181	225284	.	+	.	ID=2503274326;product=NADH:flavin oxidoreductases
+scaffold00003	.	gene	389609	390715	.	+	.	ID=2503274474;product=NADH:flavin oxidoreductases
+scaffold00007	.	gene	383544	384668	.	+	.	ID=2503276189;product=NADH:flavin oxidoreductases
+scaffold00003	.	gene	1675537	1676718	.	+	.	ID=2503275608;product=NADH:flavin oxidoreductases
+scaffold00003	.	gene	1473876	1475912	.	+	.	ID=2503275433;product=NADH:flavin oxidoreductases
+scaffold00003	.	gene	1939456	1940688	.	+	.	ID=2503275810;product=NADH:flavin oxidoreductases
+scaffold00003	.	gene	656374	657423	.	-	.	ID=2503274728;product=NADH:flavin oxidoreductases
+scaffold00002	.	gene	142231	144291	.	-	.	ID=2503278594;product=NADH:flavin oxidoreductases
+scaffold00003	.	gene	1581959	1582966	.	-	.	ID=2503275518;product=NADH:ubiquinone oxidoreductase subunit 1 (chain H)
+scaffold00003	.	gene	1580577	1580885	.	-	.	ID=2503275515;product=NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)
+scaffold00003	.	gene	1590205	1590618	.	-	.	ID=2503275524;product=NADH:ubiquinone oxidoreductase subunit 3 (chain A)
+scaffold00003	.	gene	1580889	1581389	.	-	.	ID=2503275516;product=NADH:ubiquinone oxidoreductase subunit 6 (chain J)
+scaffold00003	.	gene	1713614	1714981	.	-	.	ID=2503275649;product=NADPH-dependent glutamate synthase beta chain and related oxidoreductases
+scaffold00003	.	gene	1948797	1949771	.	-	.	ID=2503275821;product=NADPH:quinone reductase and related Zn-dependent oxidoreductases
+scaffold00003	.	gene	1382700	1383656	.	+	.	ID=2503275357;product=NADPH:quinone reductase and related Zn-dependent oxidoreductases
+scaffold00007	.	gene	1186000	1187025	.	-	.	ID=2503276925;product=NADPH:quinone reductase and related Zn-dependent oxidoreductases
+scaffold00002	.	gene	371726	372703	.	+	.	ID=2503278812;product=NADPH:quinone reductase and related Zn-dependent oxidoreductases
+scaffold00007	.	gene	495669	496691	.	-	.	ID=2503276276;product=NADPH:quinone reductase and related Zn-dependent oxidoreductases
+scaffold00002	.	gene	704799	705776	.	-	.	ID=2503279109;product=NADPH:quinone reductase and related Zn-dependent oxidoreductases
+scaffold00007	.	gene	577069	577374	.	+	.	ID=2503276351;product=NIPSNAP
+scaffold00007	.	gene	1209639	1211024	.	-	.	ID=2503276948;product=NRAMP (natural resistance-associated macrophage protein) metal ion transporters
+scaffold00003	.	gene	208132	208437	.	+	.	ID=2503274312;product=NTP binding protein
+scaffold00007	.	gene	234536	235366	.	+	.	ID=2503276059;product=NTP pyrophosphohydrolases
+scaffold00002	.	gene	300947	301426	.	-	.	ID=2503278744;product=NTP pyrophosphohydrolase oxidative damage repair enzyme
+scaffold00004	.	gene	722424	722852	.	-	.	ID=2503277877;product=NTP pyrophosphohydrolase oxidative damage repair enzyme
+scaffold00003	.	gene	363758	364357	.	+	.	ID=2503274448;product=NUDIX
+scaffold00007	.	gene	936015	937013	.	-	.	ID=2503276684;product=Na+-dependent transporter
+scaffold00003	.	gene	1083626	1084591	.	-	.	ID=2503275115;product=Na+-dependent transporter
+scaffold00003	.	gene	74346	75749	.	+	.	ID=2503274193;product=Na+-dependent transporter
+scaffold00007	.	gene	663638	665140	.	+	.	ID=2503276462;product=Na+/H+ antiporter
+scaffold00003	.	gene	455674	457305	.	+	.	ID=2503274533;product=Na+/H+ antiporter
+scaffold00002	.	gene	727067	728398	.	-	.	ID=2503279129;product=Na+/H+-dicarboxylate symporter
+scaffold00004	.	gene	346454	347788	.	-	.	ID=2503277546;product=Na+/H+-dicarboxylate symporter
+scaffold00001	.	gene	105495	106808	.	+	.	ID=2503278235;product=Na+/H+-dicarboxylate symporter
+scaffold00002	.	gene	280203	281594	.	+	.	ID=2503278727;product=Na+/dicarboxylate symporter
+contig00234	.	gene	259	561	.	+	.	ID=2503279214;product=Na+/dicarboxylate symporter
+scaffold00003	.	gene	1073986	1077456	.	-	.	ID=2503275107;product=Na+/proline symporter
+scaffold00003	.	gene	822416	823795	.	-	.	ID=2503274889;product=Na+/proline symporter
+scaffold00003	.	gene	1447904	1449136	.	-	.	ID=2503275406;product=Na+/serine symporter
+scaffold00002	.	gene	717501	719159	.	+	.	ID=2503279121;product=Na/Pi-cotransporter
+scaffold00003	.	gene	109937	110497	.	+	.	ID=2503274227;product=Negative regulator of beta-lactamase expression
+scaffold00002	.	gene	735350	736129	.	-	.	ID=2503279136;product=Negative regulator of beta-lactamase expression
+scaffold00004	.	gene	366182	366508	.	+	.	ID=2503277562;product=Negative regulator of flagellin synthesis
+scaffold00003	.	gene	724046	724633	.	+	.	ID=2503274798;product=Negative regulator of sigma E activity
+scaffold00003	.	gene	724642	725604	.	+	.	ID=2503274799;product=Negative regulator of sigma E activity
+scaffold00003	.	gene	1066445	1067653	.	+	.	ID=2503275099;product=Nitrate/nitrite transporter
+scaffold00002	.	gene	432264	432602	.	-	.	ID=2503278871;product=Nitrogen regulatory protein PII
+scaffold00003	.	gene	748443	749036	.	-	.	ID=2503274825;product=Nitroreductase
+scaffold00003	.	gene	873052	873618	.	+	.	ID=2503274920;product=Nitroreductase
+scaffold00003	.	gene	328986	329990	.	-	.	ID=2503274421;product=Nucleoid-associated protein
+scaffold00004	.	gene	793600	794025	.	-	.	ID=2503277931;product=Nucleoside diphosphate kinase
+scaffold00003	.	gene	1384817	1385776	.	-	.	ID=2503275359;product=Nucleoside-binding outer membrane protein
+scaffold00003	.	gene	1125697	1126482	.	-	.	ID=2503275155;product=Nucleoside-binding outer membrane protein
+scaffold00003	.	gene	1124538	1125323	.	-	.	ID=2503275154;product=Nucleoside-binding outer membrane protein
+scaffold00004	.	gene	637192	638184	.	-	.	ID=2503277801;product=Nucleoside-diphosphate-sugar epimerases
+scaffold00007	.	gene	1265316	1266353	.	+	.	ID=2503276997;product=Nucleoside-diphosphate-sugar epimerases
+scaffold00002	.	gene	644919	645833	.	+	.	ID=2503279056;product=Nucleoside-diphosphate-sugar epimerases
+scaffold00002	.	gene	489756	490613	.	-	.	ID=2503278923;product=Nucleoside-diphosphate-sugar epimerases
+scaffold00003	.	gene	32441	33334	.	+	.	ID=2503274158;product=Nucleoside-diphosphate-sugar epimerases
+scaffold00001	.	gene	271256	272185	.	-	.	ID=2503278394;product=Nucleoside-diphosphate-sugar epimerases
+scaffold00004	.	gene	151863	152804	.	+	.	ID=2503277364;product=Nucleoside-diphosphate-sugar epimerases
+scaffold00004	.	gene	165227	166186	.	-	.	ID=2503277373;product=Nucleoside-diphosphate-sugar epimerases
+scaffold00003	.	gene	1947446	1948186	.	-	.	ID=2503275819;product=Nucleoside-diphosphate-sugar epimerases
+scaffold00002	.	gene	33083	33754	.	-	.	ID=2503278503;product=Nucleoside-diphosphate-sugar pyrophosphorylase
+scaffold00002	.	gene	60696	61301	.	+	.	ID=2503278525;product=Nucleotidyltransferase
+scaffold00003	.	gene	561426	562487	.	+	.	ID=2503274642;product=Nucleotidyltransferase/DNA polymerase involved in DNA repair
+scaffold00007	.	gene	818472	819887	.	-	.	ID=2503276590;product=Nucleotidyltransferase/DNA polymerase involved in DNA repair
+scaffold00003	.	gene	1790108	1791190	.	-	.	ID=2503275708;product=O-6-methylguanine DNA methyltransferase
+scaffold00007	.	gene	675981	677048	.	+	.	ID=2503276477;product=O-6-methylguanine DNA methyltransferase
+scaffold00003	.	gene	1629355	1629870	.	-	.	ID=2503275562;product=O-6-methylguanine DNA methyltransferase
+scaffold00007	.	gene	1271514	1272884	.	+	.	ID=2503277003;product=O-Antigen ligase
+scaffold00007	.	gene	1002946	1003602	.	-	.	ID=2503276741;product=O-methyltransferase
+scaffold00007	.	gene	1347465	1348676	.	-	.	ID=2503277081;product=O-succinylhomoserine sulfhydrylase
+scaffold00003	.	gene	1131297	1131812	.	-	.	ID=2503275160;product=OHCU decarboxylase
+scaffold00007	.	gene	598020	598292	.	-	.	ID=2503276375;product=Phage regulatory protein
+scaffold00003	.	gene	75757	76191	.	+	.	ID=2503274194;product=Oligoketide cyclase/lipid transport
+scaffold00006	.	gene	451632	452174	.	+	.	ID=2503273953;product=Oligoribonuclease (3''->5'' exoribonuclease)
+scaffold00004	.	gene	533494	534141	.	-	.	ID=2503277721;product=Organic radical activating enzyme
+scaffold00002	.	gene	74274	75557	.	-	.	ID=2503278539;product=Ornithine/acetylornithine aminotransferase
+scaffold00007	.	gene	378518	381217	.	+	.	ID=2503276185;product=Osmosensitive K+ channel histidine kinase
+scaffold00004	.	gene	134601	137252	.	-	.	ID=2503277352;product=Osmosensitive K+ channel histidine kinase
+scaffold00001	.	gene	253053	254936	.	+	.	ID=2503278372;product=Outer membrane cobalamin receptor protein
+scaffold00003	.	gene	599033	599497	.	+	.	ID=2503274678;product=Outer membrane lipoprotein
+scaffold00003	.	gene	473751	474254	.	+	.	ID=2503274548;product=Outer membrane protein
+scaffold00003	.	gene	1522502	1524193	.	+	.	ID=2503275474;product=Outer membrane protein
+scaffold00003	.	gene	1565063	1566310	.	+	.	ID=2503275504;function=Outer membrane protein;Name=czcC
+scaffold00004	.	gene	704027	704788	.	-	.	ID=2503277864;product=Outer membrane protein V
+scaffold00001	.	gene	270380	271078	.	+	.	ID=2503278393;product=Outer membrane protein W
+scaffold00008	.	gene	16482	17030	.	+	.	ID=2503279237;product=type IV pilus biogenesis protein PilP;Name=pilP
+scaffold00008	.	gene	13496	15205	.	+	.	ID=2503279235;function=type IVB pilus formation outer membrane protein;Name=pilN
+scaffold00002	.	gene	522249	522749	.	-	.	ID=2503278951;product=type VI secretion lipoprotein
+scaffold00002	.	gene	536236	536739	.	-	.	ID=2503278965;product=type VI secretion protein
+scaffold00003	.	gene	1760891	1761433	.	-	.	ID=2503275682;product=type VI secretion protein
+scaffold00003	.	gene	1756551	1758344	.	-	.	ID=2503275678;product=type VI secretion protein
+scaffold00002	.	gene	529609	531396	.	-	.	ID=2503278957;product=type VI secretion protein
+scaffold00002	.	gene	528638	529645	.	-	.	ID=2503278956;product=type VI secretion protein
+scaffold00003	.	gene	1755562	1756587	.	-	.	ID=2503275677;product=type VI secretion protein
+scaffold00003	.	gene	1762154	1763485	.	+	.	ID=2503275684;product=type VI secretion protein
+scaffold00002	.	gene	520915	522246	.	-	.	ID=2503278950;product=type VI secretion protein
+scaffold00002	.	gene	522755	523948	.	-	.	ID=2503278952;product=type VI secretion system protein
+scaffold00006	.	gene	372875	374890	.	+	.	ID=2503273889;product=type VI secretion system protein
+scaffold00007	.	gene	1242767	1244809	.	+	.	ID=2503276981;product=type VI secretion system protein
+scaffold00003	.	gene	1748990	1750999	.	-	.	ID=2503275672;product=type VI secretion system protein
+scaffold00003	.	gene	1487464	1488849	.	-	.	ID=2503275442;product=type VI secretion system protein
+scaffold00006	.	gene	585066	586403	.	+	.	ID=2503274067;product=type VI secretion system protein
+scaffold00002	.	gene	512678	514726	.	-	.	ID=2503278945;product=type VI secretion system protein
+scaffold00007	.	gene	566063	568117	.	+	.	ID=2503276341;product=type VI secretion system protein
+scaffold00007	.	gene	1242120	1242635	.	+	.	ID=2503276980;function=type VI secretion system effector;Name=Hcp1
+scaffold00003	.	gene	1758328	1758756	.	-	.	ID=2503275679;product=type VI secretion system lysozyme-related protein
+scaffold00002	.	gene	534318	534725	.	-	.	ID=2503278963;product=type VI secretion system lysozyme-related protein
+scaffold00002	.	gene	536772	538334	.	-	.	ID=2503278966;product=type VI secretion-associated protein
+scaffold00004	.	gene	886281	886874	.	-	.	ID=2503278026;product=ubiquinol-cytochrome c reductase, iron-sulfur subunit
+scaffold00004	.	gene	185342	186040	.	+	.	ID=2503277390;product=ubiquinone biosynthesis O-methyltransferase
+scaffold00006	.	gene	291820	292590	.	-	.	ID=2503273823;product=ubiquinone/menaquinone biosynthesis methyltransferase
+scaffold00003	.	gene	1037177	1037653	.	+	.	ID=2503275070;product=hypothetical protein
+scaffold00006	.	gene	153350	153733	.	-	.	ID=2503273692;product=hypothetical protein
+scaffold00004	.	gene	313311	313754	.	-	.	ID=2503277514;product=hypothetical protein
+scaffold00002	.	gene	403059	403646	.	+	.	ID=2503278840;product=lipoprotein
+scaffold00003	.	gene	467088	467843	.	+	.	ID=2503274543;product=undecaprenyl diphosphate synthase
+scaffold00004	.	gene	866645	867715	.	-	.	ID=2503278006;product=undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+scaffold00004	.	gene	923929	924567	.	+	.	ID=2503278063;product=uracil phosphoribosyltransferase
+scaffold00003	.	gene	710032	710724	.	+	.	ID=2503274784;product=uracil-DNA glycosylase
+scaffold00006	.	gene	645975	647111	.	-	.	ID=2503274124;product=uracil-xanthine permease
+scaffold00004	.	gene	924570	925844	.	+	.	ID=2503278064;product=uracil-xanthine permease
+scaffold00007	.	gene	1383194	1384720	.	-	.	ID=2503277115;product=uracil-xanthine permease/xanthine permease
+scaffold00003	.	gene	1729112	1730467	.	-	.	ID=2503275657;product=uracil-xanthine permease/xanthine permease
+scaffold00003	.	gene	1126642	1127994	.	-	.	ID=2503275156;product=uracil-xanthine permease/xanthine permease
+scaffold00007	.	gene	187165	188709	.	-	.	ID=2503276017;product=uracil-xanthine permease/xanthine permease
+scaffold00006	.	gene	532733	533998	.	-	.	ID=2503274027;product=urea ABC transporter, urea binding protein
+scaffold00006	.	gene	523722	525422	.	-	.	ID=2503274017;product=urease, alpha subunit
+scaffold00006	.	gene	525583	525888	.	-	.	ID=2503274018;product=urease, beta subunit
+scaffold00006	.	gene	526970	527272	.	-	.	ID=2503274021;product=urease, gamma subunit
+scaffold00003	.	gene	465776	466519	.	+	.	ID=2503274541;product=uridylate kinase
+scaffold00006	.	gene	263546	265246	.	+	.	ID=2503273798;Name=urocanate hydratase;Name=cueO
+scaffold00006	.	gene	328296	329363	.	+	.	ID=2503273851;product=uroporphyrinogen decarboxylase
+scaffold00003	.	gene	1229968	1232367	.	-	.	ID=2503275250;product=xanthine dehydrogenase, molybdopterin binding subunit
+scaffold00003	.	gene	1232360	1233814	.	-	.	ID=2503275251;product=xanthine dehydrogenase, small subunit
+scaffold00002	.	gene	450853	451425	.	+	.	ID=2503278885;product=xanthine phosphoribosyltransferase
+scaffold00007	.	gene	1274992	1275993	.	+	.	ID=2503277006;product=xylanase/chitin deacetylase
+scaffold00007	.	gene	265419	266303	.	-	.	ID=2503276087;product=xylanase/chitin deacetylase
+scaffold00007	.	gene	1059707	1060606	.	-	.	ID=2503276796;product=xylanase/chitin deacetylase
+scaffold00006	.	gene	63737	65734	.	+	.	ID=2503273608;product=xylanase/chitin deacetylase
+scaffold00004	.	gene	687694	688164	.	-	.	ID=2503277847;Name=ybaK
+scaffold00007	.	gene	309165	310193	.	-	.	ID=2503276124;product=zinc-binding alcohol dehydrogenase
+scaffold00006	.	gene	627460	628473	.	-	.	ID=2503274106;product=zinc-binding alcohol dehydrogenase
+scaffold00007	.	gene	1493827	1494033	.	+	.	ID=2503277215;product=transcriptional regulator
+scaffold00003	.	gene	503417	504151	.	+	.	ID=2503274574;product=transcriptional regulator
+scaffold00002	.	gene	73370	73690	.	-	.	ID=2503278537;product=transcriptional regulator
+scaffold00001	.	gene	232459	233205	.	+	.	ID=2503278356;product=transcriptional regulator
+scaffold00007	.	gene	426348	426728	.	-	.	ID=2503276223;product=transcriptional regulator
+scaffold00003	.	gene	658626	658946	.	-	.	ID=2503274730;product=transcriptional regulator
+scaffold00003	.	gene	1704448	1704789	.	+	.	ID=2503275640;product=transcriptional regulator
+scaffold00003	.	gene	1516075	1516476	.	-	.	ID=2503275468;product=transcriptional regulator
+scaffold00003	.	gene	232288	233247	.	+	.	ID=2503274336;product=transcriptional regulator
+contig00251	.	gene	29	400	.	-	.	ID=2503275846;product=transcriptional regulator
+scaffold00007	.	gene	1315317	1315673	.	-	.	ID=2503277044;product=transcriptional regulator
+scaffold00007	.	gene	422957	423514	.	-	.	ID=2503276220;product=transcriptional regulator
+scaffold00003	.	gene	1938928	1939371	.	+	.	ID=2503275809;product=transcriptional regulator
+scaffold00007	.	gene	1105433	1105780	.	-	.	ID=2503276849;product=transcriptional regulator
+scaffold00003	.	gene	678006	678548	.	+	.	ID=2503274752;product=transcriptional regulator
+scaffold00004	.	gene	930478	931419	.	+	.	ID=2503278070;product=transcriptional regulator
+scaffold00007	.	gene	1156459	1157007	.	-	.	ID=2503276898;product=transcriptional regulator
+scaffold00003	.	gene	1847401	1847598	.	-	.	ID=2503275755;product=transcriptional regulator
+scaffold00007	.	gene	1071615	1072178	.	-	.	ID=2503276810;product=transcriptional regulator
+scaffold00004	.	gene	747461	748042	.	+	.	ID=2503277893;product=transcriptional regulator
+scaffold00006	.	gene	630164	630895	.	+	.	ID=2503274109;product=transcriptional regulator
+scaffold00003	.	gene	1949833	1950135	.	-	.	ID=2503275822;product=transcriptional regulator
+scaffold00003	.	gene	1693468	1694226	.	+	.	ID=2503275630;product=transcriptional regulator
+scaffold00006	.	gene	639579	639929	.	-	.	ID=2503274117;product=transcriptional regulator
+scaffold00007	.	gene	967956	968405	.	-	.	ID=2503276708;product=transcriptional regulator
+scaffold00002	.	gene	454703	455251	.	-	.	ID=2503278888;product=transcriptional regulator
+
