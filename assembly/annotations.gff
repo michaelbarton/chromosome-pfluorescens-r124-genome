@@ -3361,7 +3361,7 @@ scaffold00003	.	gene	923968	925473	.	+	.	ID=2503274966;function=pseudaminic acid
 scaffold00004	.	gene	266564	267571	.	-	.	ID=2503277469;Name=RluA
 scaffold00001	.	gene	57944	58906	.	-	.	ID=2503278194;Name=RluA
 scaffold00006	.	gene	517812	518117	.	+	.	ID=2503274011;Name=psiF
-scaffold00006	.	gene	570175	571185	.	-	.	ID=2503274055;;Name=nifR
+scaffold00006	.	gene	570175	571185	.	-	.	ID=2503274055;Name=nifR
 scaffold00004	.	gene	545037	545258	.	-	.	ID=2503277734;Name=FmdB
 scaffold00002	.	gene	240957	241643	.	+	.	ID=2503278685;Name=YggS
 scaffold00003	.	gene	1367050	1367406	.	-	.	ID=2503275340;function=queuosine biosynthesis protein;Name=QueD
