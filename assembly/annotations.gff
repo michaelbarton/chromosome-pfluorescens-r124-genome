@@ -1800,7 +1800,6 @@ scaffold00006	.	gene	502699	503415	.	+	.	ID=2503273996;product=ABC transport sys
 scaffold00003	.	gene	614719	615486	.	-	.	ID=2503274694;product=ABC transport system, ATPase component
 scaffold00003	.	gene	617890	619017	.	-	.	ID=2503274697;product=ABC transport system, periplasmic component
 scaffold00006	.	gene	498243	499376	.	+	.	ID=2503273992;product=ABC transport system, periplasmic component
-
 scaffold00006	.	gene	536277	537065	.	-	.	ID=2503274030;product=ABC cobalamin/Fe3+-siderophore transport system, ATPase component
 scaffold00003	.	gene	150360	151955	.	-	.	ID=2503274259;Note=ABC dipeptide transport system, periplasmic component;Name=nikA
 scaffold00003	.	gene	155528	157153	.	-	.	ID=2503274262;product=ABC dipeptide transport system, periplasmic component
@@ -2026,7 +2025,6 @@ scaffold00002	.	gene	587732	588403	.	+	.	ID=2503279008;product=Acetyltransferase
 scaffold00007	.	gene	97261	97770	.	+	.	ID=2503275951;product=Acetyltransferase
 scaffold00004	.	gene	721261	721758	.	-	.	ID=2503277875;product=Acetyltransferase
 scaffold00007	.	gene	169872	171002	.	-	.	ID=2503276002;product=Acyl-protein synthetase, LuxE.
-
 scaffold00003	.	gene	638241	639098	.	+	.	ID=2503274712;product=Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit
 scaffold00003	.	gene	639098	639877	.	+	.	ID=2503274713;product=Acyl CoA:acetate/3-ketoacid CoA transferase, beta subunit
 scaffold00006	.	gene	349197	349451	.	-	.	ID=2503273872;product=Acyl carrier protein
