@@ -5114,7 +5114,7 @@ scaffold00007	.	gene	612806	613891	.	-	.	ID=2503276394;product=phage head morpho
 scaffold00003	.	gene	507560	508195	.	+	.	ID=2503274580;product=phage tail protein
 scaffold00003	.	gene	514335	516578	.	+	.	ID=2503274587;product=phage tail tape measure protein
 scaffold00007	.	gene	602848	606096	.	-	.	ID=2503276382;product=phage tail tape measure protein
-scaffold00003	.	gene	891620	892411	.	-	.ID=2503274942;product=phenylalanine-4-hydroxylase;Note=monomeric form
+scaffold00003	.	gene	891620	892411	.	-	ID=2503274942;product=phenylalanine-4-hydroxylase;Note=monomeric form
 scaffold00003	.	gene	1183871	1184605	.	-	.	ID=2503275214;product=phosophoadenylyl-sulfate reductase (thioredoxin)/thioredoxin-dependent adenylylsulfate APS reductase
 scaffold00002	.	gene	89245	91146	.	+	.	ID=2503278553;product=phosphatase
 scaffold00002	.	gene	552161	552994	.	-	.	ID=2503278983;product=phosphate ABC transporter, ATP-binding protein
