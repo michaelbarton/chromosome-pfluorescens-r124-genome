@@ -15,11 +15,11 @@ genome.fsa:
 		> genome.fsa
 
 genome.tbl:
-	genomer view table                 \
-		--identifier=PRJNA46289          \
-		--reset_locus_numbering          \
-		--prefix='E1O_'                  \
-		--create_cds='gnl|BartonUAkron|' \
+	genomer view table                                \
+		--identifier=PRJNA46289                         \
+		--reset_locus_numbering                         \
+		--prefix='E1O_'                                 \
+		--generate_encoded_features='gnl|BartonUAkron|' \
 		> genome.tbl
 
 genome.sqn: genome.fsa genome.tbl submission/template.sbt
