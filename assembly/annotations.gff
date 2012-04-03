@@ -1055,7 +1055,7 @@ scaffold00004	.	gene	508631	509125	.	-	.	ID=2503277700;product=hypothetical prot
 scaffold00004	.	gene	509196	509591	.	+	.	ID=2503277701;product=hypothetical protein
 scaffold00004	.	gene	521464	521826	.	+	.	ID=2503277710;product=hypothetical protein
 scaffold00004	.	gene	542287	543033	.	-	.	ID=2503277732;product=hypothetical protein
-scaffold00004	.	gene	543161	544936	.	-	.	ID=2503277733;product=aspartyl-tRNA synthetase%25
+scaffold00004	.	gene	543161	544936	.	-	.	ID=2503277733;product=aspartyl-tRNA synthetase
 scaffold00004	.	gene	545392	545727	.	-	.	ID=2503277735;product=arylsulfate sulfotransferase;Note=siderophore biosynthesis
 scaffold00004	.	gene	547372	547578	.	-	.	ID=2503277738;product=hypothetical protein
 scaffold00004	.	gene	551664	552149	.	-	.	ID=2503277742;product=hypothetical protein
@@ -1974,7 +1974,7 @@ scaffold00004	.	gene	342390	343214	.	-	.	ID=2503277542;product=ATPase
 scaffold00003	.	gene	310434	311828	.	+	.	ID=2503274401;product=ATPase
 scaffold00003	.	gene	1615775	1617097	.	+	.	ID=2503275544;product=ATPase
 contig00141	.	gene	244	558	.	+	.	ID=2503278125;product=ATPase
-scaffold00007	.	gene	654159	654683	.	+	.	ID=2503276452;product=ATPase/kinase
+scaffold00007	.	gene	654159	654683	.	+	.	ID=2503276452;product=ATPase/kinase;Note=involved in NAD metabolism
 scaffold00007	.	gene	637091	638098	.	-	.	ID=2503276431;product=ATPase;Note=involved in chromosome partitioning
 scaffold00003	.	gene	963016	963846	.	+	.	ID=2503275003;product=ATPase;Note=involved in chromosome partitioning
 scaffold00008	.	gene	2381	3022	.	+	.	ID=2503279219;function=ATPase;Note=involved in chromosome partitioning;Name=parA
@@ -3771,7 +3771,7 @@ scaffold00006	.	gene	523722	525422	.	-	.	ID=2503274017;product=urease, alpha sub
 scaffold00006	.	gene	525583	525888	.	-	.	ID=2503274018;product=urease, beta subunit
 scaffold00006	.	gene	526970	527272	.	-	.	ID=2503274021;product=urease, gamma subunit
 scaffold00003	.	gene	465776	466519	.	+	.	ID=2503274541;product=uridylate kinase
-scaffold00006	.	gene	263546	265246	.	+	.	ID=2503273798;Name=urocanate hydratase,cueO
+scaffold00006	.	gene	263546	265246	.	+	.	ID=2503273798;product=urocanate hydratase;Name=cueO
 scaffold00006	.	gene	328296	329363	.	+	.	ID=2503273851;product=uroporphyrinogen decarboxylase
 scaffold00003	.	gene	1229968	1232367	.	-	.	ID=2503275250;product=xanthine dehydrogenase, molybdopterin binding subunit
 scaffold00003	.	gene	1232360	1233814	.	-	.	ID=2503275251;product=xanthine dehydrogenase, small subunit
