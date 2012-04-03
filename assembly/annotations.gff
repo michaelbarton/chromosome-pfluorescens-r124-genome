@@ -439,7 +439,7 @@ scaffold00003	.	gene	1764277	1768098	.	+	.	ID=2503275686;product=hypothetical pr
 scaffold00003	.	gene	1770314	1770742	.	-	.	ID=2503275689;product=hypothetical protein
 scaffold00003	.	gene	1772712	1772906	.	+	.	ID=2503275692;product=hypothetical protein
 scaffold00003	.	gene	1772956	1773126	.	+	.	ID=2503275693;product=hypothetical protein
-scaffold00003	.	gene	1781144	1781752	.	+	.	ID=2503275699;product=Hydroxylase;Note=synthesis of 2-methylthio-cis-ribozeatin in tRNA-Xxx;feature_type=tRNA
+scaffold00003	.	gene	1781144	1781752	.	+	.	ID=2503275699;product=Hydroxylase;Note=synthesis of 2-methylthio-cis-ribozeatin in tRNA
 scaffold00003	.	gene	1784013	1784501	.	-	.	ID=2503275702;product=hypothetical protein
 scaffold00003	.	gene	1795520	1799233	.	-	.	ID=2503275713;product=hypothetical protein
 scaffold00003	.	gene	1801828	1802331	.	-	.	ID=2503275717;product=hypothetical protein
