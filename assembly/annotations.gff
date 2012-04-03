@@ -2375,7 +2375,7 @@ scaffold00007	.	gene	372010	372189	.	-	.	ID=2503276178;product=CsbD-like
 scaffold00004	.	gene	475278	475469	.	-	.	ID=2503277671;product=CsbD-like
 scaffold00007	.	gene	371674	371922	.	-	.	ID=2503276177;product=CsbD-like
 scaffold00006	.	gene	621962	622375	.	-	.	ID=2503274100;product=Cu(I)-responsive transcriptional regulator;Name=cueR
-scaffold00003	.	gene	1445844	1446362	.	+	.	ID=2503275403;product=Cupin domain
+scaffold00003	.	gene	1445844	1446362	.	+	.	ID=2503275403;product=Cupin
 scaffold00002	.	gene	469090	470235	.	-	.	ID=2503278902;product=Cyanate permease
 scaffold00003	.	gene	744395	745576	.	-	.	ID=2503274821;product=Cyanate permease
 scaffold00001	.	gene	13430	14230	.	+	.	ID=2503278149;product=hypothetical protein
@@ -2890,7 +2890,7 @@ scaffold00002	.	gene	666545	667081	.	-	.	ID=2503279074;product=ATP synthase, F1 
 scaffold00002	.	gene	662193	662618	.	-	.	ID=2503279070;product=ATP synthase, F1 epsilon subunit
 scaffold00002	.	gene	664068	664928	.	-	.	ID=2503279072;product=ATP synthase, F1 gamma subunit
 scaffold00003	.	gene	578335	580023	.	-	.	ID=2503274658;product=ATP-dependent DNA ligase
-scaffold00007	.	gene	1123952	1124665	.	+	.	ID=2503276867;product=L,D-transpeptidase catalytic domain
+scaffold00007	.	gene	1123952	1124665	.	+	.	ID=2503276867;product=L,D-transpeptidase catalytic protein
 scaffold00004	.	gene	233979	235127	.	-	.	ID=2503277431;product=L-alanine-DL-glutamate epimerase
 scaffold00007	.	gene	1045271	1046488	.	-	.	ID=2503276782;product=L-alanine-DL-glutamate epimerase
 scaffold00003	.	gene	1649544	1650662	.	-	.	ID=2503275586;product=L-aminopeptidase/D-esterase
@@ -2922,7 +2922,7 @@ scaffold00003	.	gene	570851	573340	.	-	.	ID=2503274652;product=Lhr-like helicase
 scaffold00006	.	gene	408874	410742	.	-	.	ID=2503273916;product=Lipid A core - O-antigen ligase and related enzymes
 scaffold00004	.	gene	313786	315441	.	-	.	ID=2503277515;product=Long-chain acyl-CoA synthetases (AMP-forming)
 scaffold00003	.	gene	1068589	1069860	.	-	.	ID=2503275102;product=Long-chain fatty acid transport protein
-scaffold00002	.	gene	701001	702026	.	+	.	ID=2503279105;product=LysM domain
+scaffold00002	.	gene	701001	702026	.	+	.	ID=2503279105;Name=LysM
 scaffold00004	.	gene	639634	640236	.	+	.	ID=2503277804;product=Lysine efflux permease
 scaffold00003	.	gene	1330118	1331452	.	+	.	ID=2503275316;product=Lysine/ornithine N-monooxygenase
 scaffold00003	.	gene	1210373	1211362	.	+	.	ID=2503275233;product=Lysophospholipase
@@ -3851,19 +3851,19 @@ scaffold00004	.	gene	845974	847560	.	-	.	ID=2503277990;Note=PAS domain S-box
 scaffold00004	.	gene	465700	467019	.	-	.	ID=2503277660;Note=PAS domain S-box
 scaffold00007	.	gene	345985	346446	.	+	.	ID=2503276153;Note=PAS domain S-box
 scaffold00004	.	gene	553253	555289	.	+	.	ID=2503277744;Note=PAS domain S-box
-scaffold00004	.	gene	190192	192651	.	-	.	ID=2503277395;Note=PAS domain S-box/diguanylate cyclase (GGDEF) domain
-scaffold00003	.	gene	1220577	1222964	.	+	.	ID=2503275243;Note=PAS domain S-box/diguanylate cyclase (GGDEF) domain
-scaffold00006	.	gene	378908	381604	.	-	.	ID=2503273895;Note=PAS domain S-box/diguanylate cyclase (GGDEF) domain
-scaffold00001	.	gene	99715	103563	.	+	.	ID=2503278233;Note=PAS domain S-box/diguanylate cyclase (GGDEF) domain
-scaffold00006	.	gene	75308	76297	.	-	.	ID=2503273619;Note=PAS domain S-box/diguanylate cyclase (GGDEF) domain
-scaffold00007	.	gene	417278	419899	.	+	.	ID=2503276217;Note=PAS domain S-box/diguanylate cyclase (GGDEF) domain
-scaffold00003	.	gene	1686439	1687551	.	-	.	ID=2503275621;Note=PAS domain S-box/diguanylate cyclase (GGDEF) domain
-scaffold00002	.	gene	56547	60293	.	+	.	ID=2503278523;Note=PAS domain S-box/diguanylate cyclase (GGDEF) domain
-scaffold00002	.	gene	178579	180702	.	-	.	ID=2503278625;Note=PAS domain S-box/diguanylate cyclase (GGDEF) domain
-scaffold00007	.	gene	1366318	1369596	.	+	.	ID=2503277097;Note=PAS domain S-box/diguanylate cyclase (GGDEF) domain
-scaffold00003	.	gene	687742	689091	.	+	.	ID=2503274763;Note=PAS domain S-box/diguanylate cyclase (GGDEF) domain
-scaffold00006	.	gene	77876	79795	.	+	.	ID=2503273621;Note=PAS domain S-box/diguanylate cyclase (GGDEF) domain
-scaffold00002	.	gene	601823	604696	.	-	.	ID=2503279019;Note=PAS domain S-box/diguanylate cyclase (GGDEF) domain
+scaffold00004	.	gene	190192	192651	.	-	.	ID=2503277395;Note=PAS domain S-box/diguanylate cyclase
+scaffold00003	.	gene	1220577	1222964	.	+	.	ID=2503275243;Note=PAS domain S-box/diguanylate cyclase
+scaffold00006	.	gene	378908	381604	.	-	.	ID=2503273895;Note=PAS domain S-box/diguanylate cyclase
+scaffold00001	.	gene	99715	103563	.	+	.	ID=2503278233;Note=PAS domain S-box/diguanylate cyclase
+scaffold00006	.	gene	75308	76297	.	-	.	ID=2503273619;Note=PAS domain S-box/diguanylate cyclase
+scaffold00007	.	gene	417278	419899	.	+	.	ID=2503276217;Note=PAS domain S-box/diguanylate cyclase
+scaffold00003	.	gene	1686439	1687551	.	-	.	ID=2503275621;Note=PAS domain S-box/diguanylate cyclase
+scaffold00002	.	gene	56547	60293	.	+	.	ID=2503278523;Note=PAS domain S-box/diguanylate cyclase
+scaffold00002	.	gene	178579	180702	.	-	.	ID=2503278625;Note=PAS domain S-box/diguanylate cyclase
+scaffold00007	.	gene	1366318	1369596	.	+	.	ID=2503277097;Note=PAS domain S-box/diguanylate cyclase
+scaffold00003	.	gene	687742	689091	.	+	.	ID=2503274763;Note=PAS domain S-box/diguanylate cyclase
+scaffold00006	.	gene	77876	79795	.	+	.	ID=2503273621;Note=PAS domain S-box/diguanylate cyclase
+scaffold00002	.	gene	601823	604696	.	-	.	ID=2503279019;Note=PAS domain S-box/diguanylate cyclase
 contig00278	.	gene	3	530	.	-	.	ID=2503279275;Note=PAS fold.
 scaffold00003	.	gene	431328	432164	.	+	.	ID=2503274511;product=PEP phosphonomutase
 scaffold00007	.	gene	1227129	1227998	.	+	.	ID=2503276966;product=PEP phosphonomutase
@@ -4096,7 +4096,7 @@ scaffold00007	.	gene	502206	502763	.	-	.	ID=2503276284;product=RNA polymerase si
 scaffold00006	.	gene	5085	5585	.	-	.	ID=2503273572;product=RNA polymerase sigma factor
 scaffold00003	.	gene	261414	261902	.	-	.	ID=2503274363;product=RNA polymerase sigma factor
 scaffold00003	.	gene	200105	201574	.	-	.	ID=2503274302;product=RNA polymerase sigma-54 factor
-scaffold00003	.	gene	90061	90369	.	-	.	ID=2503274207;product=RNA-binding protein containing KH domain
+scaffold00003	.	gene	90061	90369	.	-	.	ID=2503274207;product=RNA-binding protein;Note=KH domain
 scaffold00002	.	gene	248091	248639	.	+	.	ID=2503278695;product=RNA:NAD 2''-phosphotransferase
 scaffold00007	.	gene	226046	227203	.	-	.	ID=2503276050;product=RND family efflux transporter, MFP subunit
 scaffold00007	.	gene	531114	532367	.	+	.	ID=2503276316;product=RND family efflux transporter, MFP subunit
@@ -4229,7 +4229,7 @@ scaffold00004	.	gene	49631	50644	.	-	.	ID=2503277266;product=Siderophore biosynt
 scaffold00004	.	gene	748039	748824	.	+	.	ID=2503277894;product=Siderophore-interacting protein
 scaffold00007	.	gene	1335327	1336238	.	-	.	ID=2503277067;product=Siderophore-interacting protein
 scaffold00003	.	gene	257411	257815	.	+	.	ID=2503274360;product=Sigma 54 modulation protein
-scaffold00007	.	gene	528500	529441	.	-	.	ID=2503276313;product=Sigma-54 interaction domain
+scaffold00007	.	gene	528500	529441	.	-	.	ID=2503276313;product=Sigma-54 interaction protein
 scaffold00007	.	gene	1311430	1313037	.	+	.	ID=2503277038;product=Sigma54-dependent transcription regulator;Note=Contains an AAA-type ATPase domain and a DNA-binding domain
 scaffold00004	.	gene	89142	91463	.	+	.	ID=2503277303;product=Signal transduction histidine kinase
 scaffold00002	.	gene	108721	110139	.	-	.	ID=2503278569;product=Signal transduction histidine kinase
@@ -4996,7 +4996,7 @@ scaffold00003	.	gene	25152	26678	.	+	.	ID=2503274150;product=methylmalonic acid 
 scaffold00006	.	gene	649969	651462	.	+	.	ID=2503274128;product=methylmalonic acid semialdehyde dehydrogenase
 scaffold00003	.	gene	1152234	1152860	.	+	.	ID=2503275180;product=methylthioribulose-1-phosphate dehydratase
 scaffold00001	.	gene	264604	265260	.	+	.	ID=2503278386;product=methyltransferase
-scaffold00007	.	gene	1009981	1011525	.	+	.	ID=2503276750;product=methyltransferase regulatory domain
+scaffold00007	.	gene	1009981	1011525	.	+	.	ID=2503276750;product=methyltransferase regulation
 scaffold00004	.	gene	759649	760428	.	+	.	ID=2503277904;product=methyltransferase
 scaffold00004	.	gene	760425	761381	.	+	.	ID=2503277905;product=methyltransferase
 scaffold00002	.	gene	2875	3966	.	+	.	ID=2503278474;product=molecular chaperone distantly related to HSP70-fold metalloprotease
@@ -5312,7 +5312,7 @@ scaffold00007	.	gene	1257394	1258464	.	-	.	ID=2503276992;product=secreted hydrol
 scaffold00001	.	gene	238886	240505	.	-	.	ID=2503278363;product=secreted protein
 scaffold00004	.	gene	758444	758836	.	+	.	ID=2503277902;product=secreted protein
 scaffold00003	.	gene	880649	881620	.	+	.	ID=2503274930;product=segregation and condensation protein B
-scaffold00003	.	gene	866293	866580	.	+	.	ID=2503274912;product=selT/selW/selH selenoprotein domain
+scaffold00003	.	gene	866293	866580	.	+	.	ID=2503274912;product=selT/selW/selH selenoprotein
 scaffold00003	.	gene	1397023	1398057	.	+	.	ID=2503275361;product=selenium donor protein
 scaffold00004	.	gene	799931	800707	.	-	.	ID=2503277940;product=serine O-acetyltransferase
 scaffold00002	.	gene	706865	707686	.	+	.	ID=2503279111;product=shikimate 5-dehydrogenase
@@ -5379,7 +5379,7 @@ scaffold00006	.	gene	173314	173748	.	+	.	ID=2503273711;product=thioesterase
 scaffold00007	.	gene	1371339	1371788	.	-	.	ID=2503277100;product=thioesterase
 scaffold00002	.	gene	151815	152291	.	+	.	ID=2503278604;product=thioesterase
 scaffold00006	.	gene	343229	343654	.	-	.	ID=2503273866;product=thioesterase
-scaffold00006	.	gene	180950	181405	.	-	.	ID=2503273719;product=thioesterase domain
+scaffold00006	.	gene	180950	181405	.	-	.	ID=2503273719;product=thioesterase
 scaffold00003	.	gene	1286878	1287618	.	+	.	ID=2503275300;product=thioesterase;Note=involved in non-ribosomal peptide biosynthesis
 scaffold00004	.	gene	645263	646690	.	+	.	ID=2503277808;product=thiol oxidoreductase
 scaffold00002	.	gene	383497	383826	.	-	.	ID=2503278822;product=thioredoxin
@@ -5414,8 +5414,8 @@ scaffold00003	.	gene	95490	96245	.	+	.	ID=2503274212;product=triosephosphate iso
 scaffold00007	.	gene	295939	296694	.	+	.	ID=2503276114;product=triosephosphate isomerase
 scaffold00002	.	gene	785208	786020	.	+	.	ID=2503279189;product=tryptophan synthase, alpha subunit
 scaffold00002	.	gene	783976	785208	.	+	.	ID=2503279188;product=tryptophan synthase, beta subunit
-scaffold00003	.	gene	834599	843205	.	+	.	ID=2503274898;product=type 1 secretion C-terminal target domain
-scaffold00006	.	gene	18452	34087	.	-	.	ID=2503273582;product=type 1 secretion C-terminal target domain
+scaffold00003	.	gene	834599	843205	.	+	.	ID=2503274898;product=type 1 secretion protein
+scaffold00006	.	gene	18452	34087	.	-	.	ID=2503273582;product=type 1 secretion protein
 scaffold00007	.	gene	507173	508528	.	+	.	ID=2503276288;product=type III secretion apparatus H+-transporting two-sector ATPase
 scaffold00007	.	gene	525996	526790	.	-	.	ID=2503276309;product=type III secretion apparatus lipoprotein
 scaffold00007	.	gene	524796	525401	.	-	.	ID=2503276307;product=type III secretion apparatus protein
