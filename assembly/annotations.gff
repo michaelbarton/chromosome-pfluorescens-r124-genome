@@ -60,6 +60,9 @@ scaffold00001	.	gene	330513	330588	.	-	.	feature_type=tRNA;Note=Codon: CCA;produ
 scaffold00001	.	gene	332165	332240	.	-	.	feature_type=tRNA;Note=Codon: GGT;product=tRNA-Thr;ID=2503278458
 scaffold00001	.	gene	332267	332340	.	-	.	feature_type=tRNA;Note=Codon: TCC;product=tRNA-Gly;ID=2503278459
 scaffold00001	.	gene	332365	332449	.	-	.	feature_type=tRNA;Note=Codon: GTA;product=tRNA-Tyr;ID=2503278460
+scaffold00007	.	gene	1320131	1320664	.	-	.	ID=2503277049;product=30S ribosomal protein S13
+scaffold00003	.	gene	103188	103457	.	+	.	ID=2503274220;product=30S ribosomal protein S15
+scaffold00001	.	gene	303009	303104	.	-	.	ID=2503278420;product=translation initiation factor IF-3;feature_type=ncRNA
 scaffold00003	.	gene	9448	10023	.	+	.	ID=2503274132;product=hypothetical protein
 scaffold00003	.	gene	11784	11966	.	-	.	ID=2503274135;product=hypothetical protein
 scaffold00003	.	gene	14459	14560	.	+	.	ID=2503274138;product=hypothetical protein
@@ -90,7 +93,6 @@ scaffold00003	.	gene	89647	90051	.	+	.	ID=2503274206;product=hypothetical protei
 scaffold00003	.	gene	90471	91100	.	+	.	ID=2503274208;product=23S rRNA methylase
 scaffold00003	.	gene	97039	97515	.	+	.	ID=2503274215;product=hypothetical protein
 scaffold00003	.	gene	102155	103072	.	+	.	ID=2503274219;product=tRNA pseudouridine 55 synthase
-scaffold00003	.	gene	103142	103244	.	+	.	ID=2503274220;product=ncRNA;feature_type=ncRNA
 scaffold00003	.	gene	106195	106494	.	+	.	ID=2503274224;product=hypothetical protein
 scaffold00003	.	gene	107686	109872	.	+	.	ID=2503274226;product=hypothetical protein
 scaffold00003	.	gene	113810	114199	.	+	.	ID=2503274230;product=hypothetical protein
@@ -177,10 +179,8 @@ scaffold00003	.	gene	445650	446027	.	-	.	ID=2503274523;product=hypothetical prot
 scaffold00003	.	gene	455018	455380	.	-	.	ID=2503274531;product=hypothetical protein
 scaffold00003	.	gene	455413	455631	.	+	.	ID=2503274532;product=hypothetical protein
 scaffold00003	.	gene	457324	457971	.	-	.	ID=2503274534;product=hypothetical protein
-scaffold00003	.	gene	463644	463738	.	+	.	ID=2503274538;product=ncRNA;feature_type=ncRNA
 scaffold00003	.	gene	483220	484548	.	+	.	ID=2503274556;product=tRNA(Ile)-lysidine synthetase
 scaffold00003	.	gene	493599	494657	.	+	.	ID=2503274566;product=hypothetical protein
-scaffold00003	.	gene	499910	500069	.	+	.	ID=2503274571;product=ncRNA;feature_type=ncRNA
 scaffold00003	.	gene	504676	505017	.	+	.	ID=2503274575;product=hypothetical protein
 scaffold00003	.	gene	505091	505612	.	+	.	ID=2503274576;product=hypothetical protein
 scaffold00003	.	gene	506239	506571	.	+	.	ID=2503274578;product=hypothetical protein
@@ -341,7 +341,6 @@ scaffold00003	.	gene	1070007	1070489	.	-	.	ID=2503275103;product=hypothetical pr
 scaffold00003	.	gene	1070764	1070988	.	-	.	ID=2503275104;product=hypothetical protein
 scaffold00003	.	gene	1072081	1072332	.	+	.	ID=2503275105;product=hypothetical protein
 scaffold00003	.	gene	1072394	1073872	.	+	.	ID=2503275106;product=hypothetical protein
-scaffold00003	.	gene	1083527	1083579	.	-	.	ID=2503275114;product=ncRNA;feature_type=ncRNA
 scaffold00003	.	gene	1087720	1089528	.	-	.	ID=2503275122;product=hypothetical protein
 scaffold00003	.	gene	1090819	1091274	.	+	.	ID=2503275124;product=hypothetical protein
 scaffold00003	.	gene	1091725	1092096	.	+	.	ID=2503275126;product=hypothetical protein
@@ -376,7 +375,6 @@ scaffold00003	.	gene	1206818	1207636	.	-	.	ID=2503275231;product=hypothetical pr
 scaffold00003	.	gene	1213164	1213412	.	+	.	ID=2503275236;product=hypothetical protein
 scaffold00003	.	gene	1224786	1225130	.	+	.	ID=2503275245;product=hypothetical protein
 scaffold00003	.	gene	1242190	1243356	.	+	.	ID=2503275256;product=hypothetical protein
-scaffold00003	.	gene	1243467	1243566	.	+	.	ID=2503275257;product=ncRNA;feature_type=ncRNA
 scaffold00003	.	gene	1243795	1245744	.	+	.	ID=2503275258;product=hypothetical protein
 scaffold00003	.	gene	1248921	1249259	.	+	.	ID=2503275261;product=hypothetical protein
 scaffold00003	.	gene	1254240	1254722	.	+	.	ID=2503275267;product=hypothetical protein
@@ -427,7 +425,6 @@ scaffold00003	.	gene	1493462	1493995	.	+	.	ID=2503275447;product=hypothetical pr
 scaffold00003	.	gene	1494016	1494552	.	+	.	ID=2503275448;product=hypothetical protein
 scaffold00003	.	gene	1494557	1495057	.	+	.	ID=2503275449;product=hypothetical protein
 scaffold00003	.	gene	1498492	1499463	.	+	.	ID=2503275452;product=hypothetical protein
-scaffold00003	.	gene	1505413	1505559	.	-	.	ID=2503275459;product=ncRNA;feature_type=ncRNA
 scaffold00003	.	gene	1505617	1505955	.	-	.	ID=2503275460;product=hypothetical protein
 scaffold00003	.	gene	1524190	1527864	.	+	.	ID=2503275475;product=hypothetical protein
 scaffold00003	.	gene	1541156	1542475	.	+	.	ID=2503275484;product=hypothetical protein
@@ -649,7 +646,6 @@ scaffold00007	.	gene	574380	574676	.	-	.	ID=2503276346;product=hypothetical prot
 scaffold00007	.	gene	575166	575435	.	+	.	ID=2503276347;product=hypothetical protein
 scaffold00007	.	gene	575526	575924	.	+	.	ID=2503276348;product=hypothetical protein
 scaffold00007	.	gene	575921	576190	.	-	.	ID=2503276349;product=hypothetical protein
-scaffold00007	.	gene	578440	578516	.	-	.	ID=2503276353;product=ncRNA;feature_type=ncRNA
 scaffold00007	.	gene	578648	578983	.	+	.	ID=2503276354;product=hypothetical protein
 scaffold00007	.	gene	584149	584490	.	-	.	ID=2503276359;product=hypothetical protein
 scaffold00007	.	gene	587115	587324	.	+	.	ID=2503276362;product=hypothetical protein
@@ -730,7 +726,6 @@ scaffold00007	.	gene	688368	688598	.	+	.	ID=2503276488;product=hypothetical prot
 scaffold00007	.	gene	688706	688990	.	+	.	ID=2503276489;product=hypothetical protein
 scaffold00007	.	gene	689982	690143	.	+	.	ID=2503276491;product=hypothetical protein
 scaffold00007	.	gene	690802	691578	.	+	.	ID=2503276492;product=hypothetical protein
-scaffold00007	.	gene	696976	697093	.	+	.	ID=2503276501;product=ncRNA;feature_type=ncRNA
 scaffold00007	.	gene	698488	699666	.	-	.	ID=2503276503;product=hypothetical protein
 scaffold00007	.	gene	724875	725213	.	+	.	ID=2503276525;product=hypothetical protein
 scaffold00007	.	gene	729714	732875	.	+	.	ID=2503276530;product=hypothetical protein
@@ -906,7 +901,6 @@ scaffold00007	.	gene	1313957	1314301	.	-	.	ID=2503277041;product=hypothetical pr
 scaffold00007	.	gene	1314400	1315062	.	-	.	ID=2503277042;product=hypothetical protein
 scaffold00007	.	gene	1315960	1318338	.	-	.	ID=2503277046;product=phenylalanyl-tRNA synthetase, beta subunit
 scaffold00007	.	gene	1318365	1319381	.	-	.	ID=2503277047;product=phenylalanyl-tRNA synthetase, alpha subunit
-scaffold00007	.	gene	1320050	1320367	.	-	.	ID=2503277049;product=ncRNA;feature_type=ncRNA
 scaffold00007	.	gene	1320682	1322604	.	-	.	ID=2503277050;product=threonyl-tRNA synthetase
 scaffold00007	.	gene	1322986	1323285	.	+	.	ID=2503277051;product=hypothetical protein
 scaffold00007	.	gene	1324349	1324654	.	-	.	ID=2503277054;product=hypothetical protein
@@ -1003,7 +997,6 @@ scaffold00004	.	gene	238435	238779	.	+	.	ID=2503277436;product=hypothetical prot
 scaffold00004	.	gene	238824	239078	.	+	.	ID=2503277437;product=hypothetical protein
 scaffold00004	.	gene	250567	251127	.	-	.	ID=2503277448;product=hypothetical protein
 scaffold00004	.	gene	251144	251749	.	-	.	ID=2503277449;product=hypothetical protein
-scaffold00004	.	gene	253795	253987	.	+	.	ID=2503277452;product=ncRNA;feature_type=ncRNA
 scaffold00004	.	gene	256834	258006	.	-	.	ID=2503277457;product=hypothetical protein
 scaffold00004	.	gene	271621	272211	.	-	.	ID=2503277471;product=hypothetical protein
 scaffold00004	.	gene	278625	278810	.	-	.	ID=2503277478;product=hypothetical protein
@@ -1132,14 +1125,12 @@ scaffold00004	.	gene	844674	844997	.	+	.	ID=2503277988;product=hypothetical prot
 scaffold00004	.	gene	847711	847950	.	-	.	ID=2503277991;product=hypothetical protein
 scaffold00004	.	gene	848062	848367	.	-	.	ID=2503277992;product=hypothetical protein
 scaffold00004	.	gene	856171	856392	.	+	.	ID=2503277997;product=hypothetical protein
-scaffold00004	.	gene	878006	878359	.	-	.	ID=2503278016;product=ncRNA;feature_type=ncRNA
 scaffold00004	.	gene	878433	879305	.	-	.	ID=2503278017;product=hypothetical protein
 scaffold00004	.	gene	881327	881689	.	+	.	ID=2503278019;product=hypothetical protein
 scaffold00004	.	gene	893015	894370	.	-	.	ID=2503278033;product=tryptophanyl-tRNA synthetase
 scaffold00004	.	gene	895169	895603	.	+	.	ID=2503278035;product=hypothetical protein
 scaffold00004	.	gene	900329	901693	.	-	.	ID=2503278039;product=hypothetical protein
 scaffold00004	.	gene	901722	903611	.	-	.	ID=2503278040;product=hypothetical protein
-scaffold00004	.	gene	910864	911008	.	+	.	ID=2503278047;product=ncRNA;feature_type=ncRNA
 scaffold00004	.	gene	915264	915887	.	-	.	ID=2503278051;product=hypothetical protein
 scaffold00004	.	gene	915924	916184	.	-	.	ID=2503278052;product=hypothetical protein
 scaffold00004	.	gene	916195	916377	.	-	.	ID=2503278053;product=hypothetical protein
@@ -1177,7 +1168,6 @@ scaffold00002	.	gene	47770	48999	.	+	.	ID=2503278515;product=tRNA nucleotidyltra
 scaffold00002	.	gene	61288	61716	.	+	.	ID=2503278526;product=hypothetical protein
 scaffold00002	.	gene	73102	73260	.	-	.	ID=2503278536;product=hypothetical protein
 scaffold00002	.	gene	73683	74039	.	-	.	ID=2503278538;product=hypothetical protein
-scaffold00002	.	gene	76677	76794	.	-	.	ID=2503278541;product=ncRNA;feature_type=ncRNA
 scaffold00002	.	gene	82413	82709	.	-	.	ID=2503278545;product=hypothetical protein
 scaffold00002	.	gene	104850	105974	.	+	.	ID=2503278564;product=hypothetical protein
 scaffold00002	.	gene	105971	106150	.	+	.	ID=2503278565;product=hypothetical protein
@@ -1199,7 +1189,6 @@ scaffold00002	.	gene	182420	182617	.	+	.	ID=2503278628;product=hypothetical prot
 scaffold00002	.	gene	182757	182882	.	-	.	ID=2503278629;product=hypothetical protein
 scaffold00002	.	gene	184815	185036	.	-	.	ID=2503278632;product=hypothetical protein
 scaffold00002	.	gene	193968	194363	.	+	.	ID=2503278639;product=hypothetical protein
-scaffold00002	.	gene	200869	200967	.	+	.	ID=2503278647;product=ncRNA;feature_type=ncRNA
 scaffold00002	.	gene	206978	207571	.	-	.	ID=2503278652;product=hypothetical protein
 scaffold00002	.	gene	221150	221515	.	-	.	ID=2503278668;product=hypothetical protein
 scaffold00002	.	gene	234989	235426	.	+	.	ID=2503278678;product=hypothetical protein
@@ -1221,7 +1210,6 @@ scaffold00002	.	gene	311272	311697	.	-	.	ID=2503278754;product=hypothetical prot
 scaffold00002	.	gene	312521	313006	.	-	.	ID=2503278756;product=hypothetical protein
 scaffold00002	.	gene	313749	314501	.	+	.	ID=2503278758;product=hypothetical protein
 scaffold00002	.	gene	315652	316230	.	+	.	ID=2503278760;product=hypothetical protein
-scaffold00002	.	gene	329740	329919	.	+	.	ID=2503278771;product=ncRNA;feature_type=ncRNA
 scaffold00002	.	gene	344071	345441	.	+	.	ID=2503278785;product=hypothetical protein
 scaffold00002	.	gene	346175	346513	.	+	.	ID=2503278787;product=hypothetical protein
 scaffold00002	.	gene	348393	349433	.	-	.	ID=2503278789;product=hypothetical protein
@@ -1230,7 +1218,6 @@ scaffold00002	.	gene	360248	360733	.	-	.	ID=2503278798;product=hypothetical prot
 scaffold00002	.	gene	363272	363832	.	-	.	ID=2503278801;product=hypothetical protein
 scaffold00002	.	gene	363967	364176	.	+	.	ID=2503278802;product=hypothetical protein
 scaffold00002	.	gene	364173	364490	.	+	.	ID=2503278803;product=hypothetical protein
-scaffold00002	.	gene	364521	364699	.	+	.	ID=2503278804;product=ncRNA;feature_type=ncRNA
 scaffold00002	.	gene	365421	365576	.	-	.	ID=2503278806;product=hypothetical protein
 scaffold00002	.	gene	365774	366223	.	+	.	ID=2503278807;product=hypothetical protein
 scaffold00002	.	gene	373586	374215	.	-	.	ID=2503278814;product=hypothetical protein
@@ -1456,7 +1443,6 @@ scaffold00001	.	gene	7320	7655	.	-	.	ID=2503278143;product=hypothetical protein
 scaffold00001	.	gene	7655	8410	.	-	.	ID=2503278144;product=hypothetical protein
 scaffold00001	.	gene	10868	12424	.	+	.	ID=2503278146;product=hypothetical protein
 scaffold00001	.	gene	12516	12860	.	+	.	ID=2503278147;product=hypothetical proteins
-scaffold00001	.	gene	14296	14445	.	+	.	ID=2503278150;product=ncRNA;feature_type=ncRNA
 scaffold00001	.	gene	14458	15309	.	-	.	ID=2503278151;product=hypothetical protein
 scaffold00001	.	gene	21355	22251	.	+	.	ID=2503278159;product=Glutamyl- and glutaminyl-tRNA synthetases
 scaffold00001	.	gene	22329	22505	.	+	.	ID=2503278160;product=hypothetical protein
@@ -1492,7 +1478,6 @@ scaffold00001	.	gene	160643	161575	.	-	.	ID=2503278289;product=hypothetical prot
 scaffold00001	.	gene	161568	162308	.	-	.	ID=2503278290;product=metal-dependent hydrolases
 scaffold00001	.	gene	170453	170872	.	+	.	ID=2503278296;product=hypothetical protein
 scaffold00001	.	gene	171784	172818	.	-	.	ID=2503278298;product=hypothetical protein
-scaffold00001	.	gene	172963	173219	.	-	.	ID=2503278299;product=ncRNA;feature_type=ncRNA
 scaffold00001	.	gene	173945	174154	.	+	.	ID=2503278301;product=hypothetical protein
 scaffold00001	.	gene	184739	185068	.	-	.	ID=2503278310;product=hypothetical protein
 scaffold00001	.	gene	185202	186530	.	+	.	ID=2503278311;product=tRNA-N(6)-(isopentenyl)adenosine-37 thiotransferase enzyme;Name=miaB
@@ -1523,8 +1508,6 @@ scaffold00001	.	gene	281771	282697	.	+	.	ID=2503278399;product=hypothetical prot
 scaffold00001	.	gene	286596	287705	.	-	.	ID=2503278404;product=hypothetical protein
 scaffold00001	.	gene	288098	288766	.	+	.	ID=2503278405;product=hypothetical protein
 scaffold00001	.	gene	289692	290342	.	+	.	ID=2503278407;product=hypothetical protein
-scaffold00001	.	gene	303009	303104	.	-	.	ID=2503278420;product=ncRNA;feature_type=ncRNA
-scaffold00001	.	gene	327102	327167	.	-	.	ID=2503278449;product=ncRNA;feature_type=ncRNA
 scaffold00001	.	gene	332592	333029	.	-	.	ID=2503278461;product=hypothetical protein
 scaffold00008	.	gene	576	986	.	+	.	ID=2503279215;product=hypothetical protein
 scaffold00008	.	gene	1054	1359	.	+	.	ID=2503279216;product=hypothetical protein
@@ -1570,7 +1553,6 @@ contig00027	.	gene	37	675	.	+	.	ID=2503278128;product=hypothetical protein
 contig00213	.	gene	105	656	.	+	.	ID=2503278130;product=hypothetical protein
 contig00185	.	gene	2	331	.	-	.	ID=2503278131;product=hypothetical protein
 contig00187	.	gene	1	468	.	-	.	ID=2503278134;product=hypothetical protein
-contig00260	.	gene	504	611	.	+	.	ID=2503278135;product=ncRNA;feature_type=ncRNA
 contig00193	.	gene	3	593	.	-	.	ID=2503278464;product=hypothetical protein
 contig00010	.	gene	2	613	.	+	.	ID=2503278465;product=hypothetical protein
 contig00177	.	gene	1	150	.	-	.	ID=2503278466;product=hypothetical protein
