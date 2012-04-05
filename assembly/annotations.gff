@@ -62,7 +62,7 @@ scaffold00001	.	gene	332267	332340	.	-	.	feature_type=tRNA;Note=Codon: TCC;produ
 scaffold00001	.	gene	332365	332449	.	-	.	feature_type=tRNA;Note=Codon: GTA;product=tRNA-Tyr;ID=2503278460
 scaffold00007	.	gene	1320131	1320664	.	-	.	ID=2503277049;product=30S ribosomal protein S13
 scaffold00003	.	gene	103188	103457	.	+	.	ID=2503274220;product=30S ribosomal protein S15
-scaffold00001	.	gene	303009	303104	.	-	.	ID=2503278420;product=translation initiation factor IF-3;feature_type=ncRNA
+scaffold00001	.	gene	303009	303104	.	-	.	ID=2503278420;product=Translation initiation factor IF-3;feature_type=miscRNA
 scaffold00003	.	gene	9448	10023	.	+	.	ID=2503274132;product=hypothetical protein
 scaffold00003	.	gene	11784	11966	.	-	.	ID=2503274135;product=hypothetical protein
 scaffold00003	.	gene	14459	14560	.	+	.	ID=2503274138;product=hypothetical protein
