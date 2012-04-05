@@ -2024,7 +2024,7 @@ scaffold00007	.	gene	1387449	1388033	.	+	.	ID=2503277120;product=Acetyltransfera
 scaffold00002	.	gene	587732	588403	.	+	.	ID=2503279008;product=Acetyltransferase
 scaffold00007	.	gene	97261	97770	.	+	.	ID=2503275951;product=Acetyltransferase
 scaffold00004	.	gene	721261	721758	.	-	.	ID=2503277875;product=Acetyltransferase
-scaffold00007	.	gene	169872	171002	.	-	.	ID=2503276002;product=Acyl-protein synthetase, LuxE.
+scaffold00007	.	gene	169872	171002	.	-	.	ID=2503276002;product=Acyl-protein synthetase;Name=LuxE
 scaffold00003	.	gene	638241	639098	.	+	.	ID=2503274712;product=Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit
 scaffold00003	.	gene	639098	639877	.	+	.	ID=2503274713;product=Acyl CoA:acetate/3-ketoacid CoA transferase, beta subunit
 scaffold00006	.	gene	349197	349451	.	-	.	ID=2503273872;product=Acyl carrier protein
@@ -3459,7 +3459,7 @@ scaffold00006	.	gene	608326	608532	.	+	.	ID=2503274090;product=Flp/Fap pilin com
 scaffold00002	.	gene	199127	200026	.	-	.	ID=2503278645;product=Formate/nitrite transporter
 scaffold00004	.	gene	87606	88088	.	-	.	ID=2503277301;product=hypothetical protein
 scaffold00002	.	gene	645830	646798	.	+	.	ID=2503279057;product=GDP-mannose 4,6-dehydratase
-contig00176	.	gene	2	646	.	-	.	ID=2503278133;product=GDSL-like Lipase/Acylhydrolase.
+contig00176	.	gene	2	646	.	-	.	ID=2503278133;product=GDSL-like Lipase/Acylhydrolase
 scaffold00004	.	gene	772106	773683	.	-	.	ID=2503277912;product=GMP synthase glutamine-hydrolyzing
 scaffold00007	.	gene	994011	994739	.	-	.	ID=2503276733;product=Glutamine amidotransferase
 scaffold00003	.	gene	1169295	1170023	.	+	.	ID=2503275198;product=Glutamine amidotransferase
@@ -3832,7 +3832,7 @@ scaffold00003	.	gene	875250	875696	.	-	.	ID=2503274922;product=Periplasmic inhib
 scaffold00003	.	gene	198386	199243	.	-	.	ID=2503274299;product=P-loop-containing kinase
 scaffold00008	.	gene	10652	11329	.	+	.	ID=2503279231;product=P-type DNA transfer protein;Name=virB5
 scaffold00003	.	gene	516954	517166	.	+	.	ID=2503274589;product=P2-like prophage tail protein X
-scaffold00006	.	gene	160883	161686	.	-	.	ID=2503273699;Note=PAP2 superfamily.;product=hypothetical protein
+scaffold00006	.	gene	160883	161686	.	-	.	ID=2503273699;Note=PAP2 superfamily;product=hypothetical protein
 scaffold00007	.	gene	809792	811903	.	-	.	ID=2503276584;Note=PAS domain S-box;product=hypothetical protein
 scaffold00007	.	gene	456308	458230	.	-	.	ID=2503276251;Note=PAS domain S-box;product=hypothetical protein
 scaffold00003	.	gene	1276497	1278062	.	-	.	ID=2503275291;Note=PAS domain S-box;product=hypothetical protein
@@ -4068,7 +4068,7 @@ scaffold00003	.	gene	1699137	1700417	.	-	.	ID=2503275635;product=Pyruvate/2-oxog
 contig00271	.	gene	3	569	.	-	.	ID=2503279207;product=Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3) component
 scaffold00007	.	gene	1445790	1447184	.	-	.	ID=2503277179;product=Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3) component
 contig00085	.	gene	3	404	.	-	.	ID=2503275848;product=Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3) component
-scaffold00007	.	gene	1313438	1313857	.	-	.	ID=2503277040;product=RDD family.
+scaffold00007	.	gene	1313438	1313857	.	-	.	ID=2503277040;product=RDD family
 scaffold00006	.	gene	201002	201682	.	+	.	ID=2503273738;product=hypothetical protein
 scaffold00007	.	gene	1306276	1307304	.	-	.	ID=2503277034;product=RNA 3''-phosphate cyclase
 scaffold00006	.	gene	460603	460863	.	+	.	ID=2503273961;product=RNA chaperone Hfq
@@ -4276,7 +4276,7 @@ scaffold00007	.	gene	636233	637087	.	+	.	ID=2503276430;product=Site-specific DNA
 scaffold00003	.	gene	20261	21184	.	+	.	ID=2503274145;product=Site-specific DNA methylase
 scaffold00003	.	gene	13872	14462	.	+	.	ID=2503274137;product=Site-specific recombinases, DNA invertase
 scaffold00008	.	gene	43184	43774	.	-	.	ID=2503279266;product=Site-specific recombinases, DNA invertase
-scaffold00007	.	gene	263022	263435	.	-	.	ID=2503276084;product=Small Multidrug Resistance protein.
+scaffold00007	.	gene	263022	263435	.	-	.	ID=2503276084;product=Small Multidrug Resistance protein
 scaffold00003	.	gene	1114204	1116360	.	-	.	ID=2503275144;product=Small-conductance mechanosensitive channel
 scaffold00003	.	gene	793939	795237	.	-	.	ID=2503274869;product=Small-conductance mechanosensitive channel
 scaffold00004	.	gene	550387	551226	.	-	.	ID=2503277741;product=Small-conductance mechanosensitive channel
@@ -4312,14 +4312,14 @@ contig00040	.	gene	3	725	.	-	.	ID=2503277218;product=Spore germination protein
 scaffold00004	.	gene	438501	439379	.	-	.	ID=2503277632;product=Sterol desaturase
 scaffold00002	.	gene	393841	395076	.	-	.	ID=2503278832;product=Sterol desaturase
 scaffold00007	.	gene	1489649	1490491	.	-	.	ID=2503277209;product=Streptomycin 6-kinase
-scaffold00003	.	gene	689210	689368	.	+	.	ID=2503274764;product=hypothetical protein;Note=Stress-induced bacterial acidophilic repeat motif.
+scaffold00003	.	gene	689210	689368	.	+	.	ID=2503274764;product=hypothetical protein;Note=Stress-induced bacterial acidophilic repeat motif
 scaffold00004	.	gene	201081	201380	.	-	.	ID=2503277400;product=hypothetical protein
 scaffold00004	.	gene	883097	883510	.	-	.	ID=2503278022;product=Stringent starvation protein B
 scaffold00002	.	gene	703262	703819	.	+	.	ID=2503279107;product=Sua5/YciO/YrdC/YwlC family protein
 scaffold00003	.	gene	879147	879815	.	+	.	ID=2503274928;product=Sua5/YciO/YrdC/YwlC family protein
 scaffold00007	.	gene	826697	828427	.	-	.	ID=2503276599;product=Succinate dehydrogenase/fumarate reductase, flavoprotein subunit
 scaffold00001	.	gene	139846	141585	.	+	.	ID=2503278269;product=Succinate dehydrogenase/fumarate reductase, flavoprotein subunit
-scaffold00003	.	gene	367212	368528	.	-	.	ID=2503274453;product=Sugar transporter.
+scaffold00003	.	gene	367212	368528	.	-	.	ID=2503274453;product=Sugar transporter
 scaffold00003	.	gene	48282	49850	.	+	.	ID=2503274172;product=Sugar (pentulose and hexulose) kinases
 scaffold00007	.	gene	209767	210885	.	+	.	ID=2503276038;product=Sugar diacid utilization regulator
 scaffold00004	.	gene	239232	240161	.	-	.	ID=2503277438;product=Sugar kinases, ribokinase family
