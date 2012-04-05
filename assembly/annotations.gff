@@ -1706,7 +1706,7 @@ scaffold00007	.	gene	204738	205814	.	+	.	ID=2503276034;product=4-hydroxyphenylpy
 scaffold00001	.	gene	132159	134060	.	-	.	ID=2503278263;product=4-hydroxyphenylpyruvate dioxygenase
 scaffold00002	.	gene	38993	39982	.	+	.	ID=2503278507;product=4-hydroxythreonine-4-phosphate dehydrogenase
 scaffold00007	.	gene	1462224	1462961	.	-	.	ID=2503277187;product=5''-deoxy-5''-methylthioadenosine phosphorylase
-scaffold00004	.	gene	113011	113916	.	-	.	ID=2503277328;product=5''-nucleotidase.
+scaffold00004	.	gene	113011	113916	.	-	.	ID=2503277328;product=5''-nucleotidase
 scaffold00003	.	gene	494645	495394	.	+	.	ID=2503274567;Note=5''/3''-nucleotidase;Name=SurE
 scaffold00002	.	gene	364780	365385	.	+	.	ID=2503278805;product=5,10-methenyltetrahydrofolate synthetase
 scaffold00003	.	gene	1455745	1456599	.	-	.	ID=2503275416;product=5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase
