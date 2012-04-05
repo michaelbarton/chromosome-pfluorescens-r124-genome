@@ -3832,46 +3832,46 @@ scaffold00003	.	gene	875250	875696	.	-	.	ID=2503274922;product=Periplasmic inhib
 scaffold00003	.	gene	198386	199243	.	-	.	ID=2503274299;product=P-loop-containing kinase
 scaffold00008	.	gene	10652	11329	.	+	.	ID=2503279231;product=P-type DNA transfer protein;Name=virB5
 scaffold00003	.	gene	516954	517166	.	+	.	ID=2503274589;product=P2-like prophage tail protein X
-scaffold00006	.	gene	160883	161686	.	-	.	ID=2503273699;Note=PAP2 superfamily.
-scaffold00007	.	gene	809792	811903	.	-	.	ID=2503276584;Note=PAS domain S-box
-scaffold00007	.	gene	456308	458230	.	-	.	ID=2503276251;Note=PAS domain S-box
-scaffold00003	.	gene	1276497	1278062	.	-	.	ID=2503275291;Note=PAS domain S-box
-scaffold00007	.	gene	715031	717580	.	+	.	ID=2503276515;Note=PAS domain S-box
-scaffold00006	.	gene	594426	597179	.	-	.	ID=2503274077;Note=PAS domain S-box
-scaffold00007	.	gene	388871	391060	.	+	.	ID=2503276195;Note=PAS domain S-box
-scaffold00003	.	gene	233912	234388	.	-	.	ID=2503274338;Note=PAS domain S-box
-scaffold00004	.	gene	80967	84611	.	+	.	ID=2503277299;Note=PAS domain S-box
-scaffold00001	.	gene	22489	25443	.	+	.	ID=2503278161;Note=PAS domain S-box
-scaffold00002	.	gene	731873	733663	.	+	.	ID=2503279134;Note=PAS domain S-box
-scaffold00007	.	gene	804825	806768	.	+	.	ID=2503276582;Note=PAS domain S-box
-scaffold00003	.	gene	1742286	1743782	.	+	.	ID=2503275666;Note=PAS domain S-box
-scaffold00002	.	gene	28724	31120	.	-	.	ID=2503278500;Note=PAS domain S-box
-scaffold00004	.	gene	966747	968063	.	-	.	ID=2503278106;Note=PAS domain S-box
-scaffold00004	.	gene	845974	847560	.	-	.	ID=2503277990;Note=PAS domain S-box
-scaffold00004	.	gene	465700	467019	.	-	.	ID=2503277660;Note=PAS domain S-box
-scaffold00007	.	gene	345985	346446	.	+	.	ID=2503276153;Note=PAS domain S-box
-scaffold00004	.	gene	553253	555289	.	+	.	ID=2503277744;Note=PAS domain S-box
-scaffold00004	.	gene	190192	192651	.	-	.	ID=2503277395;Note=PAS domain S-box/diguanylate cyclase
-scaffold00003	.	gene	1220577	1222964	.	+	.	ID=2503275243;Note=PAS domain S-box/diguanylate cyclase
-scaffold00006	.	gene	378908	381604	.	-	.	ID=2503273895;Note=PAS domain S-box/diguanylate cyclase
-scaffold00001	.	gene	99715	103563	.	+	.	ID=2503278233;Note=PAS domain S-box/diguanylate cyclase
-scaffold00006	.	gene	75308	76297	.	-	.	ID=2503273619;Note=PAS domain S-box/diguanylate cyclase
-scaffold00007	.	gene	417278	419899	.	+	.	ID=2503276217;Note=PAS domain S-box/diguanylate cyclase
-scaffold00003	.	gene	1686439	1687551	.	-	.	ID=2503275621;Note=PAS domain S-box/diguanylate cyclase
-scaffold00002	.	gene	56547	60293	.	+	.	ID=2503278523;Note=PAS domain S-box/diguanylate cyclase
-scaffold00002	.	gene	178579	180702	.	-	.	ID=2503278625;Note=PAS domain S-box/diguanylate cyclase
-scaffold00007	.	gene	1366318	1369596	.	+	.	ID=2503277097;Note=PAS domain S-box/diguanylate cyclase
-scaffold00003	.	gene	687742	689091	.	+	.	ID=2503274763;Note=PAS domain S-box/diguanylate cyclase
-scaffold00006	.	gene	77876	79795	.	+	.	ID=2503273621;Note=PAS domain S-box/diguanylate cyclase
-scaffold00002	.	gene	601823	604696	.	-	.	ID=2503279019;Note=PAS domain S-box/diguanylate cyclase
-contig00278	.	gene	3	530	.	-	.	ID=2503279275;Note=PAS fold.
+scaffold00006	.	gene	160883	161686	.	-	.	ID=2503273699;Note=PAP2 superfamily.;product=hypothetical protein
+scaffold00007	.	gene	809792	811903	.	-	.	ID=2503276584;Note=PAS domain S-box;product=hypothetical protein
+scaffold00007	.	gene	456308	458230	.	-	.	ID=2503276251;Note=PAS domain S-box;product=hypothetical protein
+scaffold00003	.	gene	1276497	1278062	.	-	.	ID=2503275291;Note=PAS domain S-box;product=hypothetical protein
+scaffold00007	.	gene	715031	717580	.	+	.	ID=2503276515;Note=PAS domain S-box;product=hypothetical protein
+scaffold00006	.	gene	594426	597179	.	-	.	ID=2503274077;Note=PAS domain S-box;product=hypothetical protein
+scaffold00007	.	gene	388871	391060	.	+	.	ID=2503276195;Note=PAS domain S-box;product=hypothetical protein
+scaffold00003	.	gene	233912	234388	.	-	.	ID=2503274338;Note=PAS domain S-box;product=hypothetical protein
+scaffold00004	.	gene	80967	84611	.	+	.	ID=2503277299;Note=PAS domain S-box;product=hypothetical protein
+scaffold00001	.	gene	22489	25443	.	+	.	ID=2503278161;Note=PAS domain S-box;product=hypothetical protein
+scaffold00002	.	gene	731873	733663	.	+	.	ID=2503279134;Note=PAS domain S-box;product=hypothetical protein
+scaffold00007	.	gene	804825	806768	.	+	.	ID=2503276582;Note=PAS domain S-box;product=hypothetical protein
+scaffold00003	.	gene	1742286	1743782	.	+	.	ID=2503275666;Note=PAS domain S-box;product=hypothetical protein
+scaffold00002	.	gene	28724	31120	.	-	.	ID=2503278500;Note=PAS domain S-box;product=hypothetical protein
+scaffold00004	.	gene	966747	968063	.	-	.	ID=2503278106;Note=PAS domain S-box;product=hypothetical protein
+scaffold00004	.	gene	845974	847560	.	-	.	ID=2503277990;Note=PAS domain S-box;product=hypothetical protein
+scaffold00004	.	gene	465700	467019	.	-	.	ID=2503277660;Note=PAS domain S-box;product=hypothetical protein
+scaffold00007	.	gene	345985	346446	.	+	.	ID=2503276153;Note=PAS domain S-box;product=hypothetical protein
+scaffold00004	.	gene	553253	555289	.	+	.	ID=2503277744;Note=PAS domain S-box;product=hypothetical protein
+scaffold00004	.	gene	190192	192651	.	-	.	ID=2503277395;Note=PAS domain S-box;product=diguanylate cyclase
+scaffold00003	.	gene	1220577	1222964	.	+	.	ID=2503275243;Note=PAS domain S-box;product=diguanylate cyclase
+scaffold00006	.	gene	378908	381604	.	-	.	ID=2503273895;Note=PAS domain S-box;product=diguanylate cyclase
+scaffold00001	.	gene	99715	103563	.	+	.	ID=2503278233;Note=PAS domain S-box;product=diguanylate cyclase
+scaffold00006	.	gene	75308	76297	.	-	.	ID=2503273619;Note=PAS domain S-box;product=diguanylate cyclase
+scaffold00007	.	gene	417278	419899	.	+	.	ID=2503276217;Note=PAS domain S-box;product=diguanylate cyclase
+scaffold00003	.	gene	1686439	1687551	.	-	.	ID=2503275621;Note=PAS domain S-box;product=diguanylate cyclase
+scaffold00002	.	gene	56547	60293	.	+	.	ID=2503278523;Note=PAS domain S-box;product=diguanylate cyclase
+scaffold00002	.	gene	178579	180702	.	-	.	ID=2503278625;Note=PAS domain S-box;product=diguanylate cyclase
+scaffold00007	.	gene	1366318	1369596	.	+	.	ID=2503277097;Note=PAS domain S-box;product=diguanylate cyclase
+scaffold00003	.	gene	687742	689091	.	+	.	ID=2503274763;Note=PAS domain S-box;product=diguanylate cyclase
+scaffold00006	.	gene	77876	79795	.	+	.	ID=2503273621;Note=PAS domain S-box;product=diguanylate cyclase
+scaffold00002	.	gene	601823	604696	.	-	.	ID=2503279019;Note=PAS domain S-box;product=diguanylate cyclase
+contig00278	.	gene	3	530	.	-	.	ID=2503279275;Note=PAS fold;product=hypothetical protein
 scaffold00003	.	gene	431328	432164	.	+	.	ID=2503274511;product=PEP phosphonomutase
 scaffold00007	.	gene	1227129	1227998	.	+	.	ID=2503276966;product=PEP phosphonomutase
 scaffold00003	.	gene	1789279	1790076	.	-	.	ID=2503275707;product=PEP phosphonomutase
-scaffold00003	.	gene	120096	121829	.	+	.	ID=2503274235;Note=PTS system, fructose-specific, IIB component/PTS system, fructose subfamily, IIC component
-scaffold00003	.	gene	356692	359205	.	-	.	ID=2503274442;Note=PTS system, glucose subfamily, IIA component
-contig00083	.	gene	232	777	.	-	.	ID=2503275859;Note=PTS system, glucose-like IIB component
-scaffold00003	.	gene	354941	356656	.	-	.	ID=2503274441;Note=PTS system, glucose-like IIB component
+scaffold00003	.	gene	120096	121829	.	+	.	ID=2503274235;Note=PTS system, fructose-specific, IIB component/PTS system, fructose subfamily, IIC component;product=hypothetical protein
+scaffold00003	.	gene	356692	359205	.	-	.	ID=2503274442;Note=PTS system, glucose subfamily, IIA component;product=hypothetical protein
+contig00083	.	gene	232	777	.	-	.	ID=2503275859;Note=PTS system, glucose-like IIB component;product=hypothetical protein
+scaffold00003	.	gene	354941	356656	.	-	.	ID=2503274441;Note=PTS system, glucose-like IIB component;product=hypothetical protein
 scaffold00004	.	gene	988227	990530	.	-	.	ID=2503278122;product=Paraquat-inducible protein B
 scaffold00007	.	gene	282017	283672	.	-	.	ID=2503276101;product=Paraquat-inducible protein B
 scaffold00007	.	gene	94980	95927	.	+	.	ID=2503275949;product=Parvulin-like peptidyl-prolyl isomerase
