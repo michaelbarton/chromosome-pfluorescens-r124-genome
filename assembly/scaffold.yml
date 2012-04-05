@@ -180,8 +180,8 @@
         reverse: true
       -
         source: "s00003c00030c00031"
-        open: 1356315
-        close: 1357380
+        open: 139546
+        close: 140611
         reverse: true
       -
         source: "s00003c00019c00020"
@@ -189,8 +189,9 @@
         close: 518844
       -
         source: "s00003c00026c00027"
-        open: 1010023
-        close: 1011250
+        open: 485676
+        close: 486903
+        reverse: true
       -
         source: "s00003c00023c00024"
         open: 701170
