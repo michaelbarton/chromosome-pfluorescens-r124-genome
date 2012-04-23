@@ -2418,7 +2418,7 @@ scaffold00002	.	gene	680295	681398	.	+	.	ID=2503279087;product=DNA polymerase II
 scaffold00003	.	gene	335641	336069	.	-	.	ID=2503274426;product=DNA polymerase III%2C chi subunit
 scaffold00001	.	gene	195522	196559	.	+	.	ID=2503278320;product=DNA polymerase III%2C delta subunit
 scaffold00004	.	gene	255206	256189	.	-	.	ID=2503277455;product=DNA polymerase III%2C delta'' subunit
-scaffold00004	.	gene	974867	976600	.	+	.	ID=2503278111;product=DnaJ;fucntion=molecular chaperone
+scaffold00004	.	gene	974867	976600	.	+	.	ID=2503278111;product=DnaJ;function=molecular chaperone
 scaffold00006	.	gene	521036	521986	.	+	.	ID=2503274014;Name=DnaJ;product=molecular chaperone
 scaffold00002	.	gene	32314	33081	.	-	.	ID=2503278502;product=DnaJ-domain-containing protein 1
 scaffold00007	.	gene	1087812	1088216	.	-	.	ID=2503276828;product=DnaK suppressor protein
@@ -2757,7 +2757,7 @@ scaffold00003	.	gene	690578	691117	.	-	.	ID=2503274767;product=Inclusion body pr
 scaffold00003	.	gene	691242	691745	.	-	.	ID=2503274768;product=Inclusion body protein
 scaffold00002	.	gene	13608	14444	.	-	.	ID=2503278487;product=Indole-3-glycerol phosphate synthase
 scaffold00003	.	gene	1670756	1674403	.	+	.	ID=2503275606;product=Indolepyruvate ferredoxin oxidoreductase%2C alpha and beta subunits
-scaffold00004	.	gene	60852	61394	.	+	.	ID=2503277275;product=Inhibitor of the KinA pathway to sporulation;functon=exonuclease
+scaffold00004	.	gene	60852	61394	.	+	.	ID=2503277275;product=Inhibitor of the KinA pathway to sporulation;function=exonuclease
 scaffold00007	.	gene	584681	585553	.	+	.	ID=2503276360;product=Ku protein
 scaffold00002	.	gene	107146	108516	.	-	.	ID=2503278568;product=Inner membrane protein;Note=colicin E2 resistance
 scaffold00001	.	gene	231708	232235	.	+	.	ID=2503278355;product=Inorganic pyrophosphatase
