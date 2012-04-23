@@ -416,7 +416,7 @@ scaffold00003	.	gene	1452851	1453018	.	-	.	ID=2503275411;product=hypothetical pr
 scaffold00003	.	gene	1453253	1453924	.	+	.	ID=2503275412;product=hypothetical protein
 scaffold00003	.	gene	1454014	1454220	.	+	.	ID=2503275413;product=hypothetical protein
 scaffold00003	.	gene	1454233	1454427	.	+	.	ID=2503275414;product=hypothetical protein
-scaffold00003	.	gene	1464223	1464298	.	+	.	ID=2503275425;product=tRNA-Xxx;feature_type=tRNA-Xxx%2CtRNA
+scaffold00003	.	gene	1464223	1464298	.	+	.	ID=2503275425;product=tRNA-Xxx;feature_type=tRNA
 scaffold00003	.	gene	1470210	1471106	.	+	.	ID=2503275429;product=hypothetical protein
 scaffold00003	.	gene	1471341	1471490	.	+	.	ID=2503275430;product=hypothetical protein
 scaffold00003	.	gene	1489071	1489775	.	+	.	ID=2503275443;product=hypothetical protein
