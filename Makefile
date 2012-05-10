@@ -5,6 +5,9 @@ TEMPLATE=submission/template.sbt
 
 TABLE=genome.tbl
 FASTA=genome.fsa
+AGP=genome.agp
+
+all: genome.sqn genome.agp
 
 genome.sqn: $(FASTA) $(TABLE) $(TEMPLATE)
 	tbl2asn -p . -t $(TEMPLATE) -M n
@@ -15,6 +18,9 @@ genome.gbf: $(FASTA) $(TABLE) $(TEMPLATE)
 genome.log: $(FASTA) $(TABLE) $(TEMPLATE)
 	tbl2asn -p . -V v -t $(TEMPLATE)
 	mv errorsummary.val $@
+
+$(AGP): $(SCAFFOLD) $(SEQUENCE)
+	genomer view agp > $@
 
 $(FASTA): $(SCAFFOLD) $(SEQUENCE)
 	genomer view fasta                                 \
