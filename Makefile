@@ -7,7 +7,7 @@ TABLE=genome.tbl
 FASTA=genome.fsa
 
 genome.sqn: $(FASTA) $(TABLE) $(TEMPLATE)
-	tbl2asn -p . -t $(TEMPLATE)
+	tbl2asn -p . -t $(TEMPLATE) -M n
 
 genome.gbf: $(FASTA) $(TABLE) $(TEMPLATE)
 	tbl2asn -p . -V b -t $(TEMPLATE)
@@ -18,7 +18,7 @@ genome.log: $(FASTA) $(TABLE) $(TEMPLATE)
 
 $(FASTA): $(SCAFFOLD) $(SEQUENCE)
 	genomer view fasta                                 \
-		--identifier=PRJNA46289                          \
+		--contigs                                        \
 		--organism='Pseudomonas fluorescens'             \
 		--strain='R124'                                  \
 		--gcode='11'                                     \
