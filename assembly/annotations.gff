@@ -1441,7 +1441,7 @@ scaffold00001	.	gene	6814	7230	.	+	.	ID=2503278142;product=hypothetical protein
 scaffold00001	.	gene	7320	7655	.	-	.	ID=2503278143;product=hypothetical protein
 scaffold00001	.	gene	7655	8410	.	-	.	ID=2503278144;product=hypothetical protein
 scaffold00001	.	gene	10868	12424	.	+	.	ID=2503278146;product=hypothetical protein
-scaffold00001	.	gene	12516	12860	.	+	.	ID=2503278147;product=hypothetical proteins
+scaffold00001	.	gene	12516	12860	.	+	.	ID=2503278147;product=hypothetical protein
 scaffold00001	.	gene	14458	15309	.	-	.	ID=2503278151;product=hypothetical protein
 scaffold00001	.	gene	21355	22251	.	+	.	ID=2503278159;product=Glutamyl- and glutaminyl-tRNA synthetases
 scaffold00001	.	gene	22329	22505	.	+	.	ID=2503278160;product=hypothetical protein
@@ -2249,8 +2249,8 @@ scaffold00006	.	gene	229136	230455	.	-	.	ID=2503273769;product=C-terminal peptid
 scaffold00003	.	gene	1099909	1101993	.	-	.	ID=2503275131;product=C-terminal peptidase
 scaffold00004	.	gene	763974	768614	.	+	.	ID=2503277908;product=hypothetical protein;Note=C-terminal region of Pasteurella multocida toxin residues 569-1285
 scaffold00003	.	gene	1278165	1278956	.	-	.	ID=2503275292;product=CAAX amino terminal protease
-scaffold00007	.	gene	257315	258010	.	-	.	ID=2503276079;product=hypothetical membrane protein
-contig00182	.	gene	106	486	.	-	.	ID=2503279276;product=hypothetical membrane protein
+scaffold00007	.	gene	257315	258010	.	-	.	ID=2503276079;product=membrane protein
+contig00182	.	gene	106	486	.	-	.	ID=2503279276;product=membrane protein
 scaffold00007	.	gene	692348	692908	.	-	.	ID=2503276496;product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
 scaffold00001	.	gene	2127	2984	.	-	.	ID=2503278138;product=CDP-diacylglycerol--serine O-phosphatidyltransferase
 scaffold00003	.	gene	467843	468649	.	+	.	ID=2503274544;product=CDP-diglyceride synthetase
@@ -2265,7 +2265,7 @@ scaffold00003	.	gene	1833483	1834454	.	+	.	ID=2503275746;product=Calcineurin-lik
 scaffold00004	.	gene	750102	751463	.	+	.	ID=2503277897;product=Carbohydrate-selective porin
 scaffold00004	.	gene	490092	491441	.	-	.	ID=2503277686;product=Carbohydrate-selective porin
 scaffold00007	.	gene	394281	395567	.	+	.	ID=2503276198;product=Carbohydrate-selective porin
-scaffold00001	.	gene	109787	111853	.	-	.	ID=2503278240;product=Carbon starvation protein%2C predicted membrane protein
+scaffold00001	.	gene	109787	111853	.	-	.	ID=2503278240;product=Carbon starvation protein;Note=predicted membrane protein
 scaffold00007	.	gene	1118594	1119253	.	+	.	ID=2503276863;product=Carbonic anhydrase
 scaffold00007	.	gene	370918	371577	.	+	.	ID=2503276176;product=Carbonic anhydrase
 scaffold00002	.	gene	766897	767628	.	-	.	ID=2503279168;product=Carbonic anhydrase
@@ -2352,9 +2352,9 @@ scaffold00007	.	gene	944442	944927	.	+	.	ID=2503276690;product=hypothetical prot
 scaffold00003	.	gene	585591	586085	.	-	.	ID=2503274664;product=hypothetical protein
 scaffold00006	.	gene	625492	625692	.	+	.	ID=2503274103;product=Copper chaperone;Name=cueZ
 scaffold00002	.	gene	705941	706855	.	+	.	ID=2503279110;product=Coproporphyrinogen III oxidase
-scaffold00007	.	gene	372010	372189	.	-	.	ID=2503276178;product=CsbD-like
-scaffold00004	.	gene	475278	475469	.	-	.	ID=2503277671;product=CsbD-like
-scaffold00007	.	gene	371674	371922	.	-	.	ID=2503276177;product=CsbD-like
+scaffold00007	.	gene	372010	372189	.	-	.	ID=2503276178;Name=csbD
+scaffold00004	.	gene	475278	475469	.	-	.	ID=2503277671;Name=csbD
+scaffold00007	.	gene	371674	371922	.	-	.	ID=2503276177;Name=csbD
 scaffold00006	.	gene	621962	622375	.	-	.	ID=2503274100;product=Cu(I)-responsive transcriptional regulator;Name=cueR
 scaffold00003	.	gene	1445844	1446362	.	+	.	ID=2503275403;product=Cupin
 scaffold00002	.	gene	469090	470235	.	-	.	ID=2503278902;product=Cyanate permease
@@ -3537,7 +3537,7 @@ scaffold00003	.	gene	1822621	1823379	.	+	.	ID=2503275735;product=Methyltransfera
 scaffold00004	.	gene	155723	156853	.	+	.	ID=2503277367;product=Methyltransferase
 scaffold00006	.	gene	590331	591080	.	+	.	ID=2503274073;product=Methyltransferase
 scaffold00007	.	gene	1197099	1198052	.	-	.	ID=2503276936;product=Methyltransferase
-scaffold00002	.	gene	434035	435528	.	+	.	ID=2503278873;product=Mg chelatase-related
+scaffold00002	.	gene	434035	435528	.	+	.	ID=2503278873;product=Mg chelatase
 scaffold00004	.	gene	126846	127652	.	+	.	ID=2503277344;product=Mg-dependent DNase
 scaffold00003	.	gene	114200	114976	.	-	.	ID=2503274231;product=Mg-dependent DNase
 contig00024	.	gene	318	524	.	-	.	ID=2503279281;product=Mg2+ and Co2+ transporter
@@ -4350,7 +4350,7 @@ scaffold00003	.	gene	1010489	1011277	.	-	.	ID=2503275049;product=Surface lipopro
 scaffold00007	.	gene	241300	242598	.	-	.	ID=2503276066;product=Tat-translocated enzyme
 scaffold00003	.	gene	1772095	1772478	.	-	.	ID=2503275691;product=Tautomerase enzyme
 scaffold00003	.	gene	1079970	1081121	.	+	.	ID=2503275111;product=Tellurite resistance protein
-scaffold00007	.	gene	615281	616582	.	-	.	ID=2503276396;product=Terminase-like
+scaffold00007	.	gene	615281	616582	.	-	.	ID=2503276396;product=Terminase
 scaffold00007	.	gene	887081	888823	.	+	.	ID=2503276640;product=hypothetical protein;Note=Tetratricopeptide repeat
 scaffold00006	.	gene	61244	63724	.	+	.	ID=2503273607;product=hypothetical protein;Note=Tetratricopeptide repeat
 scaffold00008	.	gene	20260	21237	.	+	.	ID=2503279241;product=Tfp pilus assembly protein%2C pilus retraction ATPase;Name=pilU
@@ -4942,8 +4942,8 @@ scaffold00006	.	gene	348655	349200	.	-	.	ID=2503273871;product=membrane protein
 scaffold00003	.	gene	252239	252739	.	+	.	ID=2503274355;product=membrane protein
 scaffold00002	.	gene	675700	677382	.	-	.	ID=2503279084;product=membrane protein insertase
 scaffold00003	.	gene	294052	295617	.	-	.	ID=2503274390;product=membrane protein involved in D-alanine export
-scaffold00004	.	gene	573766	574491	.	+	.	ID=2503277760;product=membrane protein/domain
-scaffold00004	.	gene	530706	531194	.	+	.	ID=2503277717;product=membrane protein/domain
+scaffold00004	.	gene	573766	574491	.	+	.	ID=2503277760;product=membrane protein
+scaffold00004	.	gene	530706	531194	.	+	.	ID=2503277717;product=membrane protein
 scaffold00007	.	gene	1261880	1263577	.	-	.	ID=2503276995;product=membrane-associated%2C metal-dependent hydrolase
 scaffold00007	.	gene	669230	670978	.	+	.	ID=2503276467;product=membrane-associated%2C metal-dependent hydrolase
 scaffold00004	.	gene	751690	754101	.	+	.	ID=2503277898;product=membrane-bound PQQ-dependent dehydrogenase
