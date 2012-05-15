@@ -3106,7 +3106,7 @@ scaffold00006	.	gene	51434	51985	.	-	.	ID=2503273596;product=Membrane-bound seri
 scaffold00007	.	gene	738680	739234	.	-	.	ID=2503276535;product=Mg-chelatase subunit;Name=chlD
 scaffold00007	.	gene	739339	740337	.	-	.	ID=2503276536;product=Mg-chelatase subunit;Name=chlI
 scaffold00004	.	gene	376511	377953	.	-	.	ID=2503277577;product=Mg2+ transporter;Name=mgtE
-scaffold00002	.	gene	88409	89173	.	+	.	ID=2503278552;product=molybdate transport repressor domain/molybdenum-pterin binding domain;Name=modE
+scaffold00002	.	gene	88409	89173	.	+	.	ID=2503278552;product=molybdate transport repressor;Note=molybdenum-pterin binding domain;Name=modE
 scaffold00003	.	gene	79579	80145	.	+	.	ID=2503274199;product=Molecular chaperone;Note=heat shock protein;Name=grpE
 scaffold00004	.	gene	578153	579154	.	+	.	ID=2503277764;product=ATPase;Name=moxR
 scaffold00003	.	gene	764805	765650	.	-	.	ID=2503274844;product=ATPase;Name=moxR
@@ -3122,7 +3122,7 @@ scaffold00003	.	gene	601364	602551	.	-	.	ID=2503274681;product=Na+/H+ antiporter
 scaffold00003	.	gene	375407	377215	.	-	.	ID=2503274462;product=-type Na+/H+ and K+/H+ antiporters;Name=nhaP
 scaffold00007	.	gene	453823	455166	.	+	.	ID=2503276248;product=-type Na+/H+ and K+/H+ antiporters;Name=nhaP
 scaffold00002	.	gene	197861	199126	.	+	.	ID=2503278644;product=-type Na+/H+ and K+/H+ antiporters;Name=nhaP
-scaffold00006	.	gene	357885	359627	.	-	.	ID=2503273880;product=-type Na+/H+ and K+/H+ antiporters with a unique C-terminal domain;Name=nhaP
+scaffold00006	.	gene	357885	359627	.	-	.	ID=2503273880;product=-type Na+/H+ and K+/H+ antiporters;Name=nhaP
 scaffold00007	.	gene	144963	145562	.	-	.	ID=2503275984;product=Nodulation protein S;Name=nodS
 scaffold00001	.	gene	80896	82119	.	-	.	ID=2503278215;product=Obg family GTPase;Name=cgtA
 scaffold00002	.	gene	34901	37699	.	+	.	ID=2503278505;product=Organic solvent tolerance protein;Name=ostA
@@ -3153,7 +3153,7 @@ scaffold00003	.	gene	368893	370125	.	-	.	ID=2503274454;product=Putative Mg2+ and
 scaffold00001	.	gene	188272	189111	.	+	.	ID=2503278314;product=Putative Mg2+ and Co2+ transporter;Name=corC
 scaffold00001	.	gene	214681	215043	.	-	.	ID=2503278340;product=Putative effector of murein hydrolase;Name=lrgA
 scaffold00003	.	gene	235970	236356	.	+	.	ID=2503274341;product=Putative effector of murein hydrolase;Name=lrgA
-scaffold00006	.	gene	178033	178473	.	+	.	ID=2503273715;product=Putative phospholipid-binding domain;Name=lysM
+scaffold00006	.	gene	178033	178473	.	+	.	ID=2503273715;Note=Putative phospholipid-binding domain;Name=lysM
 scaffold00007	.	gene	721253	721642	.	-	.	ID=2503276520;Name=yjgF
 scaffold00007	.	gene	333601	333882	.	+	.	ID=2503276140;Name=yjgF
 scaffold00007	.	gene	43045	43443	.	-	.	ID=2503275904;Name=yjgF
@@ -3944,9 +3944,9 @@ scaffold00003	.	gene	1041027	1041890	.	-	.	ID=2503275074;product=Pirin-related p
 scaffold00003	.	gene	1343240	1344106	.	+	.	ID=2503275325;product=Pirin-related protein
 scaffold00006	.	gene	225229	226533	.	-	.	ID=2503273766;product=hypothetical protein
 scaffold00001	.	gene	124600	124902	.	+	.	ID=2503278253;product=Plasmid maintenance system killer protein
-scaffold00007	.	gene	358961	359836	.	-	.	ID=2503276167;product=Plasmid replication region DNA-binding N-term
-scaffold00007	.	gene	289825	290541	.	-	.	ID=2503276107;product=Plasmid replication region DNA-binding N-term
-scaffold00007	.	gene	196035	197051	.	-	.	ID=2503276026;product=Plasmid replication region DNA-binding N-term
+scaffold00007	.	gene	358961	359836	.	-	.	ID=2503276167;product=Plasmid replication;Note=DNA-binding N-terminal
+scaffold00007	.	gene	289825	290541	.	-	.	ID=2503276107;product=Plasmid replication;Note=DNA-binding N-terminal
+scaffold00007	.	gene	196035	197051	.	-	.	ID=2503276026;product=Plasmid replication;Note=DNA-binding N-terminal
 scaffold00006	.	gene	256319	256651	.	-	.	ID=2503273790;product=Plasmid stabilization system protein
 scaffold00003	.	gene	55129	55374	.	+	.	ID=2503274176;product=Plasmid stability protein
 scaffold00007	.	gene	412474	412782	.	-	.	ID=2503276211;product=Plastocyanin
@@ -5147,13 +5147,13 @@ scaffold00006	.	gene	552176	553876	.	+	.	ID=2503274046;product=precorrin-3B C17-
 scaffold00006	.	gene	549465	550826	.	+	.	ID=2503274043;product=precorrin-3B synthase
 scaffold00007	.	gene	749010	749756	.	+	.	ID=2503276542;product=precorrin-4 C11-methyltransferase
 scaffold00007	.	gene	1218058	1218813	.	-	.	ID=2503276957;product=precorrin-6A synthase (deacetylating)
-scaffold00001	.	gene	64650	65051	.	-	.	ID=2503278199;product=prepilin-type N-terminal cleavage/methylation
-scaffold00007	.	gene	867499	868107	.	+	.	ID=2503276623;product=prepilin-type N-terminal cleavage/methylation
-scaffold00001	.	gene	69789	70262	.	-	.	ID=2503278204;product=prepilin-type N-terminal cleavage/methylation
-scaffold00001	.	gene	68633	69346	.	-	.	ID=2503278202;product=prepilin-type N-terminal cleavage/methylation
-scaffold00008	.	gene	21248	22564	.	+	.	ID=2503279242;product=prepilin-type N-terminal cleavage/methylation;Name=pilV
-scaffold00001	.	gene	42772	43212	.	-	.	ID=2503278175;product=prepilin-type N-terminal cleavage/methylation
-scaffold00001	.	gene	70394	70963	.	+	.	ID=2503278205;product=prepilin-type N-terminal cleavage/methylation
+scaffold00001	.	gene	64650	65051	.	-	.	ID=2503278199;product=prepilin cleavage/methylation
+scaffold00007	.	gene	867499	868107	.	+	.	ID=2503276623;product=prepilin cleavage/methylation
+scaffold00001	.	gene	69789	70262	.	-	.	ID=2503278204;product=prepilin cleavage/methylation
+scaffold00001	.	gene	68633	69346	.	-	.	ID=2503278202;product=prepilin cleavage/methylation
+scaffold00008	.	gene	21248	22564	.	+	.	ID=2503279242;product=prepilin cleavage/methylation;Name=pilV
+scaffold00001	.	gene	42772	43212	.	-	.	ID=2503278175;product=prepilin cleavage/methylation
+scaffold00001	.	gene	70394	70963	.	+	.	ID=2503278205;product=prepilin cleavage/methylation
 scaffold00001	.	gene	330099	330467	.	-	.	ID=2503278455;product=preprotein translocase;Name=secE
 scaffold00006	.	gene	256648	256920	.	-	.	ID=2503273791;product=prevent-host-death family protein
 scaffold00003	.	gene	1262465	1262722	.	-	.	ID=2503275275;product=prevent-host-death family protein
