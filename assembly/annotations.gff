@@ -3461,10 +3461,10 @@ scaffold00006	.	gene	397290	398741	.	+	.	ID=2503273906;product=Lipopolysaccharid
 scaffold00006	.	gene	395807	396541	.	+	.	ID=2503273904;product=Lipopolysaccharide kinase
 scaffold00006	.	gene	396538	397290	.	+	.	ID=2503273905;product=Lipopolysaccharide kinase
 scaffold00006	.	gene	395001	395807	.	+	.	ID=2503273903;product=Lipopolysaccharide kinase
-scaffold00004	.	gene	264274	264852	.	+	.	ID=2503277466;Name=MAF
-scaffold00003	.	gene	183649	184245	.	+	.	ID=2503274286;Name=MAF
-scaffold00003	.	gene	786215	786910	.	-	.	ID=2503274861;Name=MIP
-scaffold00004	.	gene	688526	689377	.	+	.	ID=2503277848;Name=MIP
+scaffold00004	.	gene	264274	264852	.	+	.	ID=2503277466;product=hypothetical protein
+scaffold00003	.	gene	183649	184245	.	+	.	ID=2503274286;product=hypothetical protein
+scaffold00003	.	gene	786215	786910	.	-	.	ID=2503274861;product=hypothetical protein
+scaffold00004	.	gene	688526	689377	.	+	.	ID=2503277848;product=hypothetical protein
 scaffold00002	.	gene	716292	717059	.	+	.	ID=2503279120;Name=terC
 scaffold00007	.	gene	734917	736476	.	-	.	ID=2503276533;Name=terC
 scaffold00003	.	gene	1452029	1452778	.	+	.	ID=2503275410;Name=terC
