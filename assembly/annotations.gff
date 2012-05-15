@@ -3638,13 +3638,13 @@ scaffold00007	.	gene	1186000	1187025	.	-	.	ID=2503276925;product=NADPH:quinone r
 scaffold00002	.	gene	371726	372703	.	+	.	ID=2503278812;product=NADPH:quinone reductase and related Zn-dependent oxidoreductases
 scaffold00007	.	gene	495669	496691	.	-	.	ID=2503276276;product=NADPH:quinone reductase and related Zn-dependent oxidoreductases
 scaffold00002	.	gene	704799	705776	.	-	.	ID=2503279109;product=NADPH:quinone reductase and related Zn-dependent oxidoreductases
-scaffold00007	.	gene	577069	577374	.	+	.	ID=2503276351;product=NIPSNAP
+scaffold00007	.	gene	577069	577374	.	+	.	ID=2503276351;product=transporter;Note=NIPSNAP
 scaffold00007	.	gene	1209639	1211024	.	-	.	ID=2503276948;product=NRAMP (natural resistance-associated macrophage protein) metal ion transporters
 scaffold00003	.	gene	208132	208437	.	+	.	ID=2503274312;product=NTP binding protein
 scaffold00007	.	gene	234536	235366	.	+	.	ID=2503276059;product=NTP pyrophosphohydrolases
 scaffold00002	.	gene	300947	301426	.	-	.	ID=2503278744;product=NTP pyrophosphohydrolase oxidative damage repair enzyme
 scaffold00004	.	gene	722424	722852	.	-	.	ID=2503277877;product=NTP pyrophosphohydrolase oxidative damage repair enzyme
-scaffold00003	.	gene	363758	364357	.	+	.	ID=2503274448;product=NUDIX
+scaffold00003	.	gene	363758	364357	.	+	.	ID=2503274448;product=phosphohydrolases;Note=NUDIX
 scaffold00007	.	gene	936015	937013	.	-	.	ID=2503276684;product=Na+-dependent transporter
 scaffold00003	.	gene	1083626	1084591	.	-	.	ID=2503275115;product=Na+-dependent transporter
 scaffold00003	.	gene	74346	75749	.	+	.	ID=2503274193;product=Na+-dependent transporter
