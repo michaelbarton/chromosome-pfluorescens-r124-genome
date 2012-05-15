@@ -2964,7 +2964,7 @@ scaffold00007	.	gene	227480	228181	.	+	.	ID=2503276051;product=Response regulato
 scaffold00004	.	gene	304997	305746	.	+	.	ID=2503277507;product=Response regulator;Name=cheY
 scaffold00002	.	gene	110139	110819	.	-	.	ID=2503278570;product=Response regulator;Name=cheY
 scaffold00002	.	gene	231171	231536	.	-	.	ID=2503278673;product=Response regulator;Name=cheY
-scaffold00003	.	gene	1211588	1212079	.	+	.	ID=2503275234;product=famliy;Name=rraA
+scaffold00003	.	gene	1211588	1212079	.	+	.	ID=2503275234;Name=rraA
 scaffold00004	.	gene	876205	877152	.	-	.	ID=2503278014;product=S-adenosyl-methyltransferase;Name=mraW
 scaffold00007	.	gene	1465080	1465688	.	+	.	ID=2503277190;product=SOS regulatory protein;Name=lexA
 scaffold00007	.	gene	820512	821129	.	-	.	ID=2503276592;product=SOS regulatory protein;Name=lexA
