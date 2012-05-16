@@ -1483,7 +1483,7 @@ scaffold00001	.	gene	185202	186530	.	+	.	ID=2503278311;product=tRNA-N(6)-(isopen
 scaffold00001	.	gene	187772	188266	.	+	.	ID=2503278313;product=hypothetical protein
 scaffold00001	.	gene	190737	191498	.	-	.	ID=2503278316;product=hypothetical protein
 scaffold00001	.	gene	191603	191926	.	-	.	ID=2503278317;product=hypothetical protein
-scaffold00001	.	gene	192182	194788	.	+	.	ID=2503278318;product=leucyl-tRNA synthetase%2C eubacterial and mitochondrial family
+scaffold00001	.	gene	192182	194788	.	+	.	ID=2503278318;product=leucyl-tRNA synthetase
 scaffold00001	.	gene	198434	199384	.	-	.	ID=2503278323;Name=mccF
 scaffold00001	.	gene	201183	201458	.	-	.	ID=2503278326;product=hypothetical protein
 scaffold00001	.	gene	207970	208437	.	-	.	ID=2503278332;product=hypothetical protein
