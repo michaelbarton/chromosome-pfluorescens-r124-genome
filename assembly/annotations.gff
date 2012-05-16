@@ -5265,7 +5265,6 @@ scaffold00006	.	gene	478034	478480	.	+	.	ID=2503273977;product=ribosomal protein
 scaffold00004	.	gene	171417	173105	.	-	.	ID=2503277381;product=ribosomal protein S1
 scaffold00001	.	gene	313563	313874	.	-	.	ID=2503278442;product=ribosomal protein S10
 scaffold00001	.	gene	318028	318399	.	-	.	ID=2503278446;product=ribosomal protein S12
-scaffold00003	.	gene	103266	103457	.	+	.	ID=2503274221;product=ribosomal protein S15
 scaffold00003	.	gene	372784	373035	.	+	.	ID=2503274457;product=ribosomal protein S16
 scaffold00006	.	gene	476854	477084	.	+	.	ID=2503273975;product=ribosomal protein S18
 scaffold00001	.	gene	310805	311080	.	-	.	ID=2503278437;product=ribosomal protein S19
