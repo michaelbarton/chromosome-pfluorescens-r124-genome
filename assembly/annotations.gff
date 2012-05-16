@@ -4670,11 +4670,11 @@ scaffold00007	.	gene	482552	482896	.	-	.	ID=2503276267;product=cupin
 scaffold00006	.	gene	430099	430707	.	+	.	ID=2503273934;product=esterase
 scaffold00007	.	gene	1213138	1213854	.	-	.	ID=2503276952;product=esterase
 scaffold00003	.	gene	319040	319696	.	-	.	ID=2503274410;product=esterase
-scaffold00003	.	gene	864032	866221	.	-	.	ID=2503274911;product=esterase of the alpha-beta hydrolase superfamily
-scaffold00007	.	gene	351070	351942	.	-	.	ID=2503276158;product=esterase of the alpha-beta hydrolase superfamily
-scaffold00003	.	gene	1123242	1124414	.	+	.	ID=2503275153;product=esterase of the alpha-beta hydrolase superfamily
-scaffold00004	.	gene	132665	133711	.	+	.	ID=2503277350;product=esterase of the alpha-beta hydrolase superfamily
-scaffold00006	.	gene	111073	111654	.	+	.	ID=2503273653;product=esterase of the alpha/beta hydrolase fold
+scaffold00003	.	gene	864032	866221	.	-	.	ID=2503274911;product=esterase;Note=alpha-beta hydrolase superfamily
+scaffold00007	.	gene	351070	351942	.	-	.	ID=2503276158;product=esterase;Note=alpha-beta hydrolase superfamily
+scaffold00003	.	gene	1123242	1124414	.	+	.	ID=2503275153;product=esterase;Note=alpha-beta hydrolase superfamily
+scaffold00004	.	gene	132665	133711	.	+	.	ID=2503277350;product=esterase;Note=alpha-beta hydrolase superfamily
+scaffold00006	.	gene	111073	111654	.	+	.	ID=2503273653;product=esterase;Note=alpha/beta hydrolase fold
 scaffold00004	.	gene	142688	144052	.	+	.	ID=2503277357;product=ethanolamine permease
 scaffold00001	.	gene	225487	226857	.	+	.	ID=2503278349;product=ethanolamine permease
 scaffold00007	.	gene	806964	809597	.	-	.	ID=2503276583;product=excinuclease ABC%2C A subunit
