@@ -4098,7 +4098,7 @@ scaffold00003	.	gene	703541	708718	.	+	.	ID=2503274782;product=RTX toxins and re
 scaffold00003	.	gene	590667	592811	.	+	.	ID=2503274672;product=Rad3-related DNA helicase
 scaffold00007	.	gene	458302	460587	.	-	.	ID=2503276252;product=Rad3-related DNA helicase
 scaffold00001	.	gene	194877	195482	.	+	.	ID=2503278319;product=Rare lipoprotein B
-scaffold00001	.	gene	13141	13413	.	+	.	ID=2503278148;product=Regulator of competence-specific genes
+scaffold00001	.	gene	13141	13413	.	+	.	ID=2503278148;product=Competence-specific regulator
 scaffold00002	.	gene	410503	410961	.	-	.	ID=2503278848;product=Regulator of sigma D
 scaffold00007	.	gene	318663	321017	.	+	.	ID=2503276133;product=Response regulator
 contig00077	.	gene	3	329	.	-	.	ID=2503278132;product=Response regulator;Note=Containing CheY-like receiver domain and AraC-type DNA-binding domain
