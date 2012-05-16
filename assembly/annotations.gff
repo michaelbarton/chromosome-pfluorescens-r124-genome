@@ -4043,12 +4043,12 @@ scaffold00007	.	gene	598399	599040	.	-	.	ID=2503276376;product=threonine efflux 
 scaffold00002	.	gene	234417	234989	.	+	.	ID=2503278677;product=transcriptional regulator
 scaffold00002	.	gene	235507	236013	.	+	.	ID=2503278679;product=Pyrimidine operon attenuation protein/uracil phosphoribosyltransferase
 scaffold00004	.	gene	189351	190145	.	-	.	ID=2503277394;product=Pyrroloquinoline quinone (Coenzyme PQQ) biosynthesis protein C
-scaffold00003	.	gene	1701478	1702713	.	-	.	ID=2503275637;product=Pyruvate/2-oxoglutarate dehydrogenase complex%2C dehydrogenase (E1) component%2C eukaryotic type%2C alpha subunit
-scaffold00003	.	gene	1700418	1701476	.	-	.	ID=2503275636;product=Pyruvate/2-oxoglutarate dehydrogenase complex%2C dehydrogenase (E1) component%2C eukaryotic type%2C beta subunit
-scaffold00003	.	gene	1699137	1700417	.	-	.	ID=2503275635;product=Pyruvate/2-oxoglutarate dehydrogenase complex%2C dihydrolipoamide acyltransferase (E2) component
-contig00271	.	gene	3	569	.	-	.	ID=2503279207;product=Pyruvate/2-oxoglutarate dehydrogenase complex%2C dihydrolipoamide dehydrogenase (E3) component
-scaffold00007	.	gene	1445790	1447184	.	-	.	ID=2503277179;product=Pyruvate/2-oxoglutarate dehydrogenase complex%2C dihydrolipoamide dehydrogenase (E3) component
-contig00085	.	gene	3	404	.	-	.	ID=2503275848;product=Pyruvate/2-oxoglutarate dehydrogenase complex%2C dihydrolipoamide dehydrogenase (E3) component
+scaffold00003	.	gene	1701478	1702713	.	-	.	ID=2503275637;product=Pyruvate/2-oxoglutarate dehydrogenase complex%2C alpha subunit
+scaffold00003	.	gene	1700418	1701476	.	-	.	ID=2503275636;product=Pyruvate/2-oxoglutarate dehydrogenase complex%2C beta subunit
+scaffold00003	.	gene	1699137	1700417	.	-	.	ID=2503275635;product=Pyruvate/2-oxoglutarate dehydrogenase complex;Note=dihydrolipoamide acyltransferase (E2) component
+contig00271	.	gene	3	569	.	-	.	ID=2503279207;product=Pyruvate/2-oxoglutarate dehydrogenase complex;Note=dihydrolipoamide dehydrogenase (E3) component
+scaffold00007	.	gene	1445790	1447184	.	-	.	ID=2503277179;product=Pyruvate/2-oxoglutarate dehydrogenase complex;Note=dihydrolipoamide dehydrogenase (E3) component
+contig00085	.	gene	3	404	.	-	.	ID=2503275848;product=Pyruvate/2-oxoglutarate dehydrogenase complex;Note=dihydrolipoamide dehydrogenase (E3) component
 scaffold00007	.	gene	1313438	1313857	.	-	.	ID=2503277040;product=RDD family
 scaffold00006	.	gene	201002	201682	.	+	.	ID=2503273738;product=hypothetical protein
 scaffold00007	.	gene	1306276	1307304	.	-	.	ID=2503277034;product=RNA 3''-phosphate cyclase
