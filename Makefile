@@ -27,7 +27,10 @@ $(CONTIGSQN): $(CONTIG) $(TABLE) $(TEMPLATE)
 	tbl2asn -p . -M n -t $(TEMPLATE) -i $(CONTIG)
 
 $(AGP): $(SCAFFOLD) $(SEQUENCE)
-	genomer view agp > $@
+	genomer view agp \
+		| ssed -R 's/(?<=N\t)(scaffold)([\w\s]+).+/\1\2align_genus/' \
+		| ssed -R 's/(?<=N\t)(contig)([\w\s]+).+/\1\2paired_ends/'   \
+		> $@
 
 $(GENOME): $(SCAFFOLD) $(SEQUENCE)
 	genomer view fasta                                 \
