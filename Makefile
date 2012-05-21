@@ -4,25 +4,32 @@ ANNTTION=assembly/sequence.fna
 TEMPLATE=submission/template.sbt
 
 TABLE=genome.tbl
-CONTIGS=genome.contigs
-FASTA=genome.fsa
 AGP=genome.agp
-SQN=genome.sqn
+
+CONTIG=contig.fsa
+GENOME=genome.fsa
+
+GENOMESQN=genome.sqn
+CONTIGSQN=contig.sqn
+
 LOG=genome.val
 
-all: $(AGP) $(SQN) $(LOG)
+all: $(AGP) $(GENOMESQN) $(CONTIGSQN) $(LOG)
 
-$(LOG): $(FASTA) $(TABLE) $(TEMPLATE)
+$(LOG): $(GENOME) $(TABLE) $(TEMPLATE)
 	tbl2asn -p . -M n -t $(TEMPLATE) -Z $@
 	rm -f errorsummary.val
 
-$(SQN): $(FASTA) $(TABLE) $(TEMPLATE)
-	tbl2asn -p . -t $(TEMPLATE)
+$(GENOMESQN): $(GENOME) $(TABLE) $(TEMPLATE)
+	tbl2asn -p . -t $(TEMPLATE) -i $(GENOME)
+
+$(CONTIGSQN): $(CONTIG) $(TABLE) $(TEMPLATE)
+	tbl2asn -p . -M n -t $(TEMPLATE) -i $(CONTIG)
 
 $(AGP): $(SCAFFOLD) $(SEQUENCE)
 	genomer view agp > $@
 
-$(FASTA): $(SCAFFOLD) $(SEQUENCE)
+$(GENOME): $(SCAFFOLD) $(SEQUENCE)
 	genomer view fasta                                 \
 		--identifier='PRJNA46289'                        \
 		--organism='Pseudomonas fluorescens'             \
@@ -34,13 +41,12 @@ $(FASTA): $(SCAFFOLD) $(SEQUENCE)
 		--completeness='Complete'                        \
 		> $@
 
-$(CONTIGS): $(SCAFFOLD) $(SEQUENCE)
+$(CONTIG): $(SCAFFOLD) $(SEQUENCE)
 	genomer view fasta                                 \
 		--contigs                                        \
 		--organism='Pseudomonas fluorescens'             \
 		--strain='R124'                                  \
 		--gcode='11'                                     \
-		--topology='circular'                            \
 		--isolation-source='Orthoquartzite Cave Surface' \
 		--collection-date='17-Oct-2007'                  \
 		--completeness='Complete'                        \
@@ -55,4 +61,4 @@ $(TABLE): $(SCAFFOLD) $(SEQUENCE) $(ANNTTION)
 		> $@
 
 clean:
-	rm genome.*
+	rm -f genome.* rm contig.*
