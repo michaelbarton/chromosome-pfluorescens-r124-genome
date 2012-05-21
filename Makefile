@@ -21,7 +21,7 @@ $(LOG): $(GENOME) $(TABLE) $(TEMPLATE)
 	rm -f errorsummary.val
 
 $(GENOMESQN): $(GENOME) $(TABLE) $(TEMPLATE)
-	tbl2asn -p . -t $(TEMPLATE) -i $(GENOME)
+	tbl2asn -p . -t $(TEMPLATE) -i $(GENOME) -c b
 
 $(CONTIGSQN): $(CONTIG) $(TABLE) $(TEMPLATE)
 	tbl2asn -p . -M n -t $(TEMPLATE) -i $(CONTIG)
