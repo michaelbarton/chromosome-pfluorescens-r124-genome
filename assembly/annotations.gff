@@ -815,8 +815,8 @@ scaffold00002	.	gene	522755	523948	.	-	.	ID=2503278952;product=type VI secretion
 scaffold00002	.	gene	523967	524107	.	-	.	ID=2503278953;product=hypothetical protein
 scaffold00002	.	gene	52541	54505	.	+	.	ID=2503278521;product=DNA primase%2C catalytic core
 scaffold00002	.	gene	525969	528626	.	-	.	ID=2503278955;Name=clpV
-scaffold00002	.	gene	528638	529645	.	-	.	ID=2503278956;product=type VI secretion protein
-scaffold00002	.	gene	529609	531396	.	-	.	ID=2503278957;product=type VI secretion protein
+scaffold00002	.	gene	528638	529645	.	-	.	ID=2503278956;product=type VI secretion protein;Note=overlaps another CDS with the same product name
+scaffold00002	.	gene	529609	531396	.	-	.	ID=2503278957;product=type VI secretion protein;Note=overlaps another CDS with the same product name
 scaffold00002	.	gene	531424	531876	.	-	.	ID=2503278958;product=hypothetical protein
 scaffold00002	.	gene	531873	532094	.	-	.	ID=2503278959;product=hypothetical protein
 scaffold00002	.	gene	532117	532524	.	-	.	ID=2503278960;product=hypothetical protein
@@ -924,10 +924,10 @@ scaffold00002	.	gene	645830	646798	.	+	.	ID=2503279057;product=GDP-mannose 4%2C6
 scaffold00002	.	gene	646802	648244	.	+	.	ID=2503279058;product=mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase
 scaffold00002	.	gene	648245	649042	.	+	.	ID=2503279059;product=ABC polysaccharide/polyol phosphate export system%2C permease component
 scaffold00002	.	gene	649042	650295	.	+	.	ID=2503279060;product=ABC polysaccharide/polyol phosphate transport system%2C ATPase component
-scaffold00002	.	gene	650292	651659	.	+	.	ID=2503279061;product=Glycosyltransferase
-scaffold00002	.	gene	651643	652773	.	+	.	ID=2503279062;product=Glycosyltransferase
+scaffold00002	.	gene	650292	651659	.	+	.	ID=2503279061;product=Glycosyltransferase;Note=overlaps another CDS with the same product name
+scaffold00002	.	gene	651643	652773	.	+	.	ID=2503279062;product=Glycosyltransferase;Note=overlaps another CDS with the same product name
 scaffold00002	.	gene	65239	67656	.	+	.	ID=2503278530;product=coenzyme PQQ biosynthesis peptidase;Name=pqqF
-scaffold00002	.	gene	652774	653904	.	+	.	ID=2503279063;product=Glycosyltransferase
+scaffold00002	.	gene	652774	653904	.	+	.	ID=2503279063;product=Glycosyltransferase;Note=overlaps another CDS with the same product name
 scaffold00002	.	gene	654046	656076	.	-	.	ID=2503279064;product=Flavodoxin reductase
 scaffold00002	.	gene	656137	656763	.	-	.	ID=2503279065;product=Glutathione S-transferase
 scaffold00002	.	gene	657868	659700	.	-	.	ID=2503279067;product=glucosamine--fructose-6-phosphate aminotransferase
@@ -1092,9 +1092,9 @@ scaffold00002	.	gene	94694	96871	.	+	.	ID=2503278557;product=malate synthase G
 scaffold00002	.	gene	97076	97522	.	-	.	ID=2503278558;product=Response regulator;Note=Containing CheY-like receiver%2C AAA-type ATPase%2C and DNA-binding domains
 scaffold00002	.	gene	97776	99716	.	+	.	ID=2503278559;product=signal-transduction protein
 scaffold00002	.	gene	99713	100420	.	+	.	ID=2503278560;product=exonuclease%2C DNA polymerase III%2C epsilon subunit family
-scaffold00003	.	gene	1000745	1003828	.	+	.	ID=2503275044;product=Cation/multidrug efflux pump
+scaffold00003	.	gene	1000745	1003828	.	+	.	ID=2503275044;product=Cation/multidrug efflux pump;Note=overlaps another CDS with the same product name
 scaffold00003	.	gene	10020	11288	.	+	.	ID=2503274133;product=diguanylate cyclase
-scaffold00003	.	gene	1003818	1006940	.	+	.	ID=2503275045;product=Cation/multidrug efflux pump
+scaffold00003	.	gene	1003818	1006940	.	+	.	ID=2503275045;product=Cation/multidrug efflux pump;Note=overlaps another CDS with the same product name
 scaffold00003	.	gene	1006941	1008476	.	+	.	ID=2503275046;Name=nodT
 scaffold00003	.	gene	1008544	1009458	.	+	.	ID=2503275047;product=hypothetical protein
 scaffold00003	.	gene	1009475	1010299	.	-	.	ID=2503275048;product=HAD-superfamily hydrolase%2C subfamily IIB
@@ -1108,10 +1108,10 @@ scaffold00003	.	gene	1016623	1018281	.	+	.	ID=2503275055;product=SSS sodium solu
 scaffold00003	.	gene	101752	102150	.	+	.	ID=2503274218;product=ribosome-binding factor A
 scaffold00003	.	gene	1020524	1021813	.	-	.	ID=2503275056;product=citrate synthase I
 scaffold00003	.	gene	102155	103072	.	+	.	ID=2503274219;product=tRNA pseudouridine 55 synthase
-scaffold00003	.	gene	1022294	1022551	.	+	.	ID=2503275057;product=succinate dehydrogenase
-scaffold00003	.	gene	1022545	1022913	.	+	.	ID=2503275058;product=succinate dehydrogenase
-scaffold00003	.	gene	1022917	1024689	.	+	.	ID=2503275059;product=succinate dehydrogenase
-scaffold00003	.	gene	1024701	1025405	.	+	.	ID=2503275060;product=succinate dehydrogenase and fumarate reductase iron-sulfur protein
+scaffold00003	.	gene	1022294	1022551	.	+	.	ID=2503275057;product=succinate dehydrogenase;Note=overlaps another CDS with the same product name
+scaffold00003	.	gene	1022545	1022913	.	+	.	ID=2503275058;product=succinate dehydrogenase;Note=overlaps another CDS with the same product name
+scaffold00003	.	gene	1022917	1024689	.	+	.	ID=2503275059;product=succinate dehydrogenase;Note=overlaps another CDS with the same product name
+scaffold00003	.	gene	1024701	1025405	.	+	.	ID=2503275060;product=succinate dehydrogenase;Note=overlaps another CDS with the same product name
 scaffold00003	.	gene	1025665	1028496	.	+	.	ID=2503275061;product=2-oxoglutarate dehydrogenase
 scaffold00003	.	gene	1028539	1029762	.	+	.	ID=2503275062;product=2-oxoglutarate dehydrogenase complex dihydrolipoamide succinyltransferase
 scaffold00003	.	gene	1029860	1031296	.	+	.	ID=2503275063;product=dihydrolipoamide dehydrogenase
@@ -1761,8 +1761,8 @@ scaffold00003	.	gene	1751624	1752259	.	-	.	ID=2503275674;product=hypothetical pr
 scaffold00003	.	gene	1752389	1752961	.	-	.	ID=2503275675;product=hypothetical protein
 scaffold00003	.	gene	1753020	1755560	.	-	.	ID=2503275676;Name=clpV
 scaffold00003	.	gene	175335	175715	.	-	.	ID=2503274277;product=hypothetical protein
-scaffold00003	.	gene	1755562	1756587	.	-	.	ID=2503275677;product=type VI secretion protein
-scaffold00003	.	gene	1756551	1758344	.	-	.	ID=2503275678;product=type VI secretion protein
+scaffold00003	.	gene	1755562	1756587	.	-	.	ID=2503275677;product=type VI secretion protein;Note=overlaps another CDS with the same product name
+scaffold00003	.	gene	1756551	1758344	.	-	.	ID=2503275678;product=type VI secretion protein;Note=overlaps another CDS with the same product name
 scaffold00003	.	gene	175712	176773	.	-	.	ID=2503274278;product=K+-dependent Na+/Ca+ exchanger related-protein
 scaffold00003	.	gene	1758328	1758756	.	-	.	ID=2503275679;product=type VI secretion system lysozyme-related protein
 scaffold00003	.	gene	1758787	1759284	.	-	.	ID=2503275680;product=Hemolysin-coregulated protein
@@ -1853,10 +1853,10 @@ scaffold00003	.	gene	1848935	1849414	.	-	.	ID=2503275759;product=hypothetical pr
 scaffold00003	.	gene	1849414	1850019	.	-	.	ID=2503275760;product=hypothetical protein
 scaffold00003	.	gene	1850176	1851582	.	-	.	ID=2503275761;Name=nodT
 scaffold00003	.	gene	1851666	1852460	.	-	.	ID=2503275762;product=regulatory protein;Name=luxR
-scaffold00003	.	gene	1852949	1859362	.	+	.	ID=2503275763;product=amino acid adenylase
+scaffold00003	.	gene	1852949	1859362	.	+	.	ID=2503275763;product=amino acid adenylase;Note=overlaps another CDS with the same product name
 scaffold00003	.	gene	185837	189640	.	+	.	ID=2503274288;product=hypothetical protein
-scaffold00003	.	gene	1859631	1872644	.	+	.	ID=2503275764;product=amino acid adenylase
-scaffold00003	.	gene	1872641	1890484	.	+	.	ID=2503275765;product=amino acid adenylase
+scaffold00003	.	gene	1859631	1872644	.	+	.	ID=2503275764;product=amino acid adenylase;Note=overlaps another CDS with the same product name
+scaffold00003	.	gene	1872641	1890484	.	+	.	ID=2503275765;product=amino acid adenylase;Note=overlaps another CDS with the same product name
 scaffold00003	.	gene	1890551	1891699	.	+	.	ID=2503275766;product=RND family efflux transporter%2C MFP subunit
 scaffold00003	.	gene	1891702	1893657	.	+	.	ID=2503275767;product=ABC transport system%2C ATPase component
 scaffold00003	.	gene	1894883	1895674	.	-	.	ID=2503275768;product=hypothetical protein
@@ -3818,16 +3818,16 @@ scaffold00006	.	gene	395001	395807	.	+	.	ID=2503273903;product=Lipopolysaccharid
 scaffold00006	.	gene	395807	396541	.	+	.	ID=2503273904;product=Lipopolysaccharide kinase;Note=overlaps another CDS with the same product name
 scaffold00006	.	gene	396538	397290	.	+	.	ID=2503273905;product=Lipopolysaccharide kinase;Note=overlaps another CDS with the same product name
 scaffold00006	.	gene	39720	40616	.	+	.	ID=2503273586;product=Taurine catabolism dioxygenase
-scaffold00006	.	gene	397290	398741	.	+	.	ID=2503273906;product=Lipopolysaccharide kinase
+scaffold00006	.	gene	397290	398741	.	+	.	ID=2503273906;product=Lipopolysaccharide kinase;Note=overlaps another CDS with the same product name
 scaffold00006	.	gene	398955	399290	.	+	.	ID=2503273907;product=hypothetical protein
 scaffold00006	.	gene	399296	400150	.	+	.	ID=2503273908;product=hypothetical protein
 scaffold00006	.	gene	400376	402133	.	+	.	ID=2503273909;Name=nodU
 scaffold00006	.	gene	402117	403247	.	+	.	ID=2503273910;product=Glycosyltransferase
 scaffold00006	.	gene	403247	404143	.	+	.	ID=2503273911;product=hypothetical protein
 scaffold00006	.	gene	404152	405588	.	+	.	ID=2503273912;product=GlcNAc-PI de-N-acetylase
-scaffold00006	.	gene	405585	406739	.	+	.	ID=2503273913;product=Glycosyltransferase
+scaffold00006	.	gene	405585	406739	.	+	.	ID=2503273913;product=Glycosyltransferase;Note=overlaps another CDS with the same product name
 scaffold00006	.	gene	40635	41660	.	+	.	ID=2503273587;product=ABC nitrate/sulfonate/bicarbonate transport system%2C periplasmic component
-scaffold00006	.	gene	406736	407638	.	+	.	ID=2503273914;product=Glycosyltransferase
+scaffold00006	.	gene	406736	407638	.	+	.	ID=2503273914;product=Glycosyltransferase;Note=overlaps another CDS with the same product name
 scaffold00006	.	gene	407657	408874	.	-	.	ID=2503273915;product=acyltransferase
 scaffold00006	.	gene	4084	5085	.	-	.	ID=2503273571;product=Fe2+-dicitrate sensor%2C membrane component
 scaffold00006	.	gene	408874	410742	.	-	.	ID=2503273916;product=Lipid A core - O-antigen ligase
@@ -4199,8 +4199,8 @@ scaffold00007	.	gene	1103314	1104153	.	-	.	ID=2503276846;product=AraC-type DNA-b
 scaffold00007	.	gene	1104226	1104924	.	-	.	ID=2503276847;product=arsenical resistance protein;Name=arsH
 scaffold00007	.	gene	1104937	1105407	.	-	.	ID=2503276848;product=Protein-tyrosine-phosphatase
 scaffold00007	.	gene	1105433	1105780	.	-	.	ID=2503276849;product=transcriptional regulator
-scaffold00007	.	gene	1107258	1108109	.	+	.	ID=2503276851;product=Choline dehydrogenase
-scaffold00007	.	gene	1108106	1108927	.	+	.	ID=2503276852;product=Choline dehydrogenase
+scaffold00007	.	gene	1107258	1108109	.	+	.	ID=2503276851;product=Choline dehydrogenase;Note=overlaps another CDS with the same product name
+scaffold00007	.	gene	1108106	1108927	.	+	.	ID=2503276852;product=Choline dehydrogenase;Note=overlaps another CDS with the same product name
 scaffold00007	.	gene	1109055	1110677	.	+	.	ID=2503276853;product=Arabinose efflux permease
 scaffold00007	.	gene	1110877	1111245	.	-	.	ID=2503276854;product=hypothetical protein
 scaffold00007	.	gene	1111462	1112868	.	-	.	ID=2503276855;product=Matrixin
@@ -4348,9 +4348,9 @@ scaffold00007	.	gene	1267118	1267765	.	+	.	ID=2503276999;product=hypothetical pr
 scaffold00007	.	gene	1267787	1268815	.	+	.	ID=2503277000;product=Periplasmic protein;Note=involved in polysaccharide export
 scaffold00007	.	gene	1268837	1270429	.	+	.	ID=2503277001;product=hypothetical protein
 scaffold00007	.	gene	126957	127115	.	-	.	ID=2503275974;product=hypothetical protein
-scaffold00007	.	gene	1270426	1271517	.	+	.	ID=2503277002;product=Glycosyltransferase
+scaffold00007	.	gene	1270426	1271517	.	+	.	ID=2503277002;product=Glycosyltransferase;Note=overlaps another CDS with the same product name
 scaffold00007	.	gene	1271514	1272884	.	+	.	ID=2503277003;product=O-Antigen ligase
-scaffold00007	.	gene	1272881	1273849	.	+	.	ID=2503277004;product=Glycosyltransferase
+scaffold00007	.	gene	1272881	1273849	.	+	.	ID=2503277004;product=Glycosyltransferase;Note=overlaps another CDS with the same product name
 scaffold00007	.	gene	127332	129329	.	+	.	ID=2503275975;product=Glycosidase
 scaffold00007	.	gene	1273842	1274978	.	+	.	ID=2503277005;product=Glycosyltransferase
 scaffold00007	.	gene	1274992	1275993	.	+	.	ID=2503277006;product=xylanase/chitin deacetylase
@@ -4676,16 +4676,16 @@ scaffold00007	.	gene	26456	26839	.	+	.	ID=2503275887;product=hypothetical protei
 scaffold00007	.	gene	265419	266303	.	-	.	ID=2503276087;product=xylanase/chitin deacetylase
 scaffold00007	.	gene	266303	268294	.	-	.	ID=2503276088;product=Methionyl-tRNA formyltransferase
 scaffold00007	.	gene	268291	269322	.	-	.	ID=2503276089;product=Glycosyltransferase
-scaffold00007	.	gene	269319	269915	.	-	.	ID=2503276090;product=pyridoxal phosphate-dependent enzyme
+scaffold00007	.	gene	269319	269915	.	-	.	ID=2503276090;product=pyridoxal phosphate-dependent enzyme;Note=overlaps another CDS with the same product name
 scaffold00007	.	gene	26977	27051	.	+	.	feature_type=tRNA;Note=Codon: TTG;product=tRNA-Gln;ID=2503275888
-scaffold00007	.	gene	269912	270466	.	-	.	ID=2503276091;product=pyridoxal phosphate-dependent enzyme
+scaffold00007	.	gene	269912	270466	.	-	.	ID=2503276091;product=pyridoxal phosphate-dependent enzyme;Note=overlaps another CDS with the same product name
 scaffold00007	.	gene	270904	271794	.	+	.	ID=2503276092;product=Site-specific recombinase;Name=xerD
 scaffold00007	.	gene	271795	272853	.	-	.	ID=2503276093;product=ABC spermidine/putrescine transport system%2C ATPase component
 scaffold00007	.	gene	27224	27604	.	+	.	ID=2503275889;Name=yjgF
 scaffold00007	.	gene	272850	274445	.	-	.	ID=2503276094;product=ABC Fe3+ transport system%2C permease component
 scaffold00007	.	gene	274449	275462	.	-	.	ID=2503276095;product=ABC Fe3+ transport system%2C periplasmic component
-scaffold00007	.	gene	275649	277166	.	-	.	ID=2503276096;product=4-amino-4-deoxy-L-arabinose transferase;Note=glycosyltransferase of PMT family
-scaffold00007	.	gene	277163	278884	.	-	.	ID=2503276097;product=4-amino-4-deoxy-L-arabinose transferase;Note=glycosyltransferase of PMT family
+scaffold00007	.	gene	275649	277166	.	-	.	ID=2503276096;product=4-amino-4-deoxy-L-arabinose transferase;Note=overlaps another CDS with the same product name
+scaffold00007	.	gene	277163	278884	.	-	.	ID=2503276097;product=4-amino-4-deoxy-L-arabinose transferase;Note=overlaps another CDS with the same product name
 scaffold00007	.	gene	27801	29789	.	+	.	ID=2503275890;product=Collagenase
 scaffold00007	.	gene	279181	279861	.	-	.	ID=2503276098;product=Phosphoglycerate mutase family
 scaffold00007	.	gene	280178	281491	.	+	.	ID=2503276099;product=Signal transduction histidine kinase
