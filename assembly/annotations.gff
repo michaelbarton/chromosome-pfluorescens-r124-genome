@@ -283,7 +283,6 @@ scaffold00001	.	gene	300173	300559	.	-	.	ID=2503278416;product=ribosomal protein
 scaffold00001	.	gene	300602	301603	.	-	.	ID=2503278417;product=DNA-directed RNA polymerase%2C alpha subunit
 scaffold00001	.	gene	301626	302246	.	-	.	ID=2503278418;product=ribosomal protein S4
 scaffold00001	.	gene	302265	302654	.	-	.	ID=2503278419;product=30S ribosomal protein S11
-scaffold00001	.	gene	303009	303104	.	-	.	ID=2503278420;product=Translation initiation factor IF-3;feature_type=miscRNA
 scaffold00001	.	gene	303316	304644	.	-	.	ID=2503278421;Name=secY
 scaffold00001	.	gene	304645	305082	.	-	.	ID=2503278422;product=ribosomal protein L15
 scaffold00001	.	gene	305086	305262	.	-	.	ID=2503278423;product=ribosomal protein L30
