@@ -940,7 +940,7 @@ scaffold00002	.	gene	667094	667564	.	-	.	ID=2503279075;product=ATP synthase%2C F
 scaffold00002	.	gene	667624	667881	.	-	.	ID=2503279076;product=ATP synthase%2C F0 subunit c
 scaffold00002	.	gene	668015	668884	.	-	.	ID=2503279077;product=F0F1-type ATP synthase%2C subunit a
 scaffold00002	.	gene	668901	669308	.	-	.	ID=2503279078;product=F0F1-type ATP synthase%2C subunit I
-scaffold00002	.	gene	669457	670329	.	-	.	ID=2503279079;product=-like partition protein;Name=parB
+scaffold00002	.	gene	669457	670329	.	-	.	ID=2503279079;product=partition protein;Name=parB
 scaffold00002	.	gene	670339	671136	.	-	.	ID=2503279080;product=ATPase;Note=involved in chromosome partitioning
 scaffold00002	.	gene	671155	671799	.	-	.	ID=2503279081;product=16S rRNA methyltransferase;Name=gidB
 scaffold00002	.	gene	671796	673694	.	-	.	ID=2503279082;product=glucose-inhibited division protein A
@@ -3389,7 +3389,7 @@ scaffold00004	.	gene	819125	819454	.	+	.	ID=2503277963;product=hypothetical prot
 scaffold00004	.	gene	819480	820229	.	-	.	ID=2503277964;product=hypothetical protein
 scaffold00004	.	gene	820349	820723	.	+	.	ID=2503277965;product=hypothetical protein
 scaffold00004	.	gene	820834	821565	.	+	.	ID=2503277966;product=hypothetical protein
-scaffold00004	.	gene	821638	823557	.	+	.	ID=2503277967;product=-like phosphatase;Name=phoD
+scaffold00004	.	gene	821638	823557	.	+	.	ID=2503277967;product=phosphatase;Name=phoD
 scaffold00004	.	gene	823684	824856	.	-	.	ID=2503277968;product=acetylornithine and succinylornithine aminotransferase
 scaffold00004	.	gene	825920	826324	.	+	.	ID=2503277970;product=Acetyltransferase
 scaffold00004	.	gene	826335	827039	.	-	.	ID=2503277971;product=methionine-S-sulfoxide reductase
