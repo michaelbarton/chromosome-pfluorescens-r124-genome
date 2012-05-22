@@ -28,8 +28,8 @@ $(CONTIGSQN): $(CONTIG) $(TABLE) $(TEMPLATE)
 
 $(AGP): $(SCAFFOLD) $(SEQUENCE)
 	genomer view agp \
-		| ssed -R 's/(?<=N\t)(scaffold)([\w\s]+).+/\1\2align_genus/' \
-		| ssed -R 's/(?<=N\t)(contig)([\w\s]+).+/\1\2paired_ends/'   \
+		| ssed -R 's/(?<=N\t)([\d\s]+)(scaffold\tyes\t).+/\1\2align_genus/' \
+		| ssed -R 's/(?<=N\t)([\d\s]+)(contig\tyes\t).+/\1\2paired_ends/'   \
 		> $@
 
 $(GENOME): $(SCAFFOLD) $(SEQUENCE)
