@@ -58,8 +58,8 @@ $(CONTIG): $(SCAFFOLD) $(SEQUENCE)
 $(TABLE): $(SCAFFOLD) $(SEQUENCE) $(ANNTTION)
 	genomer view table                                \
 		--identifier=PRJNA46289                         \
-		--reset_locus_numbering                         \
-		--prefix='E1O_'                                 \
+		--reset_locus_numbering=52                      \
+		--prefix='E1A_'                                 \
 		--generate_encoded_features='gnl|BartonUAkron|' \
 		> $@
 
