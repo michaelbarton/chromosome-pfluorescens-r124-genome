@@ -1,6 +1,6 @@
 SCAFFOLD=assembly/scaffold.yml
 SEQUENCE=assembly/sequence.fna
-ANNTTION=assembly/sequence.fna
+ANNTTION=assembly/annotations.gff
 TEMPLATE=submission/template.sbt
 
 TABLE=genome.tbl
