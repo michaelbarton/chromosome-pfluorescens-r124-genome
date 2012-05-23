@@ -27,9 +27,9 @@ $(CONTIGSQN): $(CONTIG) $(TABLE) $(TEMPLATE)
 	tbl2asn -p . -M n -t $(TEMPLATE) -i $(CONTIG)
 
 $(AGP): $(SCAFFOLD) $(SEQUENCE)
-	genomer view agp 			    \
-		| sed -R 's/specified/align_genus/' \
-		| sed -R 's/internal/paired-ends/'  \
+	genomer view agp 	                 \
+		| sed 's/specified/align_genus/' \
+		| sed 's/internal/paired-ends/'  \
 		> $@
 
 $(GENOME): $(SCAFFOLD) $(SEQUENCE)
