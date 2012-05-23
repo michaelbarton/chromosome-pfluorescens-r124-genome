@@ -28,8 +28,8 @@ $(CONTIGSQN): $(CONTIG) $(TABLE) $(TEMPLATE)
 
 $(AGP): $(SCAFFOLD) $(SEQUENCE)
 	genomer view agp \
-		| ssed -R 's/specified/align_genus/' \
-		| ssed -R 's/internal/paired-ends/'   \
+		| sed -R 's/specified/align_genus/' \
+		| sed -R 's/internal/paired-ends/'   \
 		> $@
 
 $(GENOME): $(SCAFFOLD) $(SEQUENCE)
