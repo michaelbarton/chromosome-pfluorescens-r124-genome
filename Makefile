@@ -27,13 +27,13 @@ $(CONTIGSQN): $(CONTIG) $(TABLE) $(TEMPLATE)
 	tbl2asn -p . -M n -t $(TEMPLATE) -i $(CONTIG)
 
 $(AGP): $(SCAFFOLD) $(SEQUENCE)
-	genomer view agp \
+	genomer view agp 			    \
 		| sed -R 's/specified/align_genus/' \
-		| sed -R 's/internal/paired-ends/'   \
+		| sed -R 's/internal/paired-ends/'  \
 		> $@
 
 $(GENOME): $(SCAFFOLD) $(SEQUENCE)
-	genomer view fasta                                 \
+	genomer view fasta 	                                 \
 		--identifier='PRJNA46289'                        \
 		--organism='Pseudomonas fluorescens'             \
 		--strain='R124'                                  \
@@ -45,7 +45,7 @@ $(GENOME): $(SCAFFOLD) $(SEQUENCE)
 		> $@
 
 $(CONTIG): $(SCAFFOLD) $(SEQUENCE)
-	genomer view fasta                                 \
+	genomer view fasta					 \
 		--contigs                                        \
 		--organism='Pseudomonas fluorescens'             \
 		--strain='R124'                                  \
@@ -56,7 +56,7 @@ $(CONTIG): $(SCAFFOLD) $(SEQUENCE)
 		> $@
 
 $(TABLE): $(SCAFFOLD) $(SEQUENCE) $(ANNTTION)
-	genomer view table                                \
+	genomer view table					\
 		--identifier=PRJNA46289                         \
 		--reset_locus_numbering=52                      \
 		--prefix='E1A_'                                 \
