@@ -18,7 +18,7 @@ GEM
     genomer-plugin-validate (0.0.0)
       genomer (>= 0.0.4)
       heredoc_unindent (~> 1.1.0)
-    genomer-plugin-view (0.0.1)
+    genomer-plugin-view (0.0.2)
       genomer (>= 0.0.5)
     heredoc_unindent (1.1.2)
     hpricot (0.8.6)
@@ -44,4 +44,4 @@ PLATFORMS
 DEPENDENCIES
   genomer-plugin-summary (= 0.0.1)
   genomer-plugin-validate
-  genomer-plugin-view (= 0.0.1)
+  genomer-plugin-view (>= 0.0.1)
