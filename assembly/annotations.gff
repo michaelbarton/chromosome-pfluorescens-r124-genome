@@ -5405,3 +5405,6 @@ scaffold00008	.	gene	6471	6905	.	+	.	ID=2503279226;product=Transcription termina
 scaffold00008	.	gene	6989	7213	.	+	.	ID=2503279227;product=hypothetical protein
 scaffold00008	.	gene	7215	7562	.	+	.	ID=2503279228;Name=virB1
 scaffold00008	.	gene	7549	7875	.	+	.	ID=2503279229;Name=virB2
+scaffold00007	.	gene 	828429	829175	.	-	.	ID=2503276600;product=Transcriptional regulator
+scaffold00007	.	gene 	311796	312830	.	-	.	ID=2503276126;product=Zn-dependent alcohol dehydrogenases
+scaffold00003	.	gene	1320954	1322324 .	-	.	ID=2503275310;product=Zn-dependent dipeptidase
