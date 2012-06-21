@@ -4336,7 +4336,7 @@ scaffold00007	.	gene	305965	307380	.	-	.	ID=2503276122;product=glutamate decarbo
 scaffold00007	.	gene	308594	309175	.	-	.	ID=2503276123;product=Acetyltransferase
 scaffold00007	.	gene	309165	310193	.	-	.	ID=2503276124;product=zinc-binding alcohol dehydrogenase
 scaffold00007	.	gene	310294	311781	.	-	.	ID=2503276125;product=hydroxyethylthiazole kinase;Name=yjeF
-scaffold00007	.	gene	311796	312830	.	-	.	ID=2503276126;product=Zn-dependent alcohol dehydrogenases
+scaffold00007	.	gene	311796	312830	.	-	.	ID=2503276126;product=Zn-dependent alcohol dehydrogenase
 scaffold00007	.	gene	312898	314280	.	-	.	ID=2503276127;product=NAD-dependent aldehyde dehydrogenase
 scaffold00007	.	gene	314395	315048	.	-	.	ID=2503276128;product=periplasmic or secreted lipoprotein
 scaffold00007	.	gene	315259	315951	.	+	.	ID=2503276129;product=hypothetical protein
