@@ -5166,7 +5166,7 @@ scaffold00007	.	gene	1268837	1270429	.	+	.	ID=2503277001;product=hypothetical pr
 scaffold00007	.	gene	1270426	1271517	.	+	.	ID=2503277002;product=Glycosyltransferase;Note=overlaps another CDS with the same product name
 scaffold00007	.	gene	1271514	1272884	.	+	.	ID=2503277003;product=O-Antigen ligase
 scaffold00007	.	gene	1272881	1273849	.	+	.	ID=2503277004;product=Glycosyltransferase;Note=overlaps another CDS with the same product name
-scaffold00007	.	gene	1273842	1274978	.	+	.	ID=2503277005;product=Glycosyltransferase
+scaffold00007	.	gene	1273842	1274978	.	+	.	ID=2503277005;product=Glycosyltransferase;Note=overlaps another CDS with the same product name
 scaffold00007	.	gene	1274992	1275993	.	+	.	ID=2503277006;product=xylanase/chitin deacetylase
 scaffold00007	.	gene	1275990	1277294	.	+	.	ID=2503277007;product=Membrane protein involved in the export of O-antigen and teichoic acid
 scaffold00007	.	gene	1277291	1279210	.	+	.	ID=2503277008;product=hypothetical protein
