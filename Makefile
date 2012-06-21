@@ -5,6 +5,7 @@ TEMPLATE=submission/template.sbt
 
 TABLE=genome.tbl
 AGP=genome.agp
+GFF=genome.gff
 
 CONTIG=contig.fsa
 GENOME=genome.fsa
@@ -14,7 +15,7 @@ CONTIGSQN=contig.sqn
 
 LOG=genome.val
 
-all: $(AGP) $(GENOMESQN) $(CONTIGSQN) $(LOG)
+all: $(AGP) $(GENOMESQN) $(CONTIGSQN) $(LOG) $(GFF)
 
 $(LOG): $(GENOME) $(TABLE) $(TEMPLATE)
 	tbl2asn -p . -M n -t $(TEMPLATE) -Z $@
@@ -25,6 +26,12 @@ $(GENOMESQN): $(GENOME) $(TABLE) $(TEMPLATE)
 
 $(CONTIGSQN): $(CONTIG) $(TABLE) $(TEMPLATE)
 	tbl2asn -p . -M n -t $(TEMPLATE) -i $(CONTIG)
+
+$(GFF): $(SCAFFOLD) $(SEQUENCE) $(ANNTTION)
+	genomer view gff					\
+		--reset_locus_numbering=52                      \
+		--prefix='E1A_'                                 \
+		> $@
 
 $(AGP): $(SCAFFOLD) $(SEQUENCE)
 	genomer view agp 	                 \
