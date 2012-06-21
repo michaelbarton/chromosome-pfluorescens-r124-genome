@@ -2217,7 +2217,7 @@ scaffold00003	.	gene	1314394	1316874	.	-	.	ID=2503275306;product=TonB-dependent 
 scaffold00003	.	gene	1316989	1318638	.	-	.	ID=2503275307;product=cyclic peptide transporter
 scaffold00003	.	gene	1318747	1319634	.	-	.	ID=2503275308;product=hypothetical protein
 scaffold00003	.	gene	1319671	1320957	.	-	.	ID=2503275309;product=Selenocysteine lyase
-scaffold00003	.	gene 	1320954	1322324	.	-	.	ID=2503275310;product=Zn-dependent dipeptidase
+scaffold00003	.	gene	1320954	1322324	.	-	.	ID=2503275310;product=Zn-dependent dipeptidase
 scaffold00003	.	gene	1322532	1324154	.	+	.	ID=2503275311;product=hypothetical protein
 scaffold00003	.	gene	1324641	1326035	.	-	.	ID=2503275312;Name=nodT
 scaffold00003	.	gene	1326043	1328016	.	-	.	ID=2503275313;product=ABC transport system%2C ATPase component
@@ -4336,7 +4336,7 @@ scaffold00007	.	gene	305965	307380	.	-	.	ID=2503276122;product=glutamate decarbo
 scaffold00007	.	gene	308594	309175	.	-	.	ID=2503276123;product=Acetyltransferase
 scaffold00007	.	gene	309165	310193	.	-	.	ID=2503276124;product=zinc-binding alcohol dehydrogenase
 scaffold00007	.	gene	310294	311781	.	-	.	ID=2503276125;product=hydroxyethylthiazole kinase;Name=yjeF
-scaffold00007	.	gene 	311796	312830	.	-	.	ID=2503276126;product=Zn-dependent alcohol dehydrogenases
+scaffold00007	.	gene	311796	312830	.	-	.	ID=2503276126;product=Zn-dependent alcohol dehydrogenases
 scaffold00007	.	gene	312898	314280	.	-	.	ID=2503276127;product=NAD-dependent aldehyde dehydrogenase
 scaffold00007	.	gene	314395	315048	.	-	.	ID=2503276128;product=periplasmic or secreted lipoprotein
 scaffold00007	.	gene	315259	315951	.	+	.	ID=2503276129;product=hypothetical protein
@@ -4792,7 +4792,7 @@ scaffold00007	.	gene	823469	824209	.	-	.	ID=2503276596;product=ABC nitrate/sulfo
 scaffold00007	.	gene	824722	826125	.	-	.	ID=2503276597;product=ABC nitrate/sulfonate/bicarbonate transport system%2C periplasmic component
 scaffold00007	.	gene	826426	826671	.	-	.	ID=2503276598;product=Ferredoxin
 scaffold00007	.	gene	826697	828427	.	-	.	ID=2503276599;product=Succinate dehydrogenase/fumarate reductase%2C flavoprotein subunit
-scaffold00007	.	gene 	828429	829175	.	-	.	ID=2503276600;product=Transcriptional regulator
+scaffold00007	.	gene	828429	829175	.	-	.	ID=2503276600;product=Transcriptional regulator
 scaffold00007	.	gene	829399	830367	.	-	.	ID=2503276601;product=dehydrogenase
 scaffold00007	.	gene	830393	831280	.	-	.	ID=2503276602;product=Dyp-type peroxidase
 scaffold00007	.	gene	831513	832550	.	-	.	ID=2503276603;product=AraC-type DNA-binding protein
