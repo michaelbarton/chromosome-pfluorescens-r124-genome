@@ -6,6 +6,7 @@ TEMPLATE=submission/template.sbt
 TABLE=genome.tbl
 AGP=genome.agp
 GFF=genome.gff
+GBF=genome.gbf
 
 CONTIG=contig.fsa
 GENOME=genome.fsa
@@ -15,7 +16,10 @@ CONTIGSQN=contig.sqn
 
 LOG=genome.val
 
-all: $(AGP) $(GENOMESQN) $(CONTIGSQN) $(LOG) $(GFF)
+all: $(AGP) $(GENOMESQN) $(CONTIGSQN) $(LOG) $(GFF) $(GBF)
+
+$(GBF): $(GENOME) $(TABLE) $(TEMPLATE)
+	tbl2asn -p . -t $(TEMPLATE) -V b
 
 $(LOG): $(GENOME) $(TABLE) $(TEMPLATE)
 	tbl2asn -p . -M n -t $(TEMPLATE) -Z $@
