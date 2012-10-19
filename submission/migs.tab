@@ -1,0 +1,25 @@
+investigation_type	bacteria
+experimental_factor sampling site (efo:EFO_0000688)
+geo_loc_name	not reported
+lat_lon	not reported
+collection_date	2007-10-17
+biome	terrestrial (ENVO:00000446)
+feature	cave wall (ENVO:00002144)
+material	orthoquartzite sandstone (ENVO:00002055)
+env_package	misc. environment
+subspecf_gen_lin	ribosomal 16S genotype
+ploidy	monoploid (PATO:0001376)
+num_replicons	1
+extrachrom_elements	1
+estimated_size	6,250,000 bp
+source_mat_id	Barton Laboratory, University of Akron
+pathogenicity	Non-pathogenic
+biotic_relationship	Free living on cave wall surface
+tropic_level	chemoheterotroph
+encoded_traits	twitching motility
+rel_to_oxygen	facultive
+sample_collect_device	humic acid containing nutrient agar
+sample_mat_process	cell culturing (obo:OBI_0600036)
+seq_met	roche FLX titanium
+finishing_strategy	draft:24:77
+annot_source	microbial genomes resource
