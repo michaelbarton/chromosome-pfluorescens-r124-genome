@@ -1,7 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    binman (3.1.0)
+    binman (3.2.0)
     bio (1.4.3)
     configliere (0.4.17)
       highline (>= 1.5.2)
@@ -14,8 +14,9 @@ GEM
       scaffolder (~> 0.4.0)
       scaffolder-annotation-locator (>= 0.1.4)
       unindent (~> 1.0.0)
-    genomer-plugin-summary (0.0.2)
+    genomer-plugin-summary (0.0.3)
       genomer (>= 0.0.4)
+      lazing (>= 0.1.1)
       terminal-table (~> 1.4.5)
     genomer-plugin-validate (0.0.2)
       genomer (>= 0.0.6)
@@ -24,6 +25,7 @@ GEM
       genomer (>= 0.0.5)
     heredoc_unindent (1.1.2)
     highline (1.6.15)
+    lazing (0.1.1)
     md2man (1.2.1)
       binman (~> 3)
       redcarpet (~> 2.1)
@@ -42,6 +44,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  genomer-plugin-summary (= 0.0.2)
+  genomer-plugin-summary (= 0.0.3)
   genomer-plugin-validate (~> 0.0.0)
   genomer-plugin-view (>= 0.0.1)
