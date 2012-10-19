@@ -2,6 +2,7 @@ SCAFFOLD=assembly/scaffold.yml
 SEQUENCE=assembly/sequence.fna
 ANNTTION=assembly/annotations.gff
 TEMPLATE=submission/template.sbt
+COMMENTS=submission/migs.tab
 
 TABLE=genome.tbl
 AGP=genome.agp
@@ -19,17 +20,17 @@ LOG=genome.val
 all: $(AGP) $(GENOMESQN) $(CONTIGSQN) $(LOG) $(GFF) $(GBF)
 
 $(GBF): $(GENOME) $(TABLE) $(TEMPLATE)
-	tbl2asn -p . -t $(TEMPLATE) -V b
+	tbl2asn -p . -t $(TEMPLATE) -w $(COMMENTS) -V b
 
 $(LOG): $(GENOME) $(TABLE) $(TEMPLATE)
 	tbl2asn -p . -M n -t $(TEMPLATE) -Z $@
 	rm -f errorsummary.val
 
 $(GENOMESQN): $(GENOME) $(TABLE) $(TEMPLATE)
-	tbl2asn -p . -t $(TEMPLATE) -i $(GENOME) -c b
+	tbl2asn -p . -t $(TEMPLATE) -w $(COMMENTS) -i $(GENOME) -c b
 
 $(CONTIGSQN): $(CONTIG) $(TABLE) $(TEMPLATE)
-	tbl2asn -p . -M n -t $(TEMPLATE) -i $(CONTIG)
+	tbl2asn -p . -M n -t $(TEMPLATE) -w $(COMMENTS) -i $(CONTIG)
 
 $(GFF): $(SCAFFOLD) $(SEQUENCE) $(ANNTTION)
 	genomer view gff					\
