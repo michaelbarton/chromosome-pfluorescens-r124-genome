@@ -1,5 +1,6 @@
+StructuredCommentPrefix	MIGS-Data
 investigation_type	bacteria
-experimental_factor sampling site (efo:EFO_0000688)
+experimental_factor	sampling site (efo:EFO_0000688)
 geo_loc_name	not reported
 lat_lon	not reported
 collection_date	2007-10-17
@@ -13,8 +14,8 @@ num_replicons	1
 extrachrom_elements	1
 estimated_size	6,250,000 bp
 source_mat_id	Barton Laboratory, University of Akron
-pathogenicity	Non-pathogenic
-biotic_relationship	Free living on cave wall surface
+pathogenicity	non-pathogenic
+biotic_relationship	free living on cave wall surface
 tropic_level	chemoheterotroph
 encoded_traits	twitching motility
 rel_to_oxygen	facultive
