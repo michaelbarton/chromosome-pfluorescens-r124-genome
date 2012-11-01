@@ -46,7 +46,7 @@ $(AGP): $(SCAFFOLD) $(SEQUENCE)
 
 $(GENOME): $(SCAFFOLD) $(SEQUENCE)
 	genomer view fasta 	                                 \
-		--identifier='PRJNA46289'                        \
+		--identifier='PRJNA68653'                        \
 		--organism='Pseudomonas fluorescens'             \
 		--strain='R124'                                  \
 		--gcode='11'                                     \
@@ -69,7 +69,7 @@ $(CONTIG): $(SCAFFOLD) $(SEQUENCE)
 
 $(TABLE): $(SCAFFOLD) $(SEQUENCE) $(ANNTTION)
 	genomer view table					\
-		--identifier=PRJNA46289                         \
+		--identifier=PRJNA68653                         \
 		--reset_locus_numbering=52                      \
 		--prefix='E1A_'                                 \
 		--generate_encoded_features='gnl|BartonUAkron|' \
