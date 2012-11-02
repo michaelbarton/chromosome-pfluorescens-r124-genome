@@ -1,8 +1,8 @@
 StructuredCommentPrefix	MIGS-Data
 investigation_type	bacteria
 experimental_factor	sampling site (efo:EFO_0000688)
-geo_loc_name	not reported
-lat_lon	not reported
+geo_loc_name	withheld
+lat_lon	withheld
 collection_date	2007-10-17
 biome	terrestrial (ENVO:00000446)
 feature	cave wall (ENVO:00002144)
