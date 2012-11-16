@@ -1,5 +1,6 @@
 StructuredCommentPrefix	MIGS-Data
-investigation_type	bacteria
+project_name	Cave isolated Pseudomonas fluorescens R124
+investigation_type	bacteria_archaea
 experimental_factor	sampling site (efo:EFO_0000688)
 geo_loc_name	withheld
 lat_lon	withheld
@@ -13,6 +14,7 @@ ploidy	monoploid (PATO:0001376)
 num_replicons	1
 extrachrom_elements	1
 estimated_size	6,250,000 bp
+ref_biomaterial	"Hazel Barton, University of Akron"
 source_mat_id	Barton Laboratory, University of Akron
 pathogenicity	non-pathogenic
 biotic_relationship	free living on cave wall surface
@@ -24,3 +26,6 @@ sample_mat_process	cell culturing (obo:OBI_0600036)
 seq_met	roche FLX titanium
 finishing_strategy	draft:24:77
 annot_source	microbial genomes resource
+isol_growth_condt	missing
+seq_meth	454
+assembly	Newbler v. 02-20-2010
