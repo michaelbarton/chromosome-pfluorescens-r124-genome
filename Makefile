@@ -8,6 +8,7 @@ TABLE=genome.tbl
 AGP=genome.agp
 GFF=genome.gff
 GBF=genome.gbf
+MAP=genome.map
 
 CONTIG=contig.fsa
 GENOME=genome.fsa
@@ -17,7 +18,7 @@ CONTIGSQN=contig.sqn
 
 LOG=genome.val
 
-all: $(AGP) $(GENOMESQN) $(CONTIGSQN) $(LOG) $(GFF) $(GBF)
+all: $(AGP) $(GENOMESQN) $(CONTIGSQN) $(LOG) $(GFF) $(GBF) $(MAP)
 
 $(GBF): $(GENOME) $(TABLE) $(TEMPLATE)
 	tbl2asn -p . -t $(TEMPLATE) -w $(COMMENTS) -V b
@@ -31,6 +32,12 @@ $(GENOMESQN): $(GENOME) $(TABLE) $(TEMPLATE)
 
 $(CONTIGSQN): $(CONTIG) $(TABLE) $(TEMPLATE)
 	tbl2asn -p . -M n -t $(TEMPLATE) -w $(COMMENTS) -i $(CONTIG)
+
+$(MAP): $(SCAFFOLD) $(SEQUENCE) $(ANNTTION)
+	genomer view mapping					\
+		--reset_locus_numbering=52                      \
+		--prefix='I1A_'                                 \
+		> $@
 
 $(GFF): $(SCAFFOLD) $(SEQUENCE) $(ANNTTION)
 	genomer view gff					\
