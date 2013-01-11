@@ -35,7 +35,7 @@ $(CONTIGSQN): $(CONTIG) $(TABLE) $(TEMPLATE)
 $(GFF): $(SCAFFOLD) $(SEQUENCE) $(ANNTTION)
 	genomer view gff					\
 		--reset_locus_numbering=52                      \
-		--prefix='E1A_'                                 \
+		--prefix='I1A_'                                 \
 		> $@
 
 $(AGP): $(SCAFFOLD) $(SEQUENCE)
@@ -71,7 +71,7 @@ $(TABLE): $(SCAFFOLD) $(SEQUENCE) $(ANNTTION)
 	genomer view table					\
 		--identifier=PRJNA68653                         \
 		--reset_locus_numbering=52                      \
-		--prefix='E1A_'                                 \
+		--prefix='I1A_'                                 \
 		--generate_encoded_features='gnl|BartonUAkron|' \
 		> $@
 
